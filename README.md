@@ -1,8 +1,6 @@
-# About [pl-host-file]
+# About pl-host-file
 
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/pl-host-file.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/pl-host-file)
-
-[Description]
 
 --------------------------------------------------------------------------------
 
