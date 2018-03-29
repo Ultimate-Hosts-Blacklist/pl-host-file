@@ -9,6 +9,7 @@
             "intrack.pl",
             "openx.xenium.pl",
             "spanel.gem.pl"
-        ]
+        ],
+        "to_test": []
     }
 }
