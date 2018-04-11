@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/pl-host-file/domains.list": {
-        "1523186610": [
+        "1523448605": [
             "adserwer.intercon.pl",
             "adspiro.pl",
             "c.allegrostatic.pl",
@@ -8,6 +8,7 @@
             "ghm_bulgaria.hit.gemius.pl",
             "intrack.pl",
             "openx.xenium.pl",
+            "s1.delfilt.adocean.pl",
             "spanel.gem.pl"
         ],
         "to_test": [
