@@ -1,17 +1,18 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/pl-host-file/domains.list": {
-        "1526563502": [
+        "1526823616": [
             "adserwer.intercon.pl",
+            "adspiro.pl",
             "c.allegrostatic.pl",
             "code.new.smartcontext.pl",
             "ghm_bulgaria.hit.gemius.pl",
             "intrack.pl",
             "openx.xenium.pl",
             "s1.delfilt.adocean.pl",
-            "spanel.gem.pl",
-            "ad2.pl.mediainter.net",
-            "adspiro.pl"
+            "spanel.gem.pl"
         ],
-        "to_test": []
+        "to_test": [
+            "ad2.pl.mediainter.net"
+        ]
     }
 }
