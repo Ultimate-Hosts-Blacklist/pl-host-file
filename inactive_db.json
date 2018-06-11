@@ -1,17 +1,24 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/pl-host-file/domains.list": {
-        "1528464808": [
+        "1528724968": [
+            "2.googlenews.xorg.pl",
+            "3.googlenews.xorg.pl",
+            "4.googlenews.xorg.pl",
+            "5.googlenews.xorg.pl",
+            "ad2.pl.mediainter.net",
             "adserwer.intercon.pl",
+            "adspiro.pl",
             "c.allegrostatic.pl",
             "code.new.smartcontext.pl",
             "ghm_bulgaria.hit.gemius.pl",
+            "googlenews.xorg.pl",
             "intrack.pl",
             "openx.xenium.pl",
             "s1.delfilt.adocean.pl",
             "spanel.gem.pl"
         ],
         "to_test": [
-            "ad2.pl.mediainter.net"
+            "1.googlenews.xorg.pl"
         ]
     }
 }
