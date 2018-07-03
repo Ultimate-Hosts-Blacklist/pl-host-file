@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sun 01 Jul 13:07:43 UTC 2018 
+# Date of generation: Tue 03 Jul 13:07:31 UTC 2018 
 
 0.0.0.0 1.googlenews.xorg.pl 
 0.0.0.0 15minadlt.hit.gemius.pl 
@@ -58,6 +58,7 @@
 0.0.0.0 ads.comperia.pl 
 0.0.0.0 ads.edipresse.pl 
 0.0.0.0 ads.idg.com.pl 
+0.0.0.0 ads.newdb.mtp.pl 
 0.0.0.0 ads.novem.pl 
 0.0.0.0 ads.o2.pl 
 0.0.0.0 ads.open.pl 
@@ -77,12 +78,12 @@
 0.0.0.0 adserver2.atman.pl 
 0.0.0.0 adserwer.afilo.pl 
 0.0.0.0 adseu.novem.pl 
-0.0.0.0 adspiro.pl 
 0.0.0.0 adsrv.lua.pl 
 0.0.0.0 adstat.4u.pl 
 0.0.0.0 adtaily.pl 
 0.0.0.0 adtext.pl 
 0.0.0.0 adtotal.pl 
+0.0.0.0 adtrack1.pl 
 0.0.0.0 adv.adview.pl 
 0.0.0.0 adv.dot.wp.pl 
 0.0.0.0 adv.gazeta.pl 
