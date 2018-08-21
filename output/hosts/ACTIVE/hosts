@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sat 18 Aug 14:08:46 UTC 2018 
+# Date of generation: Tue 21 Aug 14:08:38 UTC 2018 
 
 0.0.0.0 1.googlenews.xorg.pl
 0.0.0.0 15minadlt.hit.gemius.pl
@@ -81,6 +81,7 @@
 0.0.0.0 adsrv.lua.pl
 0.0.0.0 adstat.4u.pl
 0.0.0.0 adtaily.pl
+0.0.0.0 adtext.pl
 0.0.0.0 adtotal.pl
 0.0.0.0 adtrack1.pl
 0.0.0.0 adv.adview.pl
