@@ -1,7 +1,9 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/pl-host-file/domains.list": {
-        "1535120214": [
+        "1535465844": [
+            "ad2.pl.mediainter.net",
             "adserwer.intercon.pl",
+            "adspiro.pl",
             "c.allegrostatic.pl",
             "code.new.smartcontext.pl",
             "intrack.pl",
@@ -9,8 +11,6 @@
             "s1.delfilt.adocean.pl",
             "spanel.gem.pl"
         ],
-        "to_test": [
-            "ad2.pl.mediainter.net"
-        ]
+        "to_test": []
     }
 }
