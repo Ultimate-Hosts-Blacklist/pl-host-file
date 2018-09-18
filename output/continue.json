@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/pl-host-file/domains.list": {
-        "down": 15,
+        "down": 0,
         "invalid": 0,
-        "tested": 371,
-        "up": 356
+        "tested": 0,
+        "up": 0
     }
 }
