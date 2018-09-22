@@ -1,10 +1,11 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Tue 18 Sep 14:09:40 UTC 2018 
+# Date of generation: Sat 22 Sep 14:09:49 UTC 2018 
 
 0.0.0.0 adfiles.o2.pl.sds.o2.pl
 0.0.0.0 ad.filmweb.pl
 0.0.0.0 adp.adview.pl
 0.0.0.0 adp.gazeta.pl
+0.0.0.0 adserver.gadu-gadu.pl
 0.0.0.0 adserver.pl
 0.0.0.0 adseu.novem.pl
 0.0.0.0 adtrack1.pl
@@ -23,6 +24,8 @@
 0.0.0.0 rec.quartic.pl
 0.0.0.0 rek.www.wp.pl
 0.0.0.0 s.di.com.pl
+0.0.0.0 static.clickonometrics.pl
+0.0.0.0 stats.asp24.pl
 0.0.0.0 xed.pl
 0.0.0.0 x.interia.pl
 0.0.0.0 xstatic.nk-net.pl
