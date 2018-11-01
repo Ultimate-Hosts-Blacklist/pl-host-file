@@ -60,6 +60,36 @@
             "expiration_date": "28-feb-2019",
             "state": "future"
         },
+        "arbomedia.pl": {
+            "epoch": "1553990400",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "blogvertising.pl": {
+            "epoch": "1542758400",
+            "expiration_date": "21-nov-2018",
+            "state": "future"
+        },
+        "contextad.pl": {
+            "epoch": "1556928000",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "gem.pl": {
+            "epoch": "1555027200",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "gemius.pl": {
+            "epoch": "1557878400",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "gostats.pl": {
+            "epoch": "1568764800",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
         "leadmy.pl": {
             "epoch": "1555027200",
             "expiration_date": "12-apr-2019",
@@ -68,6 +98,11 @@
         "playlink.pl": {
             "epoch": "1560902400",
             "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "xed.pl": {
+            "epoch": "1548892800",
+            "expiration_date": "31-jan-2019",
             "state": "future"
         }
     }
