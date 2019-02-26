@@ -90,6 +90,11 @@
             "expiration_date": "18-sep-2019",
             "state": "future"
         },
+        "hub.com.pl": {
+            "epoch": "1566777600",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
         "intrack.pl": {
             "epoch": "1573344000",
             "expiration_date": "10-nov-2019",
