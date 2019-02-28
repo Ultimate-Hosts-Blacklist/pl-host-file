@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/pl-host-file/domains.list": {
         "ad2.pl": {
-            "epoch": "1551225600",
-            "expiration_date": "27-feb-2019",
+            "epoch": "1582761600",
+            "expiration_date": "27-feb-2020",
             "state": "future"
         },
         "adkontekst.pl": {
@@ -21,8 +21,8 @@
             "state": "future"
         },
         "adspiro.pl": {
-            "epoch": "1542585600",
-            "expiration_date": "19-nov-2018",
+            "epoch": "1554163200",
+            "expiration_date": "02-apr-2019",
             "state": "future"
         },
         "adtaily.pl": {
@@ -56,8 +56,8 @@
             "state": "future"
         },
         "ankieta-online.pl": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "arbomedia.pl": {
