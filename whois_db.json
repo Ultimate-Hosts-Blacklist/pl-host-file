@@ -105,6 +105,11 @@
             "expiration_date": "12-apr-2019",
             "state": "future"
         },
+        "mystat.pl": {
+            "epoch": "1570579200",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
         "playlink.pl": {
             "epoch": "1560902400",
             "expiration_date": "19-jun-2019",
