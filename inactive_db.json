@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/pl-host-file/domains.list": {
-        "1552234307": [
+        "1552408156": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
@@ -16,7 +16,6 @@
             "s1.delfilt.adocean.pl",
             "spanel.gem.pl",
             "unblock.onaudience.com",
-            "www.adserver.pl",
             "www.adspiro.pl"
         ],
         "to_test": []
