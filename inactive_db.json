@@ -1,8 +1,11 @@
 {
     "api_call": {
-        "1557531157": [
-            "::1 localhost"
+        "1557679705": [
+            "1.googlenews.xorg.pl",
+            "code.new.smartcontext.pl"
         ],
-        "to_test": []
+        "to_test": [
+            "::1 localhost"
+        ]
     }
 }
