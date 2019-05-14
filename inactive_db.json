@@ -1,11 +1,18 @@
 {
     "api_call": {
-        "1557679705": [
-            "1.googlenews.xorg.pl",
-            "code.new.smartcontext.pl"
+        "1557853459": [
+            "2.googlenews.xorg.pl",
+            "3.googlenews.xorg.pl",
+            "4.googlenews.xorg.pl",
+            "broadcasthost",
+            "local",
+            "localhost.localdomain",
+            "openx.xenium.pl"
         ],
         "to_test": [
-            "::1 localhost"
+            "1.googlenews.xorg.pl",
+            "::1 localhost",
+            "code.new.smartcontext.pl"
         ]
     }
 }
