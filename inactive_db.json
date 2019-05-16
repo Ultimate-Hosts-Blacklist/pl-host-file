@@ -1,18 +1,24 @@
 {
     "api_call": {
-        "1557853459": [
+        "1558025367": [
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
-            "4.googlenews.xorg.pl",
-            "broadcasthost",
-            "local",
-            "localhost.localdomain",
-            "openx.xenium.pl"
+            "ads2.rp.pl",
+            "openx.xenium.pl",
+            "s1.delfilt.adocean.pl",
+            "spanel.gem.pl"
         ],
         "to_test": [
             "1.googlenews.xorg.pl",
+            "2.googlenews.xorg.pl",
+            "3.googlenews.xorg.pl",
+            "4.googlenews.xorg.pl",
             "::1 localhost",
-            "code.new.smartcontext.pl"
+            "broadcasthost",
+            "code.new.smartcontext.pl",
+            "local",
+            "localhost.localdomain",
+            "openx.xenium.pl"
         ]
     }
 }
