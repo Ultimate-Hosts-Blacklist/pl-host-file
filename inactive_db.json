@@ -1,14 +1,17 @@
 {
     "api_call": {
-        "1558458037": [
-            "4.googlenews.xorg.pl",
+        "1558544525": [
+            "1.googlenews.xorg.pl",
+            "2.googlenews.xorg.pl",
+            "3.googlenews.xorg.pl",
+            "5.googlenews.xorg.pl",
             "ad2.pl.mediainter.net",
             "ads2.rp.pl",
-            "adserwer.intercon.pl",
-            "broadcasthost",
             "code.new.smartcontext.pl",
             "googlenews.xorg.pl",
-            "s1.delfilt.adocean.pl"
+            "localhost.localdomain",
+            "s1.delfilt.adocean.pl",
+            "www.adspiro.pl"
         ],
         "to_test": [
             "1.googlenews.xorg.pl",
@@ -22,6 +25,7 @@
             "adserwer.intercon.pl",
             "broadcasthost",
             "code.new.smartcontext.pl",
+            "googlenews.xorg.pl",
             "local",
             "localhost.localdomain",
             "openx.xenium.pl",
