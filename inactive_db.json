@@ -1,18 +1,12 @@
 {
     "api_call": {
-        "1558716415": [
+        "1559230890": [
+            "s1.delfilt.adocean.pl",
             "spanel.gem.pl"
         ],
-        "1558716416": [
-            "2.googlenews.xorg.pl",
-            "4.googlenews.xorg.pl",
-            "ads2.rp.pl",
-            "adserwer.intercon.pl",
+        "1559230891": [
             "broadcasthost",
-            "c.allegrostatic.pl",
-            "code.new.smartcontext.pl",
-            "localhost.localdomain",
-            "www.adspiro.pl"
+            "c.allegrostatic.pl"
         ],
         "to_test": [
             "1.googlenews.xorg.pl",
@@ -25,6 +19,7 @@
             "ads2.rp.pl",
             "adserwer.intercon.pl",
             "broadcasthost",
+            "c.allegrostatic.pl",
             "code.new.smartcontext.pl",
             "googlenews.xorg.pl",
             "local",
