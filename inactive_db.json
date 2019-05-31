@@ -1,12 +1,12 @@
 {
     "api_call": {
-        "1559230890": [
-            "s1.delfilt.adocean.pl",
-            "spanel.gem.pl"
-        ],
-        "1559230891": [
+        "1559320815": [
+            "ad2.pl.mediainter.net",
+            "adserwer.intercon.pl",
             "broadcasthost",
-            "c.allegrostatic.pl"
+            "c.allegrostatic.pl",
+            "openx.xenium.pl",
+            "www.adspiro.pl"
         ],
         "to_test": [
             "1.googlenews.xorg.pl",
