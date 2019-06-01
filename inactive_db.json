@@ -1,11 +1,11 @@
 {
     "api_call": {
-        "1559320815": [
-            "ad2.pl.mediainter.net",
-            "adserwer.intercon.pl",
+        "1559415067": [
+            "::1 localhost",
             "broadcasthost",
             "c.allegrostatic.pl",
-            "openx.xenium.pl",
+            "local",
+            "s1.delfilt.adocean.pl",
             "www.adspiro.pl"
         ],
         "to_test": [
@@ -25,7 +25,6 @@
             "local",
             "localhost.localdomain",
             "openx.xenium.pl",
-            "s1.delfilt.adocean.pl",
             "spanel.gem.pl",
             "www.adspiro.pl"
         ]
