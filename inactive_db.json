@@ -1,7 +1,9 @@
 {
     "api_call": {
-        "1559754692": [
+        "1559927451": [
+            "::1 localhost",
             "broadcasthost",
+            "localhost.localdomain",
             "s1.delfilt.adocean.pl"
         ],
         "to_test": [
@@ -20,7 +22,6 @@
             "local",
             "localhost.localdomain",
             "openx.xenium.pl",
-            "s1.delfilt.adocean.pl",
             "spanel.gem.pl",
             "www.adspiro.pl"
         ]
