@@ -1,5 +1,8 @@
 {
     "api_call": {
+        "1560444547": [
+            "localhost.localdomain"
+        ],
         "to_test": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
