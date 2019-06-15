@@ -1,7 +1,10 @@
 {
     "api_call": {
-        "1560444547": [
-            "localhost.localdomain"
+        "1560617443": [
+            "adserwer.intercon.pl",
+            "c.allegrostatic.pl",
+            "local",
+            "www.adspiro.pl"
         ],
         "to_test": [
             "1.googlenews.xorg.pl",
@@ -11,7 +14,6 @@
             "::1 localhost",
             "ad2.pl.mediainter.net",
             "ads2.rp.pl",
-            "adserwer.intercon.pl",
             "broadcasthost",
             "c.allegrostatic.pl",
             "code.new.smartcontext.pl",
