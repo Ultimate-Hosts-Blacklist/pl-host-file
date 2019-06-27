@@ -19,7 +19,6 @@
             "local": "",
             "localhost.localdomain": "",
             "openx.xenium.pl": "",
-            "s1.delfilt.adocean.pl": "",
             "spanel.gem.pl": "",
             "www.adspiro.pl": ""
         },
@@ -34,6 +33,11 @@
         "1561309312": {},
         "1561481808": {
             "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1561654131": {
+            "broadcasthost": "INVALID",
+            "c.allegrostatic.pl": "INACTIVE",
+            "s1.delfilt.adocean.pl": "INACTIVE"
         }
     }
 }
