@@ -31,13 +31,17 @@
         },
         "1561135934": {},
         "1561309312": {},
-        "1561481808": {
-            "c.allegrostatic.pl": "INACTIVE"
-        },
+        "1561481808": {},
         "1561654131": {
             "broadcasthost": "INVALID",
-            "c.allegrostatic.pl": "INACTIVE",
             "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1561826891": {
+            "ad2.pl.mediainter.net": "INACTIVE",
+            "ads.clickad.com.pl": "INACTIVE",
+            "c.allegrostatic.pl": "INACTIVE",
+            "localhost.localdomain": "INVALID",
+            "www.adspiro.pl": "INACTIVE"
         }
     }
 }
