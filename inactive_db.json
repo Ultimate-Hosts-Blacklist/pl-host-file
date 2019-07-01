@@ -6,7 +6,6 @@
             "www.adspiro.pl": ""
         },
         "1560704008": {
-            "1.googlenews.xorg.pl": "",
             "2.googlenews.xorg.pl": "",
             "3.googlenews.xorg.pl": "",
             "5.googlenews.xorg.pl": "",
@@ -42,6 +41,11 @@
             "c.allegrostatic.pl": "INACTIVE",
             "localhost.localdomain": "INVALID",
             "www.adspiro.pl": "INACTIVE"
+        },
+        "1561999998": {
+            "ads.clickad.com.pl": "INACTIVE",
+            "local": "INVALID",
+            "localhost.localdomain": "INVALID"
         }
     }
 }
