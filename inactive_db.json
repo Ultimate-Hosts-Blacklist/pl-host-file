@@ -37,7 +37,6 @@
         },
         "1561826891": {
             "ad2.pl.mediainter.net": "INACTIVE",
-            "c.allegrostatic.pl": "INACTIVE",
             "localhost.localdomain": "INVALID",
             "www.adspiro.pl": "INACTIVE"
         },
@@ -56,6 +55,10 @@
             "ads.clickad.com.pl": "INACTIVE",
             "adserwer.intercon.pl": "INACTIVE",
             "local": "INVALID"
+        },
+        "1563210168": {
+            "c.allegrostatic.pl": "INACTIVE",
+            "localhost.localdomain": "INVALID"
         }
     }
 }
