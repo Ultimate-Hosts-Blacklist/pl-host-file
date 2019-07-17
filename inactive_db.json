@@ -57,8 +57,12 @@
             "local": "INVALID"
         },
         "1563210168": {
-            "c.allegrostatic.pl": "INACTIVE",
             "localhost.localdomain": "INVALID"
+        },
+        "1563383049": {
+            "ads.clickad.com.pl": "INACTIVE",
+            "c.allegrostatic.pl": "INACTIVE",
+            "www.adtaily.pl": "INACTIVE"
         }
     }
 }
