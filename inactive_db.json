@@ -52,7 +52,6 @@
             "local": "INVALID"
         },
         "1563037432": {
-            "ads.clickad.com.pl": "INACTIVE",
             "adserwer.intercon.pl": "INACTIVE",
             "local": "INVALID"
         },
@@ -60,8 +59,13 @@
             "localhost.localdomain": "INVALID"
         },
         "1563383049": {
-            "ads.clickad.com.pl": "INACTIVE",
             "c.allegrostatic.pl": "INACTIVE",
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1563555658": {
+            "ads.clickad.com.pl": "INACTIVE",
+            "adserwer.intercon.pl": "INACTIVE",
+            "localhost.localdomain": "INVALID",
             "www.adtaily.pl": "INACTIVE"
         }
     }
