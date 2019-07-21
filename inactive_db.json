@@ -1,7 +1,6 @@
 {
     "api_call": {
         "1560617443": {
-            "adserwer.intercon.pl": "",
             "local": "",
             "www.adspiro.pl": ""
         },
@@ -21,9 +20,7 @@
             "spanel.gem.pl": "",
             "www.adspiro.pl": ""
         },
-        "1560790593": {
-            "adserwer.intercon.pl": "INACTIVE"
-        },
+        "1560790593": {},
         "1560963345": {
             "ad2.pl.mediainter.net": "INACTIVE",
             "www.adspiro.pl": "INACTIVE"
@@ -52,7 +49,6 @@
             "local": "INVALID"
         },
         "1563037432": {
-            "adserwer.intercon.pl": "INACTIVE",
             "local": "INVALID"
         },
         "1563210168": {
@@ -64,9 +60,13 @@
         },
         "1563555658": {
             "ads.clickad.com.pl": "INACTIVE",
-            "adserwer.intercon.pl": "INACTIVE",
             "localhost.localdomain": "INVALID",
             "www.adtaily.pl": "INACTIVE"
+        },
+        "1563728641": {
+            "ads.clickad.com.pl": "INACTIVE",
+            "adserwer.intercon.pl": "INACTIVE",
+            "broadcasthost": "INVALID"
         }
     }
 }
