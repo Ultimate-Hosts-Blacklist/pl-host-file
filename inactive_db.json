@@ -10,7 +10,6 @@
             "5.googlenews.xorg.pl": "",
             "::1 localhost": "",
             "ad2.pl.mediainter.net": "",
-            "ads2.rp.pl": "",
             "broadcasthost": "",
             "code.new.smartcontext.pl": "",
             "googlenews.xorg.pl": "",
@@ -67,6 +66,13 @@
             "ads.clickad.com.pl": "INACTIVE",
             "adserwer.intercon.pl": "INACTIVE",
             "broadcasthost": "INVALID"
+        },
+        "1563901161": {
+            "ads.clickad.com.pl": "INACTIVE",
+            "ads2.rp.pl": "INACTIVE",
+            "broadcasthost": "INVALID",
+            "counter.gemius.pl": "INACTIVE",
+            "local": "INVALID"
         }
     }
 }
