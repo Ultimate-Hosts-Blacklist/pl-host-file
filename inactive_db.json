@@ -71,8 +71,12 @@
             "counter.gemius.pl": "INACTIVE",
             "local": "INVALID"
         },
-        "1564074379": {
-            "ads.clickad.com.pl": "INACTIVE"
+        "1564074379": {},
+        "1564247120": {
+            "::1 localhost": "INVALID",
+            "ad2.pl.mediainter.net": "INACTIVE",
+            "ads.clickad.com.pl": "INACTIVE",
+            "www.adspiro.pl": "INACTIVE"
         }
     }
 }
