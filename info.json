@@ -1,8 +1,8 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Fri Aug  2 17:06:26 2019",
-    "end_epoch": 1564765586.965585,
+    "end_datetime": "Sun Aug  4 17:07:45 2019",
+    "end_epoch": 1564938465.701817,
     "name": "pl-host-file",
     "previous_stats": {
         "builds": 1,
@@ -18,6 +18,6 @@
         "whitelisted.list": 417
     },
     "raw_link": "https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt",
-    "start_datetime": "Fri Aug  2 17:04:42 2019",
-    "start_epoch": 1564765482.780185
+    "start_datetime": "Sun Aug  4 17:05:44 2019",
+    "start_epoch": 1564938344.058966
 }
