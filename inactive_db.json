@@ -78,9 +78,7 @@
         },
         "1564420223": {},
         "1564593015": {},
-        "1564765585": {
-            "c.allegrostatic.pl": "INACTIVE"
-        },
+        "1564765585": {},
         "1564938465": {},
         "1565111083": {},
         "1565283773": {
@@ -88,6 +86,11 @@
             "ads.clickad.com.pl": "INACTIVE",
             "bbcdn.code.new.smartcontext.pl": "INACTIVE",
             "local": "INVALID"
+        },
+        "1565456695": {
+            "ads.clickad.com.pl": "INACTIVE",
+            "c.allegrostatic.pl": "INACTIVE",
+            "www.adspiro.pl": "INACTIVE"
         }
     }
 }
