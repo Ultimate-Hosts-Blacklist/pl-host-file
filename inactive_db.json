@@ -83,14 +83,15 @@
         "1565111083": {},
         "1565283773": {
             "::1 localhost": "INVALID",
-            "ads.clickad.com.pl": "INACTIVE",
             "bbcdn.code.new.smartcontext.pl": "INACTIVE",
             "local": "INVALID"
         },
         "1565456695": {
-            "ads.clickad.com.pl": "INACTIVE",
             "c.allegrostatic.pl": "INACTIVE",
             "www.adspiro.pl": "INACTIVE"
+        },
+        "1565544372": {
+            "ads.clickad.com.pl": "INACTIVE"
         }
     }
 }
