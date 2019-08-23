@@ -87,18 +87,20 @@
             "local": "INVALID"
         },
         "1565456695": {
-            "c.allegrostatic.pl": "INACTIVE",
             "www.adspiro.pl": "INACTIVE"
         },
         "1565544372": {},
         "1565716921": {},
         "1565889420": {},
-        "1566062317": {
-            "c.allegrostatic.pl": "INACTIVE"
-        },
+        "1566062317": {},
         "1566235461": {},
         "1566408187": {
             "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1566581065": {
+            "ads.clickad.com.pl": "INACTIVE",
+            "c.allegrostatic.pl": "INACTIVE",
+            "show.smartcontext.pl": "INACTIVE"
         }
     }
 }
