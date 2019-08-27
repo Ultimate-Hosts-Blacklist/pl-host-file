@@ -94,17 +94,20 @@
         "1565889420": {},
         "1566062317": {},
         "1566235461": {},
-        "1566408187": {
-            "ads.clickad.com.pl": "INACTIVE"
-        },
+        "1566408187": {},
         "1566581065": {
-            "ads.clickad.com.pl": "INACTIVE",
             "show.smartcontext.pl": "INACTIVE"
         },
         "1566753813": {
             "c.allegrostatic.pl": "INACTIVE",
             "localhost.localdomain": "INVALID",
             "new.smartcontext.pl": "INACTIVE"
+        },
+        "1566926863": {
+            "ads.clickad.com.pl": "INACTIVE",
+            "broadcasthost": "INVALID",
+            "c.allegrostatic.pl": "INACTIVE",
+            "www.adspiro.pl": "INACTIVE"
         }
     }
 }
