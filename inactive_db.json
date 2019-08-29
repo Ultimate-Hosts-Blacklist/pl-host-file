@@ -61,7 +61,6 @@
             "www.adtaily.pl": "INACTIVE"
         },
         "1563728641": {
-            "adserwer.intercon.pl": "INACTIVE",
             "broadcasthost": "INVALID"
         },
         "1563901161": {
@@ -107,6 +106,14 @@
             "ads.clickad.com.pl": "INACTIVE",
             "broadcasthost": "INVALID",
             "c.allegrostatic.pl": "INACTIVE",
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1567099099": {
+            "ads.clickad.com.pl": "INACTIVE",
+            "adserwer.intercon.pl": "INACTIVE",
+            "broadcasthost": "INVALID",
+            "gg.mob.vendimob.pl": "INACTIVE",
+            "show.smartcontext.pl": "INACTIVE",
             "www.adspiro.pl": "INACTIVE"
         }
     }
