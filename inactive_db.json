@@ -103,18 +103,20 @@
             "new.smartcontext.pl": "INACTIVE"
         },
         "1566926863": {
-            "ads.clickad.com.pl": "INACTIVE",
             "broadcasthost": "INVALID",
             "c.allegrostatic.pl": "INACTIVE",
             "www.adspiro.pl": "INACTIVE"
         },
         "1567099099": {
-            "ads.clickad.com.pl": "INACTIVE",
             "adserwer.intercon.pl": "INACTIVE",
             "broadcasthost": "INVALID",
             "gg.mob.vendimob.pl": "INACTIVE",
             "show.smartcontext.pl": "INACTIVE",
             "www.adspiro.pl": "INACTIVE"
+        },
+        "1567272135": {
+            "ads.clickad.com.pl": "INACTIVE",
+            "adserwer.intercon.pl": "INACTIVE"
         }
     }
 }
