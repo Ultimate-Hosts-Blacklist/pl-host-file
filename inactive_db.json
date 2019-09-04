@@ -108,18 +108,22 @@
             "www.adspiro.pl": "INACTIVE"
         },
         "1567099099": {
-            "adserwer.intercon.pl": "INACTIVE",
             "broadcasthost": "INVALID",
             "gg.mob.vendimob.pl": "INACTIVE",
             "show.smartcontext.pl": "INACTIVE",
             "www.adspiro.pl": "INACTIVE"
         },
-        "1567272135": {
-            "adserwer.intercon.pl": "INACTIVE"
-        },
+        "1567272135": {},
         "1567445141": {
             "ads.clickad.com.pl": "INACTIVE",
             "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1567618199": {
+            "::1 localhost": "INVALID"
+        },
+        "1567618205": {
+            "ad2.pl.mediainter.net": "INACTIVE",
+            "adserwer.intercon.pl": "INACTIVE"
         }
     }
 }
