@@ -115,7 +115,6 @@
         },
         "1567272135": {},
         "1567445141": {
-            "ads.clickad.com.pl": "INACTIVE",
             "c.allegrostatic.pl": "INACTIVE"
         },
         "1567618199": {
@@ -124,6 +123,10 @@
         "1567618205": {
             "ad2.pl.mediainter.net": "INACTIVE",
             "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1567791179": {
+            "ads.clickad.com.pl": "INACTIVE",
+            "www.adtaily.pl": "INACTIVE"
         }
     }
 }
