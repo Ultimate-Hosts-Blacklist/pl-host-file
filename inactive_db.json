@@ -98,13 +98,11 @@
             "show.smartcontext.pl": "INACTIVE"
         },
         "1566753813": {
-            "c.allegrostatic.pl": "INACTIVE",
             "localhost.localdomain": "INVALID",
             "new.smartcontext.pl": "INACTIVE"
         },
         "1566926863": {
             "broadcasthost": "INVALID",
-            "c.allegrostatic.pl": "INACTIVE",
             "www.adspiro.pl": "INACTIVE"
         },
         "1567099099": {
@@ -114,9 +112,7 @@
             "www.adspiro.pl": "INACTIVE"
         },
         "1567272135": {},
-        "1567445141": {
-            "c.allegrostatic.pl": "INACTIVE"
-        },
+        "1567445141": {},
         "1567618199": {
             "::1 localhost": "INVALID"
         },
@@ -126,6 +122,11 @@
         },
         "1567791179": {
             "ads.clickad.com.pl": "INACTIVE",
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1567964029": {
+            "broadcasthost": "INVALID",
+            "c.allegrostatic.pl": "INACTIVE",
             "www.adtaily.pl": "INACTIVE"
         }
     }
