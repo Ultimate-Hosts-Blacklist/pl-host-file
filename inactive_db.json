@@ -117,17 +117,19 @@
             "::1 localhost": "INVALID"
         },
         "1567618205": {
-            "ad2.pl.mediainter.net": "INACTIVE",
-            "adserwer.intercon.pl": "INACTIVE"
+            "ad2.pl.mediainter.net": "INACTIVE"
         },
         "1567791179": {
             "ads.clickad.com.pl": "INACTIVE",
             "www.adtaily.pl": "INACTIVE"
         },
         "1567964029": {
+            "ads.clickad.com.pl": "INACTIVE",
+            "adserwer.intercon.pl": "INACTIVE",
             "broadcasthost": "INVALID",
             "c.allegrostatic.pl": "INACTIVE",
-            "www.adtaily.pl": "INACTIVE"
+            "www.adtaily.pl": "INACTIVE",
+            "www.blogvertising.pl": "INACTIVE"
         }
     }
 }
