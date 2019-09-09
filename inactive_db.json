@@ -94,9 +94,7 @@
         "1566062317": {},
         "1566235461": {},
         "1566408187": {},
-        "1566581065": {
-            "show.smartcontext.pl": "INACTIVE"
-        },
+        "1566581065": {},
         "1566753813": {
             "localhost.localdomain": "INVALID",
             "new.smartcontext.pl": "INACTIVE"
@@ -108,7 +106,6 @@
         "1567099099": {
             "broadcasthost": "INVALID",
             "gg.mob.vendimob.pl": "INACTIVE",
-            "show.smartcontext.pl": "INACTIVE",
             "www.adspiro.pl": "INACTIVE"
         },
         "1567272135": {},
@@ -130,6 +127,12 @@
             "c.allegrostatic.pl": "INACTIVE",
             "www.adtaily.pl": "INACTIVE",
             "www.blogvertising.pl": "INACTIVE"
+        },
+        "1568069224": {
+            "ads.clickad.com.pl": "INACTIVE",
+            "local": "INVALID",
+            "localhost.localdomain": "INVALID",
+            "show.smartcontext.pl": "INACTIVE"
         }
     }
 }
