@@ -124,12 +124,12 @@
             "ads.clickad.com.pl": "INACTIVE",
             "adserwer.intercon.pl": "INACTIVE",
             "broadcasthost": "INVALID",
-            "c.allegrostatic.pl": "INACTIVE",
             "www.adtaily.pl": "INACTIVE",
             "www.blogvertising.pl": "INACTIVE"
         },
         "1568069224": {
             "ads.clickad.com.pl": "INACTIVE",
+            "c.allegrostatic.pl": "INACTIVE",
             "local": "INVALID",
             "localhost.localdomain": "INVALID",
             "show.smartcontext.pl": "INACTIVE"
