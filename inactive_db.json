@@ -82,7 +82,6 @@
         "1565111083": {},
         "1565283773": {
             "::1 localhost": "INVALID",
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
             "local": "INVALID"
         },
         "1565456695": {
@@ -133,6 +132,9 @@
             "local": "INVALID",
             "localhost.localdomain": "INVALID",
             "show.smartcontext.pl": "INACTIVE"
+        },
+        "1568223995": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
         }
     }
 }
