@@ -115,18 +115,15 @@
             "ad2.pl.mediainter.net": "INACTIVE"
         },
         "1567791179": {
-            "ads.clickad.com.pl": "INACTIVE",
             "www.adtaily.pl": "INACTIVE"
         },
         "1567964029": {
-            "ads.clickad.com.pl": "INACTIVE",
             "adserwer.intercon.pl": "INACTIVE",
             "broadcasthost": "INVALID",
             "www.adtaily.pl": "INACTIVE",
             "www.blogvertising.pl": "INACTIVE"
         },
         "1568069224": {
-            "ads.clickad.com.pl": "INACTIVE",
             "c.allegrostatic.pl": "INACTIVE",
             "local": "INVALID",
             "localhost.localdomain": "INVALID",
@@ -136,9 +133,12 @@
             "bbcdn.code.new.smartcontext.pl": "INACTIVE"
         },
         "1568371313": {
+            "::1 localhost": "INVALID",
             "ads.clickad.com.pl": "INACTIVE",
+            "adserwer.intercon.pl": "INACTIVE",
             "code.new.smartcontext.pl": "INACTIVE",
-            "localhost.localdomain": "INVALID"
+            "localhost.localdomain": "INVALID",
+            "www.adspiro.pl": "INACTIVE"
         }
     }
 }
