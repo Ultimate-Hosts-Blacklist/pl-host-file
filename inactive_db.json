@@ -124,7 +124,6 @@
             "www.blogvertising.pl": "INACTIVE"
         },
         "1568069224": {
-            "c.allegrostatic.pl": "INACTIVE",
             "local": "INVALID",
             "localhost.localdomain": "INVALID",
             "show.smartcontext.pl": "INACTIVE"
@@ -141,7 +140,10 @@
         },
         "1568568737": {
             "ads.clickad.com.pl": "INACTIVE",
-            "c.allegrostatic.pl": "INACTIVE"
+            "adserwer.intercon.pl": "INACTIVE",
+            "broadcasthost": "INVALID",
+            "c.allegrostatic.pl": "INACTIVE",
+            "localhost.localdomain": "INVALID"
         }
     }
 }
