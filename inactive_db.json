@@ -134,11 +134,14 @@
         },
         "1568371313": {
             "::1 localhost": "INVALID",
-            "ads.clickad.com.pl": "INACTIVE",
             "adserwer.intercon.pl": "INACTIVE",
             "code.new.smartcontext.pl": "INACTIVE",
             "localhost.localdomain": "INVALID",
             "www.adspiro.pl": "INACTIVE"
+        },
+        "1568568737": {
+            "ads.clickad.com.pl": "INACTIVE",
+            "c.allegrostatic.pl": "INACTIVE"
         }
     }
 }
