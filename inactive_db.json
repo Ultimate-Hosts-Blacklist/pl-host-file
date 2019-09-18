@@ -139,14 +139,18 @@
             "www.adspiro.pl": "INACTIVE"
         },
         "1568568737": {
-            "ads.clickad.com.pl": "INACTIVE",
             "adserwer.intercon.pl": "INACTIVE",
             "broadcasthost": "INVALID",
             "localhost.localdomain": "INVALID"
         },
         "1568716949": {
-            "ads.clickad.com.pl": "INACTIVE",
             "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1568827951": {
+            "::1 localhost": "INVALID",
+            "ads.clickad.com.pl": "INACTIVE",
+            "broadcasthost": "INVALID",
+            "localhost.localdomain": "INVALID"
         }
     }
 }
