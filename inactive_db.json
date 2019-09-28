@@ -148,9 +148,12 @@
         },
         "1568827951": {
             "::1 localhost": "INVALID",
-            "ads.clickad.com.pl": "INACTIVE",
             "broadcasthost": "INVALID",
             "localhost.localdomain": "INVALID"
+        },
+        "1569701650": {
+            "ads.clickad.com.pl": "INACTIVE",
+            "adserwer.intercon.pl": "INACTIVE"
         }
     }
 }
