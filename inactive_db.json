@@ -9,7 +9,6 @@
             "3.googlenews.xorg.pl": "",
             "5.googlenews.xorg.pl": "",
             "::1 localhost": "",
-            "ad2.pl.mediainter.net": "",
             "broadcasthost": "",
             "googlenews.xorg.pl": "",
             "local": "",
@@ -20,7 +19,6 @@
         },
         "1560790593": {},
         "1560963345": {
-            "ad2.pl.mediainter.net": "INACTIVE",
             "www.adspiro.pl": "INACTIVE"
         },
         "1561135934": {},
@@ -31,7 +29,6 @@
             "s1.delfilt.adocean.pl": "INACTIVE"
         },
         "1561826891": {
-            "ad2.pl.mediainter.net": "INACTIVE",
             "localhost.localdomain": "INVALID",
             "www.adspiro.pl": "INACTIVE"
         },
@@ -71,7 +68,6 @@
         "1564074379": {},
         "1564247120": {
             "::1 localhost": "INVALID",
-            "ad2.pl.mediainter.net": "INACTIVE",
             "www.adspiro.pl": "INACTIVE"
         },
         "1564420223": {},
@@ -111,9 +107,7 @@
         "1567618199": {
             "::1 localhost": "INVALID"
         },
-        "1567618205": {
-            "ad2.pl.mediainter.net": "INACTIVE"
-        },
+        "1567618205": {},
         "1567791179": {
             "www.adtaily.pl": "INACTIVE"
         },
@@ -152,8 +146,10 @@
             "localhost.localdomain": "INVALID"
         },
         "1569701650": {
+            "ad2.pl.mediainter.net": "INACTIVE",
             "ads.clickad.com.pl": "INACTIVE",
-            "adserwer.intercon.pl": "INACTIVE"
+            "adserwer.intercon.pl": "INACTIVE",
+            "c.allegrostatic.pl": "INACTIVE"
         }
     }
 }
