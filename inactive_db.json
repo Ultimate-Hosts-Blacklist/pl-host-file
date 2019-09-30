@@ -147,9 +147,13 @@
         },
         "1569701650": {
             "ad2.pl.mediainter.net": "INACTIVE",
-            "ads.clickad.com.pl": "INACTIVE",
             "adserwer.intercon.pl": "INACTIVE",
             "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1569838679": {
+            "ads.clickad.com.pl": "INACTIVE",
+            "local": "INVALID",
+            "show.smartcontext.pl": "INACTIVE"
         }
     }
 }
