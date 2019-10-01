@@ -151,9 +151,12 @@
             "c.allegrostatic.pl": "INACTIVE"
         },
         "1569838679": {
-            "ads.clickad.com.pl": "INACTIVE",
             "local": "INVALID",
             "show.smartcontext.pl": "INACTIVE"
+        },
+        "1569925535": {
+            "ads.clickad.com.pl": "INACTIVE",
+            "c.allegrostatic.pl": "INACTIVE"
         }
     }
 }
