@@ -122,9 +122,7 @@
             "localhost.localdomain": "INVALID",
             "show.smartcontext.pl": "INACTIVE"
         },
-        "1568223995": {
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
-        },
+        "1568223995": {},
         "1568371313": {
             "::1 localhost": "INVALID",
             "adserwer.intercon.pl": "INACTIVE",
@@ -159,7 +157,10 @@
         },
         "1570038184": {
             "::1 localhost": "INVALID",
-            "ads.clickad.com.pl": "INACTIVE"
+            "ads.clickad.com.pl": "INACTIVE",
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
+            "code.new.smartcontext.pl": "INACTIVE",
+            "ua.cnt.gemius.pl": "INACTIVE"
         }
     }
 }
