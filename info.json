@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 2,
+        "builds": 3,
         "counter": {
-            "down": 2,
+            "down": 3,
             "invalid": 0,
-            "tested": 233,
-            "up": 231
+            "tested": 310,
+            "up": 307
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Thu Oct  3 10:35:51 2019",
     "end_epoch": 1570098951.567712,
-    "last_autosave_datetime": "Fri Oct  4 22:46:43 2019",
-    "last_autosave_epoch": 1570229203.968233,
+    "last_autosave_datetime": "Sat Oct  5 05:17:57 2019",
+    "last_autosave_epoch": 1570252677.336185,
     "name": "pl-host-file",
     "previous_stats": {
         "builds": 1,
