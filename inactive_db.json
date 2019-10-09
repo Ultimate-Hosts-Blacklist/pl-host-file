@@ -13,17 +13,12 @@
             "googlenews.xorg.pl": "",
             "local": "",
             "localhost.localdomain": "",
-            "openx.xenium.pl": "",
             "spanel.gem.pl": "",
             "www.adspiro.pl": ""
         },
-        "1560790593": {},
         "1560963345": {
             "www.adspiro.pl": "INACTIVE"
         },
-        "1561135934": {},
-        "1561309312": {},
-        "1561481808": {},
         "1561654131": {
             "broadcasthost": "INVALID",
             "s1.delfilt.adocean.pl": "INACTIVE"
@@ -36,10 +31,6 @@
             "local": "INVALID",
             "localhost.localdomain": "INVALID"
         },
-        "1562176016": {},
-        "1562345885": {},
-        "1562518678": {},
-        "1562691566": {},
         "1562864362": {
             "local": "INVALID"
         },
@@ -65,16 +56,10 @@
             "counter.gemius.pl": "INACTIVE",
             "local": "INVALID"
         },
-        "1564074379": {},
         "1564247120": {
             "::1 localhost": "INVALID",
             "www.adspiro.pl": "INACTIVE"
         },
-        "1564420223": {},
-        "1564593015": {},
-        "1564765585": {},
-        "1564938465": {},
-        "1565111083": {},
         "1565283773": {
             "::1 localhost": "INVALID",
             "local": "INVALID"
@@ -82,13 +67,6 @@
         "1565456695": {
             "www.adspiro.pl": "INACTIVE"
         },
-        "1565544372": {},
-        "1565716921": {},
-        "1565889420": {},
-        "1566062317": {},
-        "1566235461": {},
-        "1566408187": {},
-        "1566581065": {},
         "1566753813": {
             "localhost.localdomain": "INVALID",
             "new.smartcontext.pl": "INACTIVE"
@@ -102,12 +80,9 @@
             "gg.mob.vendimob.pl": "INACTIVE",
             "www.adspiro.pl": "INACTIVE"
         },
-        "1567272135": {},
-        "1567445141": {},
         "1567618199": {
             "::1 localhost": "INVALID"
         },
-        "1567618205": {},
         "1567791179": {
             "www.adtaily.pl": "INACTIVE"
         },
@@ -122,7 +97,6 @@
             "localhost.localdomain": "INVALID",
             "show.smartcontext.pl": "INACTIVE"
         },
-        "1568223995": {},
         "1568371313": {
             "::1 localhost": "INVALID",
             "adserwer.intercon.pl": "INACTIVE",
@@ -161,6 +135,15 @@
             "bbcdn.code.new.smartcontext.pl": "INACTIVE",
             "code.new.smartcontext.pl": "INACTIVE",
             "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1570665444": {
+            "adidm07.idmnet.pl": "INACTIVE"
+        },
+        "1570665446": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1570665447": {
+            "openx.xenium.pl": "INACTIVE"
         }
     }
 }
