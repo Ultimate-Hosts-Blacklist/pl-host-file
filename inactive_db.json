@@ -132,7 +132,6 @@
         "1570038184": {
             "::1 localhost": "INVALID",
             "ads.clickad.com.pl": "INACTIVE",
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
             "code.new.smartcontext.pl": "INACTIVE",
             "ua.cnt.gemius.pl": "INACTIVE"
         },
@@ -159,6 +158,23 @@
         },
         "1570819810": {
             "media.nk-net.pl": "INACTIVE"
+        },
+        "1570824299": {
+            "lrytaslt.adocean.pl": "INACTIVE"
+        },
+        "1570824430": {
+            "openx.cda.pl": "INACTIVE",
+            "www.gem.pl": "INACTIVE"
+        },
+        "1570824569": {
+            "ads.o2.pl": "INACTIVE"
+        },
+        "1570824704": {
+            "adidm07.idmnet.pl": "INACTIVE",
+            "broadcasthost": "INVALID"
+        },
+        "1570824706": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
         }
     }
 }
