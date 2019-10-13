@@ -135,9 +135,6 @@
             "code.new.smartcontext.pl": "INACTIVE",
             "ua.cnt.gemius.pl": "INACTIVE"
         },
-        "1570665444": {
-            "adidm07.idmnet.pl": "INACTIVE"
-        },
         "1570665446": {
             "ads.clickad.com.pl": "INACTIVE"
         },
@@ -169,7 +166,6 @@
             "ads.o2.pl": "INACTIVE"
         },
         "1570824704": {
-            "adidm07.idmnet.pl": "INACTIVE",
             "broadcasthost": "INVALID"
         },
         "1570824706": {
@@ -198,6 +194,9 @@
         },
         "1570964895": {
             "www.gem.pl": "INACTIVE"
+        },
+        "1570969622": {
+            "adidm07.idmnet.pl": "INACTIVE"
         }
     }
 }

@@ -1,17 +1,8 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 67,
-            "invalid": 2,
-            "tested": 430,
-            "up": 361
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Fri Oct 11 20:11:46 2019",
-    "end_epoch": 1570824706.305053,
+    "end_datetime": "Sun Oct 13 12:27:02 2019",
+    "end_epoch": 1570969622.11963,
     "last_autosave_datetime": "Sun Oct 13 11:08:15 2019",
     "last_autosave_epoch": 1570964895.79735,
     "name": "pl-host-file",

@@ -3,3 +3,5 @@
 
 ::1 localhost
 local
+localhost.localdomain
+broadcasthost

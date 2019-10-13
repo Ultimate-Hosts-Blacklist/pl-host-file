@@ -360,7 +360,8 @@
         "adview.pl",
         "googlenews.xorg.pl",
         "webhosting-ads.home.pl",
-        "2.googlenews.xorg.pl"
+        "2.googlenews.xorg.pl",
+        "5.googlenews.xorg.pl"
     ],
     "INACTIVE": [
         "delfiee.adocean.pl",
@@ -429,10 +430,19 @@
         "ads.clickad.com.pl",
         "adserver.portal.pl",
         "adidm.idmnet.pl",
-        "megapanel.gem.pl"
+        "megapanel.gem.pl",
+        "c.allegrostatic.pl",
+        "ads2.rp.pl",
+        "counter.gemius.pl",
+        "new.smartcontext.pl",
+        "ads.o2.pl",
+        "media.nk-net.pl",
+        "adidm07.idmnet.pl"
     ],
     "INVALID": [
         "::1 localhost",
-        "local"
+        "local",
+        "localhost.localdomain",
+        "broadcasthost"
     ]
 }
