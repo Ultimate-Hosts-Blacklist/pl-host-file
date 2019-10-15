@@ -162,9 +162,6 @@
         "1570824430": {
             "openx.cda.pl": "INACTIVE"
         },
-        "1570824569": {
-            "ads.o2.pl": "INACTIVE"
-        },
         "1570824704": {
             "broadcasthost": "INVALID"
         },
@@ -217,6 +214,35 @@
         },
         "1571079060": {
             "adsearch.wp.pl": "INACTIVE"
+        },
+        "1571135674": {
+            "realitatero.adocean.pl": "INACTIVE"
+        },
+        "1571135817": {
+            "afilv.adocean.pl": "INACTIVE"
+        },
+        "1571135954": {
+            "www.gem.pl": "INACTIVE"
+        },
+        "1571135956": {
+            "diginet.adocean.pl": "INACTIVE",
+            "tracking.novem.pl": "INACTIVE"
+        },
+        "1571135957": {
+            "15minlt.adocean.pl": "INACTIVE"
+        },
+        "1571136089": {
+            "media.nk-net.pl": "INACTIVE"
+        },
+        "1571136090": {
+            "::1 localhost": "INVALID",
+            "localhost.localdomain": "INVALID"
+        },
+        "1571136221": {
+            "adserver.portal.pl": "INACTIVE"
+        },
+        "1571136225": {
+            "ads.o2.pl": "INACTIVE"
         }
     }
 }
