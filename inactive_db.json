@@ -174,9 +174,6 @@
         "1570964360": {
             "emisjawidgeet.onet.pl": "INACTIVE"
         },
-        "1570964490": {
-            "crv.clickad.pl": "INACTIVE"
-        },
         "1570964491": {
             "adserver.o2.pl": "INACTIVE"
         },
@@ -243,6 +240,37 @@
         },
         "1571136225": {
             "ads.o2.pl": "INACTIVE"
+        },
+        "1571251385": {
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1571251389": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1571251519": {
+            "www.gem.pl": "INACTIVE"
+        },
+        "1571251521": {
+            "delfilt.adocean.pl": "INACTIVE"
+        },
+        "1571251538": {
+            "obozua.adocean.pl": "INACTIVE"
+        },
+        "1571251673": {
+            "delfiee.adocean.pl": "INACTIVE"
+        },
+        "1571251675": {
+            "local": "INVALID"
+        },
+        "1571251806": {
+            "adidm.idmnet.pl": "INACTIVE",
+            "afilv.adocean.pl": "INACTIVE"
+        },
+        "1571251937": {
+            "adsearch.wp.pl": "INACTIVE"
+        },
+        "1571252068": {
+            "crv.clickad.pl": "INACTIVE"
         }
     }
 }
