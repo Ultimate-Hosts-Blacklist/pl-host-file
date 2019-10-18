@@ -77,7 +77,6 @@
         },
         "1567099099": {
             "broadcasthost": "INVALID",
-            "gg.mob.vendimob.pl": "INACTIVE",
             "www.adspiro.pl": "INACTIVE"
         },
         "1567618199": {
@@ -286,6 +285,25 @@
         },
         "1571420901": {
             "ads.o2.pl": "INACTIVE"
+        },
+        "1571430798": {
+            "www.gem.pl": "INACTIVE"
+        },
+        "1571430803": {
+            "gratkapl.adocean.pl": "INACTIVE"
+        },
+        "1571430810": {
+            "local": "INVALID"
+        },
+        "1571430815": {
+            "adsearch.wp.pl": "INACTIVE",
+            "localhost.localdomain": "INVALID"
+        },
+        "1571430821": {
+            "media.nk-net.pl": "INACTIVE"
+        },
+        "1571430822": {
+            "gg.mob.vendimob.pl": "INACTIVE"
         }
     }
 }
