@@ -238,9 +238,6 @@
         "1571136221": {
             "adserver.portal.pl": "INACTIVE"
         },
-        "1571136225": {
-            "ads.o2.pl": "INACTIVE"
-        },
         "1571251385": {
             "gspro.adocean.pl": "INACTIVE"
         },
@@ -271,6 +268,24 @@
         },
         "1571252068": {
             "crv.clickad.pl": "INACTIVE"
+        },
+        "1571420855": {
+            "reklamy.sfd.pl": "INACTIVE"
+        },
+        "1571420868": {
+            "boksy.dir.onet.pl": "INACTIVE"
+        },
+        "1571420879": {
+            "adseu.novem.pl": "INACTIVE"
+        },
+        "1571420890": {
+            "15minlt.adocean.pl": "INACTIVE",
+            "adidm07.idmnet.pl": "INACTIVE",
+            "broadcasthost": "INVALID",
+            "localhost.localdomain": "INVALID"
+        },
+        "1571420901": {
+            "ads.o2.pl": "INACTIVE"
         }
     }
 }
