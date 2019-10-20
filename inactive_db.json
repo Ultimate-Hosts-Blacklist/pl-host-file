@@ -208,9 +208,6 @@
         "1571078929": {
             "media.nk-net.pl": "INACTIVE"
         },
-        "1571079060": {
-            "adsearch.wp.pl": "INACTIVE"
-        },
         "1571135674": {
             "realitatero.adocean.pl": "INACTIVE"
         },
@@ -262,9 +259,6 @@
             "adidm.idmnet.pl": "INACTIVE",
             "afilv.adocean.pl": "INACTIVE"
         },
-        "1571251937": {
-            "adsearch.wp.pl": "INACTIVE"
-        },
         "1571252068": {
             "crv.clickad.pl": "INACTIVE"
         },
@@ -296,7 +290,6 @@
             "local": "INVALID"
         },
         "1571430815": {
-            "adsearch.wp.pl": "INACTIVE",
             "localhost.localdomain": "INVALID"
         },
         "1571430821": {
@@ -304,6 +297,27 @@
         },
         "1571430822": {
             "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1571594040": {
+            "ringieradro.hit.gemius.pl": "INACTIVE"
+        },
+        "1571594050": {
+            "investorbg.adocean.pl": "INACTIVE"
+        },
+        "1571594056": {
+            "www.gem.pl": "INACTIVE"
+        },
+        "1571594057": {
+            "openx.cda.pl": "INACTIVE"
+        },
+        "1571594067": {
+            "media.nk-net.pl": "INACTIVE"
+        },
+        "1571594081": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1571594092": {
+            "adsearch.wp.pl": "INACTIVE"
         }
     }
 }
