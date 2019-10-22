@@ -143,9 +143,6 @@
         "1570819286": {
             "gde.adocean.pl": "INACTIVE"
         },
-        "1570819417": {
-            "megapanel.gem.pl": "INACTIVE"
-        },
         "1570819548": {
             "adidm.idmnet.pl": "INACTIVE"
         },
@@ -318,6 +315,28 @@
         },
         "1571594092": {
             "adsearch.wp.pl": "INACTIVE"
+        },
+        "1571740516": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1571740533": {
+            "www.gem.pl": "INACTIVE"
+        },
+        "1571740534": {
+            "ringierro.adocean.pl": "INACTIVE"
+        },
+        "1571740536": {
+            "delfiee.adocean.pl": "INACTIVE"
+        },
+        "1571740541": {
+            "adsearch.wp.pl": "INACTIVE"
+        },
+        "1571740547": {
+            "ads.o2.pl": "INACTIVE",
+            "localhost.localdomain": "INVALID"
+        },
+        "1571740552": {
+            "megapanel.gem.pl": "INACTIVE"
         }
     }
 }
