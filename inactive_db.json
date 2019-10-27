@@ -179,9 +179,6 @@
         "1570964631": {
             "delfilv.adocean.pl": "INACTIVE"
         },
-        "1570964895": {
-            "www.gem.pl": "INACTIVE"
-        },
         "1570969622": {
             "adidm07.idmnet.pl": "INACTIVE"
         },
@@ -190,9 +187,6 @@
         },
         "1571078376": {
             "im.of.pl": "INACTIVE"
-        },
-        "1571078513": {
-            "www.gem.pl": "INACTIVE"
         },
         "1571078524": {
             "s.di.com.pl": "INACTIVE"
@@ -210,9 +204,6 @@
         },
         "1571135817": {
             "afilv.adocean.pl": "INACTIVE"
-        },
-        "1571135954": {
-            "www.gem.pl": "INACTIVE"
         },
         "1571135956": {
             "diginet.adocean.pl": "INACTIVE",
@@ -236,9 +227,6 @@
         },
         "1571251389": {
             "www.adtaily.pl": "INACTIVE"
-        },
-        "1571251519": {
-            "www.gem.pl": "INACTIVE"
         },
         "1571251521": {
             "delfilt.adocean.pl": "INACTIVE"
@@ -277,9 +265,6 @@
         "1571420901": {
             "ads.o2.pl": "INACTIVE"
         },
-        "1571430798": {
-            "www.gem.pl": "INACTIVE"
-        },
         "1571430803": {
             "gratkapl.adocean.pl": "INACTIVE"
         },
@@ -301,9 +286,6 @@
         "1571594050": {
             "investorbg.adocean.pl": "INACTIVE"
         },
-        "1571594056": {
-            "www.gem.pl": "INACTIVE"
-        },
         "1571594057": {
             "openx.cda.pl": "INACTIVE"
         },
@@ -318,9 +300,6 @@
         },
         "1571740516": {
             "www.adtaily.pl": "INACTIVE"
-        },
-        "1571740533": {
-            "www.gem.pl": "INACTIVE"
         },
         "1571740534": {
             "ringierro.adocean.pl": "INACTIVE"
@@ -337,6 +316,21 @@
         },
         "1571740552": {
             "megapanel.gem.pl": "INACTIVE"
+        },
+        "1572199690": {
+            "delivery.clickonometrics.pl": "INACTIVE"
+        },
+        "1572199720": {
+            "localhost.localdomain": "INVALID"
+        },
+        "1572199727": {
+            "adidm07.idmnet.pl": "INACTIVE"
+        },
+        "1572199738": {
+            "crv.clickad.pl": "INACTIVE"
+        },
+        "1572199752": {
+            "www.gem.pl": "INACTIVE"
         }
     }
 }
