@@ -117,7 +117,6 @@
             "localhost.localdomain": "INVALID"
         },
         "1569701650": {
-            "ad2.pl.mediainter.net": "INACTIVE",
             "adserwer.intercon.pl": "INACTIVE",
             "c.allegrostatic.pl": "INACTIVE"
         },
@@ -331,6 +330,28 @@
         },
         "1572199752": {
             "www.gem.pl": "INACTIVE"
+        },
+        "1572371462": {
+            "ohtulehtee.adocean.pl": "INACTIVE"
+        },
+        "1572371480": {
+            "www.gem.pl": "INACTIVE"
+        },
+        "1572371486": {
+            "lrytaslt.adocean.pl": "INACTIVE",
+            "www.gem.pl": "INACTIVE"
+        },
+        "1572371491": {
+            "reklamy.sfd.pl": "INACTIVE"
+        },
+        "1572371492": {
+            "local": "INVALID"
+        },
+        "1572371497": {
+            "media.nk-net.pl": "INACTIVE"
+        },
+        "1572371498": {
+            "ad2.pl.mediainter.net": "INACTIVE"
         }
     }
 }
