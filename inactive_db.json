@@ -313,9 +313,6 @@
             "ads.o2.pl": "INACTIVE",
             "localhost.localdomain": "INVALID"
         },
-        "1571740552": {
-            "megapanel.gem.pl": "INACTIVE"
-        },
         "1572199690": {
             "delivery.clickonometrics.pl": "INACTIVE"
         },
@@ -352,6 +349,27 @@
         },
         "1572371498": {
             "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1572518213": {
+            "www.gem.pl": "INACTIVE"
+        },
+        "1572518217": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1572518232": {
+            "lrytaslt.adocean.pl": "INACTIVE",
+            "reklamy.sfd.pl": "INACTIVE",
+            "tracking.novem.pl": "INACTIVE"
+        },
+        "1572518237": {
+            "ads.o2.pl": "INACTIVE",
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1572518243": {
+            "media.nk-net.pl": "INACTIVE"
+        },
+        "1572518248": {
+            "megapanel.gem.pl": "INACTIVE"
         }
     }
 }
