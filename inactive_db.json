@@ -142,9 +142,6 @@
         "1570819286": {
             "gde.adocean.pl": "INACTIVE"
         },
-        "1570819679": {
-            "adserver.portal.pl": "INACTIVE"
-        },
         "1570819810": {
             "media.nk-net.pl": "INACTIVE"
         },
@@ -213,9 +210,6 @@
         "1571136090": {
             "::1 localhost": "INVALID",
             "localhost.localdomain": "INVALID"
-        },
-        "1571136221": {
-            "adserver.portal.pl": "INACTIVE"
         },
         "1571251385": {
             "gspro.adocean.pl": "INACTIVE"
@@ -385,6 +379,25 @@
         },
         "1572631242": {
             "adidm.idmnet.pl": "INACTIVE"
+        },
+        "1572689404": {
+            "www.gem.pl": "INACTIVE"
+        },
+        "1572689405": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1572689406": {
+            "lrytaslt.adocean.pl": "INACTIVE"
+        },
+        "1572689411": {
+            "www.adspiro.pl": "INACTIVE",
+            "www.mystat.pl": "INACTIVE"
+        },
+        "1572689417": {
+            "ads.o2.pl": "INACTIVE"
+        },
+        "1572689422": {
+            "adserver.portal.pl": "INACTIVE"
         }
     }
 }
