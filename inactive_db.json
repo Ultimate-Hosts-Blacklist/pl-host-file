@@ -232,9 +232,6 @@
         "1571251806": {
             "afilv.adocean.pl": "INACTIVE"
         },
-        "1571252068": {
-            "crv.clickad.pl": "INACTIVE"
-        },
         "1571420855": {
             "reklamy.sfd.pl": "INACTIVE"
         },
@@ -290,6 +287,7 @@
             "www.adtaily.pl": "INACTIVE"
         },
         "1571740534": {
+            "delfiee.adocean.pl": "INACTIVE",
             "ringierro.adocean.pl": "INACTIVE"
         },
         "1571740536": {
@@ -310,9 +308,6 @@
         },
         "1572199727": {
             "adidm07.idmnet.pl": "INACTIVE"
-        },
-        "1572199738": {
-            "crv.clickad.pl": "INACTIVE"
         },
         "1572199752": {
             "www.gem.pl": "INACTIVE"
@@ -398,6 +393,32 @@
         },
         "1572689422": {
             "adserver.portal.pl": "INACTIVE"
+        },
+        "1572803448": {
+            "adv.wp.pl": "INACTIVE"
+        },
+        "1572803453": {
+            "www.gem.pl": "INACTIVE"
+        },
+        "1572803475": {
+            "investoradbg.hit.gemius.pl": "INACTIVE"
+        },
+        "1572803481": {
+            "delfiee.adocean.pl": "INACTIVE",
+            "local": "INVALID"
+        },
+        "1572803486": {
+            "adsearch.wp.pl": "INACTIVE"
+        },
+        "1572803487": {
+            "::1 localhost": "INVALID",
+            "gde.adocean.pl": "INACTIVE"
+        },
+        "1572803492": {
+            "reklamy.sfd.pl": "INACTIVE"
+        },
+        "1572803498": {
+            "crv.clickad.pl": "INACTIVE"
         }
     }
 }
