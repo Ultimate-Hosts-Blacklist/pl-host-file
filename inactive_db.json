@@ -309,18 +309,11 @@
         "1572199727": {
             "adidm07.idmnet.pl": "INACTIVE"
         },
-        "1572199752": {
-            "www.gem.pl": "INACTIVE"
-        },
         "1572371462": {
             "ohtulehtee.adocean.pl": "INACTIVE"
         },
-        "1572371480": {
-            "www.gem.pl": "INACTIVE"
-        },
         "1572371486": {
-            "lrytaslt.adocean.pl": "INACTIVE",
-            "www.gem.pl": "INACTIVE"
+            "lrytaslt.adocean.pl": "INACTIVE"
         },
         "1572371491": {
             "reklamy.sfd.pl": "INACTIVE"
@@ -333,9 +326,6 @@
         },
         "1572371498": {
             "ad2.pl.mediainter.net": "INACTIVE"
-        },
-        "1572518213": {
-            "www.gem.pl": "INACTIVE"
         },
         "1572518217": {
             "www.adtaily.pl": "INACTIVE"
@@ -361,9 +351,6 @@
         "1572631192": {
             "www.adspiro.pl": "INACTIVE"
         },
-        "1572631208": {
-            "www.gem.pl": "INACTIVE"
-        },
         "1572631231": {
             "::1 localhost": "INVALID",
             "gratkapl.adocean.pl": "INACTIVE",
@@ -374,9 +361,6 @@
         },
         "1572631242": {
             "adidm.idmnet.pl": "INACTIVE"
-        },
-        "1572689404": {
-            "www.gem.pl": "INACTIVE"
         },
         "1572689405": {
             "show.smartcontext.pl": "INACTIVE"
@@ -397,9 +381,6 @@
         "1572803448": {
             "adv.wp.pl": "INACTIVE"
         },
-        "1572803453": {
-            "www.gem.pl": "INACTIVE"
-        },
         "1572803475": {
             "investoradbg.hit.gemius.pl": "INACTIVE"
         },
@@ -419,6 +400,28 @@
         },
         "1572803498": {
             "crv.clickad.pl": "INACTIVE"
+        },
+        "1572863622": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1572863644": {
+            "www.mystat.pl": "INACTIVE"
+        },
+        "1572863645": {
+            "15minlt.adocean.pl": "INACTIVE",
+            "investorbg.adocean.pl": "INACTIVE"
+        },
+        "1572863650": {
+            "adsearch.wp.pl": "INACTIVE"
+        },
+        "1572863651": {
+            "delivery.clickonometrics.pl": "INACTIVE"
+        },
+        "1572863656": {
+            "megapanel.gem.pl": "INACTIVE"
+        },
+        "1572863661": {
+            "www.gem.pl": "INACTIVE"
         }
     }
 }
