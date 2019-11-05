@@ -280,9 +280,6 @@
         "1571594081": {
             "code.new.smartcontext.pl": "INACTIVE"
         },
-        "1571594092": {
-            "adsearch.wp.pl": "INACTIVE"
-        },
         "1571740516": {
             "www.adtaily.pl": "INACTIVE"
         },
@@ -292,9 +289,6 @@
         },
         "1571740536": {
             "delfiee.adocean.pl": "INACTIVE"
-        },
-        "1571740541": {
-            "adsearch.wp.pl": "INACTIVE"
         },
         "1571740547": {
             "ads.o2.pl": "INACTIVE",
@@ -388,9 +382,6 @@
             "delfiee.adocean.pl": "INACTIVE",
             "local": "INVALID"
         },
-        "1572803486": {
-            "adsearch.wp.pl": "INACTIVE"
-        },
         "1572803487": {
             "::1 localhost": "INVALID",
             "gde.adocean.pl": "INACTIVE"
@@ -411,9 +402,6 @@
             "15minlt.adocean.pl": "INACTIVE",
             "investorbg.adocean.pl": "INACTIVE"
         },
-        "1572863650": {
-            "adsearch.wp.pl": "INACTIVE"
-        },
         "1572863651": {
             "delivery.clickonometrics.pl": "INACTIVE"
         },
@@ -422,6 +410,39 @@
         },
         "1572863661": {
             "www.gem.pl": "INACTIVE"
+        },
+        "1572976706": {
+            "adspiro.pl": "INACTIVE",
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1572976708": {
+            "bi.adview.pl": "INACTIVE"
+        },
+        "1572976715": {
+            "chip.pl.intellitxt.com": "INACTIVE"
+        },
+        "1572976733": {
+            "www.gem.pl": "INACTIVE"
+        },
+        "1572976746": {
+            "megapanel.gem.pl": "INACTIVE"
+        },
+        "1572976747": {
+            "investorbg.adocean.pl": "INACTIVE"
+        },
+        "1572976752": {
+            "crv.clickad.pl": "INACTIVE"
+        },
+        "1572976753": {
+            "broadcasthost": "INVALID",
+            "delfiee.adocean.pl": "INACTIVE",
+            "gde.adocean.pl": "INACTIVE"
+        },
+        "1572976758": {
+            "adidm.idmnet.pl": "INACTIVE"
+        },
+        "1572976764": {
+            "adsearch.wp.pl": "INACTIVE"
         }
     }
 }
