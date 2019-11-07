@@ -318,9 +318,6 @@
         "1572371497": {
             "media.nk-net.pl": "INACTIVE"
         },
-        "1572371498": {
-            "ad2.pl.mediainter.net": "INACTIVE"
-        },
         "1572518217": {
             "www.adtaily.pl": "INACTIVE"
         },
@@ -443,6 +440,28 @@
         },
         "1572976764": {
             "adsearch.wp.pl": "INACTIVE"
+        },
+        "1573122897": {
+            "www.gem.pl": "INACTIVE"
+        },
+        "1573122902": {
+            "adsearch.wp.pl": "INACTIVE"
+        },
+        "1573122903": {
+            "obozua.adocean.pl": "INACTIVE"
+        },
+        "1573122908": {
+            "crv.clickad.pl": "INACTIVE",
+            "local": "INVALID"
+        },
+        "1573122909": {
+            "gde.adocean.pl": "INACTIVE"
+        },
+        "1573122914": {
+            "reklamy.sfd.pl": "INACTIVE"
+        },
+        "1573122915": {
+            "ad2.pl.mediainter.net": "INACTIVE"
         }
     }
 }
