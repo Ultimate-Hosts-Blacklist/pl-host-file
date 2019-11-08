@@ -386,9 +386,6 @@
         "1572803492": {
             "reklamy.sfd.pl": "INACTIVE"
         },
-        "1572803498": {
-            "crv.clickad.pl": "INACTIVE"
-        },
         "1572863622": {
             "intactro.adocean.pl": "INACTIVE"
         },
@@ -427,9 +424,6 @@
         "1572976747": {
             "investorbg.adocean.pl": "INACTIVE"
         },
-        "1572976752": {
-            "crv.clickad.pl": "INACTIVE"
-        },
         "1572976753": {
             "broadcasthost": "INVALID",
             "delfiee.adocean.pl": "INACTIVE",
@@ -451,7 +445,6 @@
             "obozua.adocean.pl": "INACTIVE"
         },
         "1573122908": {
-            "crv.clickad.pl": "INACTIVE",
             "local": "INVALID"
         },
         "1573122909": {
@@ -462,6 +455,21 @@
         },
         "1573122915": {
             "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1573236618": {
+            "www.gem.pl": "INACTIVE"
+        },
+        "1573236632": {
+            "im.of.pl": "INACTIVE"
+        },
+        "1573236638": {
+            "ads.o2.pl": "INACTIVE"
+        },
+        "1573236644": {
+            "reklamy.sfd.pl": "INACTIVE"
+        },
+        "1573236649": {
+            "crv.clickad.pl": "INACTIVE"
         }
     }
 }
