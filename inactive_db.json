@@ -160,9 +160,6 @@
         "1570964218": {
             "www.adtaily.pl": "INACTIVE"
         },
-        "1570964360": {
-            "emisjawidgeet.onet.pl": "INACTIVE"
-        },
         "1570964491": {
             "adserver.o2.pl": "INACTIVE"
         },
@@ -470,6 +467,24 @@
         },
         "1573236649": {
             "crv.clickad.pl": "INACTIVE"
+        },
+        "1573294974": {
+            "www.gem.pl": "INACTIVE"
+        },
+        "1573295005": {
+            "megapanel.gem.pl": "INACTIVE"
+        },
+        "1573295006": {
+            "chip.pl.intellitxt.com": "INACTIVE"
+        },
+        "1573295011": {
+            "reklamy.sfd.pl": "INACTIVE"
+        },
+        "1573295017": {
+            "adidm.idmnet.pl": "INACTIVE"
+        },
+        "1573295018": {
+            "emisjawidgeet.onet.pl": "INACTIVE"
         }
     }
 }
