@@ -139,9 +139,6 @@
         "1570819286": {
             "gde.adocean.pl": "INACTIVE"
         },
-        "1570819810": {
-            "media.nk-net.pl": "INACTIVE"
-        },
         "1570824299": {
             "lrytaslt.adocean.pl": "INACTIVE"
         },
@@ -179,9 +176,6 @@
             "local": "INVALID",
             "www.adspiro.pl": "INACTIVE"
         },
-        "1571078929": {
-            "media.nk-net.pl": "INACTIVE"
-        },
         "1571135674": {
             "realitatero.adocean.pl": "INACTIVE"
         },
@@ -194,9 +188,6 @@
         },
         "1571135957": {
             "15minlt.adocean.pl": "INACTIVE"
-        },
-        "1571136089": {
-            "media.nk-net.pl": "INACTIVE"
         },
         "1571136090": {
             "::1 localhost": "INVALID",
@@ -250,9 +241,6 @@
         "1571430815": {
             "localhost.localdomain": "INVALID"
         },
-        "1571430821": {
-            "media.nk-net.pl": "INACTIVE"
-        },
         "1571430822": {
             "gg.mob.vendimob.pl": "INACTIVE"
         },
@@ -264,9 +252,6 @@
         },
         "1571594057": {
             "openx.cda.pl": "INACTIVE"
-        },
-        "1571594067": {
-            "media.nk-net.pl": "INACTIVE"
         },
         "1571594081": {
             "code.new.smartcontext.pl": "INACTIVE"
@@ -306,9 +291,6 @@
         "1572371492": {
             "local": "INVALID"
         },
-        "1572371497": {
-            "media.nk-net.pl": "INACTIVE"
-        },
         "1572518217": {
             "www.adtaily.pl": "INACTIVE"
         },
@@ -321,9 +303,6 @@
             "ads.o2.pl": "INACTIVE",
             "www.adspiro.pl": "INACTIVE"
         },
-        "1572518243": {
-            "media.nk-net.pl": "INACTIVE"
-        },
         "1572518248": {
             "megapanel.gem.pl": "INACTIVE"
         },
@@ -335,8 +314,7 @@
         },
         "1572631231": {
             "::1 localhost": "INVALID",
-            "gratkapl.adocean.pl": "INACTIVE",
-            "media.nk-net.pl": "INACTIVE"
+            "gratkapl.adocean.pl": "INACTIVE"
         },
         "1572631237": {
             "ads.o2.pl": "INACTIVE"
