@@ -9,7 +9,6 @@
             "3.googlenews.xorg.pl": "",
             "5.googlenews.xorg.pl": "",
             "::1 localhost": "",
-            "broadcasthost": "",
             "googlenews.xorg.pl": "",
             "local": "",
             "localhost.localdomain": "",
@@ -20,7 +19,6 @@
             "www.adspiro.pl": "INACTIVE"
         },
         "1561654131": {
-            "broadcasthost": "INVALID",
             "s1.delfilt.adocean.pl": "INACTIVE"
         },
         "1561826891": {
@@ -47,12 +45,8 @@
             "localhost.localdomain": "INVALID",
             "www.adtaily.pl": "INACTIVE"
         },
-        "1563728641": {
-            "broadcasthost": "INVALID"
-        },
         "1563901161": {
             "ads2.rp.pl": "INACTIVE",
-            "broadcasthost": "INVALID",
             "counter.gemius.pl": "INACTIVE",
             "local": "INVALID"
         },
@@ -72,11 +66,9 @@
             "new.smartcontext.pl": "INACTIVE"
         },
         "1566926863": {
-            "broadcasthost": "INVALID",
             "www.adspiro.pl": "INACTIVE"
         },
         "1567099099": {
-            "broadcasthost": "INVALID",
             "www.adspiro.pl": "INACTIVE"
         },
         "1567618199": {
@@ -87,7 +79,6 @@
         },
         "1567964029": {
             "adserwer.intercon.pl": "INACTIVE",
-            "broadcasthost": "INVALID",
             "www.adtaily.pl": "INACTIVE",
             "www.blogvertising.pl": "INACTIVE"
         },
@@ -105,7 +96,6 @@
         },
         "1568568737": {
             "adserwer.intercon.pl": "INACTIVE",
-            "broadcasthost": "INVALID",
             "localhost.localdomain": "INVALID"
         },
         "1568716949": {
@@ -113,7 +103,6 @@
         },
         "1568827951": {
             "::1 localhost": "INVALID",
-            "broadcasthost": "INVALID",
             "localhost.localdomain": "INVALID"
         },
         "1569701650": {
@@ -144,9 +133,6 @@
         },
         "1570824430": {
             "openx.cda.pl": "INACTIVE"
-        },
-        "1570824704": {
-            "broadcasthost": "INVALID"
         },
         "1570824706": {
             "bbcdn.code.new.smartcontext.pl": "INACTIVE"
@@ -226,7 +212,6 @@
         "1571420890": {
             "15minlt.adocean.pl": "INACTIVE",
             "adidm07.idmnet.pl": "INACTIVE",
-            "broadcasthost": "INVALID",
             "localhost.localdomain": "INVALID"
         },
         "1571420901": {
@@ -390,7 +375,6 @@
             "investorbg.adocean.pl": "INACTIVE"
         },
         "1572976753": {
-            "broadcasthost": "INVALID",
             "delfiee.adocean.pl": "INACTIVE",
             "gde.adocean.pl": "INACTIVE"
         },
