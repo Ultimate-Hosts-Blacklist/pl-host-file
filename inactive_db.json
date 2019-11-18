@@ -62,8 +62,7 @@
             "www.adspiro.pl": "INACTIVE"
         },
         "1566753813": {
-            "localhost.localdomain": "INVALID",
-            "new.smartcontext.pl": "INACTIVE"
+            "localhost.localdomain": "INVALID"
         },
         "1566926863": {
             "www.adspiro.pl": "INACTIVE"
@@ -486,9 +485,6 @@
             "15minlt.adocean.pl": "INACTIVE",
             "ringieradro.hit.gemius.pl": "INACTIVE"
         },
-        "1573929888": {
-            "new.smartcontext.pl": "INACTIVE"
-        },
         "1573929889": {
             "code.new.smartcontext.pl": "INACTIVE"
         },
@@ -525,6 +521,117 @@
         },
         "1573929933": {
             "reklamy.sfd.pl": "INACTIVE"
+        },
+        "1574073323": {
+            "rek.adtotal.pl": "INACTIVE"
+        },
+        "1574073364": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1574073380": {
+            "stats.media.onet.pl": "INACTIVE"
+        },
+        "1574073424": {
+            "www.gem.pl": "INACTIVE"
+        },
+        "1574073449": {
+            "s1.gratkapl.adocean.pl": "INACTIVE"
+        },
+        "1574073465": {
+            "ads.businessclick.pl": "INACTIVE"
+        },
+        "1574073472": {
+            "adidm07.idmnet.pl": "INACTIVE"
+        },
+        "1574073474": {
+            "adspiro.pl": "INACTIVE"
+        },
+        "1574073479": {
+            "www.gem.pl": "INACTIVE"
+        },
+        "1574073485": {
+            "adserver.portal.pl": "INACTIVE"
+        },
+        "1574073491": {
+            "media.nk-net.pl": "INACTIVE"
+        },
+        "1574073494": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1574073499": {
+            "ads.o2.pl": "INACTIVE"
+        },
+        "1574073500": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1574073506": {
+            "adidm.idmnet.pl": "INACTIVE"
+        },
+        "1574073507": {
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1574073509": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1574073511": {
+            "adspiro.pl": "INACTIVE"
+        },
+        "1574073512": {
+            "adserver.o2.pl": "INACTIVE"
+        },
+        "1574073514": {
+            "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1574073519": {
+            "www.mystat.pl": "INACTIVE"
+        },
+        "1574073521": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1574073528": {
+            "adsearch.wp.pl": "INACTIVE"
+        },
+        "1574073530": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1574073531": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1574073533": {
+            "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1574073535": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1574073539": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1574073544": {
+            "reklamy.sfd.pl": "INACTIVE"
+        },
+        "1574073546": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1574073551": {
+            "openx.cda.pl": "INACTIVE"
+        },
+        "1574073553": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1574073558": {
+            "crv.clickad.pl": "INACTIVE"
+        },
+        "1574073559": {
+            "s1.gojobsru.adocean.pl": "INACTIVE"
+        },
+        "1574073568": {
+            "megapanel.gem.pl": "INACTIVE"
+        },
+        "1574073573": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1574073574": {
+            "new.smartcontext.pl": "INACTIVE"
         }
     }
 }
