@@ -1,8 +1,8 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Mon Nov 18 10:39:35 2019",
-    "end_epoch": 1574073575.363607,
+    "end_datetime": "Tue Nov 19 10:37:56 2019",
+    "end_epoch": 1574159876.03505,
     "last_autosave_datetime": "Sun Oct 13 11:08:15 2019",
     "last_autosave_epoch": 1570964895.79735,
     "name": "pl-host-file",
@@ -10,16 +10,16 @@
         "builds": 1,
         "clean.list": 378,
         "counter": {
-            "down": 58,
+            "down": 53,
             "invalid": 4,
-            "tested": 440,
+            "tested": 435,
             "up": 378
         },
-        "domains.list": 440,
+        "domains.list": 435,
         "volatile.list": 377,
         "whitelisted.list": 377
     },
     "raw_link": "https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt",
-    "start_datetime": "Mon Nov 18 10:34:44 2019",
-    "start_epoch": 1574073284.50173
+    "start_datetime": "Tue Nov 19 10:33:40 2019",
+    "start_epoch": 1574159620.633225
 }
