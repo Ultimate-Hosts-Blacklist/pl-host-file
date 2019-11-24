@@ -492,9 +492,6 @@
         "1574073380": {
             "stats.media.onet.pl": "INACTIVE"
         },
-        "1574073449": {
-            "s1.gratkapl.adocean.pl": "INACTIVE"
-        },
         "1574073465": {
             "ads.businessclick.pl": "INACTIVE"
         },
@@ -693,9 +690,6 @@
         },
         "1574278687": {
             "adspiro.pl": "INACTIVE"
-        },
-        "1574278688": {
-            "s1.gratkapl.adocean.pl": "INACTIVE"
         },
         "1574278697": {
             "ads.businessclick.pl": "INACTIVE",
@@ -944,6 +938,60 @@
         },
         "1574448236": {
             "gde.adocean.pl": "INACTIVE"
+        },
+        "1574620732": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1574620780": {
+            "panel.adtify.pl": "INACTIVE"
+        },
+        "1574620857": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1574620861": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1574620865": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1574620868": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1574620872": {
+            "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1574620875": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1574620879": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1574620881": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1574620885": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1574620888": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1574620894": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1574620898": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1574620901": {
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1574620903": {
+            "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1574620906": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1574620909": {
+            "show.smartcontext.pl": "INACTIVE"
         }
     }
 }
