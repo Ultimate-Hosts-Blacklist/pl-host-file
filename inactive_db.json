@@ -163,9 +163,6 @@
         "1571135674": {
             "realitatero.adocean.pl": "INACTIVE"
         },
-        "1571135817": {
-            "afilv.adocean.pl": "INACTIVE"
-        },
         "1571135956": {
             "diginet.adocean.pl": "INACTIVE",
             "tracking.novem.pl": "INACTIVE"
@@ -191,9 +188,6 @@
         },
         "1571251675": {
             "local": "INVALID"
-        },
-        "1571251806": {
-            "afilv.adocean.pl": "INACTIVE"
         },
         "1571420868": {
             "boksy.dir.onet.pl": "INACTIVE"
@@ -1025,6 +1019,57 @@
         },
         "1574679451": {
             "counter.gemius.pl": "INACTIVE"
+        },
+        "1574792957": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1574793002": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1574793007": {
+            "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1574793008": {
+            "adspiro.pl": "INACTIVE"
+        },
+        "1574793012": {
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1574793014": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1574793018": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1574793022": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1574793023": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1574793026": {
+            "panel.adtify.pl": "INACTIVE"
+        },
+        "1574793033": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1574793035": {
+            "adspiro.pl": "INACTIVE"
+        },
+        "1574793040": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1574793043": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1574793049": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1574793053": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1574793056": {
+            "ua.cnt.gemius.pl": "INACTIVE"
         }
     }
 }
