@@ -813,17 +813,11 @@
         "1574332750": {
             "crv.clickad.pl": "INACTIVE"
         },
-        "1574332755": {
-            "www.gem.pl": "INACTIVE"
-        },
         "1574447934": {
             "gg.adocean.pl": "INACTIVE"
         },
         "1574447956": {
             "www.adtaily.pl": "INACTIVE"
-        },
-        "1574448086": {
-            "www.gem.pl": "INACTIVE"
         },
         "1574448144": {
             "code.new.smartcontext.pl": "INACTIVE"
@@ -876,9 +870,6 @@
         },
         "1574448195": {
             "gg.mob.vendimob.pl": "INACTIVE"
-        },
-        "1574448201": {
-            "www.gem.pl": "INACTIVE"
         },
         "1574448202": {
             "adserver.o2.pl": "INACTIVE"
@@ -1070,6 +1061,66 @@
         },
         "1574793056": {
             "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1574965842": {
+            "broadcasthost": "INVALID"
+        },
+        "1574965900": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1574965920": {
+            "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1574965921": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1574965925": {
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1574965928": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1574965929": {
+            "adspiro.pl": "INACTIVE"
+        },
+        "1574965932": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1574965934": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1574965937": {
+            "adspiro.pl": "INACTIVE"
+        },
+        "1574965940": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1574965946": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1574965947": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1574965950": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1574965953": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1574965961": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1574965964": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1574965967": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1574965969": {
+            "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1574965970": {
+            "new.smartcontext.pl": "INACTIVE"
         }
     }
 }
