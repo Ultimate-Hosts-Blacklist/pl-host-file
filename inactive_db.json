@@ -189,9 +189,6 @@
         "1571251675": {
             "local": "INVALID"
         },
-        "1571420868": {
-            "boksy.dir.onet.pl": "INACTIVE"
-        },
         "1571420879": {
             "adseu.novem.pl": "INACTIVE"
         },
@@ -1121,6 +1118,51 @@
         },
         "1574965970": {
             "new.smartcontext.pl": "INACTIVE"
+        },
+        "1575066950": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1575067012": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1575067026": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1575067030": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1575067038": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1575067057": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1575067064": {
+            "adspiro.pl": "INACTIVE"
+        },
+        "1575067075": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1575067076": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1575067084": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1575067092": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1575067098": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1575067100": {
+            "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1575067107": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1575067114": {
+            "www.adspiro.pl": "INACTIVE"
         }
     }
 }
