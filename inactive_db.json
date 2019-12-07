@@ -324,9 +324,6 @@
             "adspiro.pl": "INACTIVE",
             "www.adspiro.pl": "INACTIVE"
         },
-        "1572976708": {
-            "bi.adview.pl": "INACTIVE"
-        },
         "1572976715": {
             "chip.pl.intellitxt.com": "INACTIVE"
         },
@@ -1163,6 +1160,54 @@
         },
         "1575067114": {
             "www.adspiro.pl": "INACTIVE"
+        },
+        "1575727460": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1575727553": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1575727554": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1575727575": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1575727577": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1575727586": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1575727617": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1575727618": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1575727622": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1575727625": {
+            "adspiro.pl": "INACTIVE"
+        },
+        "1575727634": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1575727636": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1575727638": {
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1575727642": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1575727645": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1575727648": {
+            "code.new.smartcontext.pl": "INACTIVE"
         }
     }
 }
