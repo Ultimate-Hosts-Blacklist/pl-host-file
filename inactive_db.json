@@ -6,7 +6,6 @@
         },
         "1560704008": {
             "2.googlenews.xorg.pl": "",
-            "3.googlenews.xorg.pl": "",
             "5.googlenews.xorg.pl": "",
             "::1 localhost": "",
             "googlenews.xorg.pl": "",
@@ -1326,6 +1325,54 @@
         },
         "1576062288": {
             "localhost.localdomain": "INVALID"
+        },
+        "1576147381": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1576147459": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1576147472": {
+            "adspiro.pl": "INACTIVE"
+        },
+        "1576147473": {
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1576147476": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1576147477": {
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1576147497": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1576147499": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1576147502": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1576147505": {
+            "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1576147513": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1576147517": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1576147519": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1576147526": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1576147536": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1576147544": {
+            "ua.cnt.gemius.pl": "INACTIVE"
         }
     }
 }
