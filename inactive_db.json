@@ -127,9 +127,6 @@
         "1571078376": {
             "im.of.pl": "INACTIVE"
         },
-        "1571078524": {
-            "s.di.com.pl": "INACTIVE"
-        },
         "1571078798": {
             "local": "INVALID",
             "www.adspiro.pl": "INACTIVE"
@@ -387,9 +384,6 @@
         },
         "1573929910": {
             "adserwer.intercon.pl": "INACTIVE"
-        },
-        "1573929917": {
-            "s.di.com.pl": "INACTIVE"
         },
         "1573929922": {
             "adserver.portal.pl": "INACTIVE"
@@ -1493,6 +1487,51 @@
         },
         "1576882897": {
             "gspro.adocean.pl": "INACTIVE"
+        },
+        "1577009486": {
+            "www.blogvertising.pl": "INACTIVE"
+        },
+        "1577009637": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1577009672": {
+            "adspiro.pl": "INACTIVE"
+        },
+        "1577009685": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1577009687": {
+            "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1577009693": {
+            "www.blogvertising.pl": "INACTIVE"
+        },
+        "1577009696": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1577009698": {
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1577009717": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1577009720": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1577009723": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1577009731": {
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1577009733": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1577009746": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1577009749": {
+            "ad2.pl.mediainter.net": "INACTIVE"
         }
     }
 }
