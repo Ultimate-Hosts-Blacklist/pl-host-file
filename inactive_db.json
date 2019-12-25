@@ -363,9 +363,6 @@
         "1573929928": {
             "crv.clickad.pl": "INACTIVE"
         },
-        "1573929933": {
-            "reklamy.sfd.pl": "INACTIVE"
-        },
         "1574073380": {
             "stats.media.onet.pl": "INACTIVE"
         },
@@ -416,9 +413,6 @@
         },
         "1574073535": {
             "s1.delfilt.adocean.pl": "INACTIVE"
-        },
-        "1574073544": {
-            "reklamy.sfd.pl": "INACTIVE"
         },
         "1574073546": {
             "openx.xenium.pl": "INACTIVE"
@@ -497,9 +491,6 @@
         },
         "1574159849": {
             "media.nk-net.pl": "INACTIVE"
-        },
-        "1574159855": {
-            "reklamy.sfd.pl": "INACTIVE"
         },
         "1574159861": {
             "adidm07.idmnet.pl": "INACTIVE"
@@ -696,9 +687,6 @@
         },
         "1574448223": {
             "s1.gojobsru.adocean.pl": "INACTIVE"
-        },
-        "1574448229": {
-            "reklamy.sfd.pl": "INACTIVE"
         },
         "1574448234": {
             "adidm07.idmnet.pl": "INACTIVE"
@@ -1420,6 +1408,60 @@
         },
         "1577127249": {
             "www.adtaily.pl": "INACTIVE"
+        },
+        "1577299755": {
+            "adv.gazeta.pl": "INACTIVE"
+        },
+        "1577299850": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1577299910": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1577299929": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1577299932": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1577299945": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1577299948": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1577299950": {
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1577299951": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1577299955": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1577299959": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1577299965": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1577299967": {
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1577299976": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1577299983": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1577299990": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1577299992": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1577299999": {
+            "counter.gemius.pl": "INACTIVE"
         }
     }
 }
