@@ -282,9 +282,6 @@
         "1573929762": {
             "media.nk-net.pl": "INACTIVE"
         },
-        "1573929784": {
-            "www.mystat.pl": "INACTIVE"
-        },
         "1573929848": {
             "s1.gojobsru.adocean.pl": "INACTIVE"
         },
@@ -376,9 +373,6 @@
         "1574073514": {
             "gg.mob.vendimob.pl": "INACTIVE"
         },
-        "1574073519": {
-            "www.mystat.pl": "INACTIVE"
-        },
         "1574073521": {
             "adserwer.intercon.pl": "INACTIVE"
         },
@@ -417,9 +411,6 @@
         },
         "1574159786": {
             "intactro.adocean.pl": "INACTIVE"
-        },
-        "1574159793": {
-            "www.mystat.pl": "INACTIVE"
         },
         "1574159794": {
             "gg.mob.vendimob.pl": "INACTIVE"
@@ -478,9 +469,6 @@
         },
         "1574278700": {
             "spanel.gem.pl": "INACTIVE"
-        },
-        "1574278706": {
-            "www.mystat.pl": "INACTIVE"
         },
         "1574278712": {
             "adsearch.wp.pl": "INACTIVE"
@@ -553,9 +541,6 @@
         "1574332680": {
             "intactro.adocean.pl": "INACTIVE"
         },
-        "1574332686": {
-            "www.mystat.pl": "INACTIVE"
-        },
         "1574332691": {
             "gspro.adocean.pl": "INACTIVE"
         },
@@ -601,9 +586,6 @@
         },
         "1574448161": {
             "openx.cda.pl": "INACTIVE"
-        },
-        "1574448166": {
-            "www.mystat.pl": "INACTIVE"
         },
         "1574448172": {
             "adserver.portal.pl": "INACTIVE"
@@ -1456,6 +1438,57 @@
         },
         "1577573637": {
             "gspro.adocean.pl": "INACTIVE"
+        },
+        "1577732395": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1577732404": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1577732406": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1577732413": {
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1577732423": {
+            "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1577732431": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1577732432": {
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1577732434": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1577732435": {
+            "www.blogvertising.pl": "INACTIVE"
+        },
+        "1577732441": {
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1577732443": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1577732446": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1577732462": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1577732465": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1577732467": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1577732469": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1577732471": {
+            "gg.mob.vendimob.pl": "INACTIVE"
         }
     }
 }
