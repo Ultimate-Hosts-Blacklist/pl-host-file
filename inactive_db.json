@@ -337,9 +337,6 @@
         "1573929928": {
             "crv.clickad.pl": "INACTIVE"
         },
-        "1574073380": {
-            "stats.media.onet.pl": "INACTIVE"
-        },
         "1574073465": {
             "ads.businessclick.pl": "INACTIVE"
         },
@@ -492,9 +489,6 @@
             "ads2.rp.pl": "INACTIVE",
             "realitatero.adocean.pl": "INACTIVE"
         },
-        "1574278734": {
-            "stats.media.onet.pl": "INACTIVE"
-        },
         "1574278739": {
             "openx.cda.pl": "INACTIVE"
         },
@@ -592,9 +586,6 @@
         },
         "1574448178": {
             "ua.cnt.gemius.pl": "INACTIVE"
-        },
-        "1574448180": {
-            "stats.media.onet.pl": "INACTIVE"
         },
         "1574448183": {
             "adserwer.intercon.pl": "INACTIVE"
@@ -1530,6 +1521,51 @@
             "www.adtaily.pl": "INACTIVE"
         },
         "1577905298": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1578077912": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1578077975": {
+            "www.blogvertising.pl": "INACTIVE"
+        },
+        "1578077986": {
+            "www.leadmy.pl": "INACTIVE"
+        },
+        "1578078083": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1578078093": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1578078094": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1578078104": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1578078106": {
+            "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1578078126": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1578078129": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1578078148": {
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1578078161": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1578078174": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1578078175": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1578078177": {
             "intactro.adocean.pl": "INACTIVE"
         }
     }
