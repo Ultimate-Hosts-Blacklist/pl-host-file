@@ -337,9 +337,6 @@
         "1573929928": {
             "crv.clickad.pl": "INACTIVE"
         },
-        "1574073465": {
-            "ads.businessclick.pl": "INACTIVE"
-        },
         "1574073472": {
             "adidm07.idmnet.pl": "INACTIVE"
         },
@@ -461,7 +458,6 @@
             "adspiro.pl": "INACTIVE"
         },
         "1574278697": {
-            "ads.businessclick.pl": "INACTIVE",
             "s1.gojobsru.adocean.pl": "INACTIVE"
         },
         "1574278700": {
@@ -1567,6 +1563,70 @@
         },
         "1578078177": {
             "intactro.adocean.pl": "INACTIVE"
+        },
+        "1578250354": {
+            "webgroundbg.adocean.pl": "INACTIVE"
+        },
+        "1578250387": {
+            "www.blogvertising.pl": "INACTIVE"
+        },
+        "1578250391": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1578250405": {
+            "www.leadmy.pl": "INACTIVE"
+        },
+        "1578250455": {
+            "ads.edipresse.pl": "INACTIVE"
+        },
+        "1578250522": {
+            "www.leadmy.pl": "INACTIVE"
+        },
+        "1578250530": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1578250537": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1578250540": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1578250542": {
+            "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1578250544": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1578250547": {
+            "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1578250548": {
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1578250550": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1578250553": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1578250556": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1578250558": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1578250567": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1578250575": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1578250578": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1578250595": {
+            "adspiro.pl": "INACTIVE",
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
         }
     }
 }
