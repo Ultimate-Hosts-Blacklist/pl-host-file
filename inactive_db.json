@@ -270,9 +270,6 @@
         "1573295006": {
             "chip.pl.intellitxt.com": "INACTIVE"
         },
-        "1573295018": {
-            "emisjawidgeet.onet.pl": "INACTIVE"
-        },
         "1573929705": {
             "rek.www.wp.pl": "INACTIVE"
         },
@@ -312,8 +309,7 @@
             "adsearch.wp.pl": "INACTIVE"
         },
         "1573929886": {
-            "adspiro.pl": "INACTIVE",
-            "emisjawidgeet.onet.pl": "INACTIVE"
+            "adspiro.pl": "INACTIVE"
         },
         "1573929887": {
             "15minlt.adocean.pl": "INACTIVE",
@@ -1627,6 +1623,57 @@
         "1578250595": {
             "adspiro.pl": "INACTIVE",
             "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1578394246": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1578394300": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1578394310": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1578394318": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1578394320": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1578394322": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1578394327": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1578394335": {
+            "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1578394344": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1578394345": {
+            "adspiro.pl": "INACTIVE"
+        },
+        "1578394348": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1578394349": {
+            "www.leadmy.pl": "INACTIVE"
+        },
+        "1578394370": {
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1578394377": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1578394380": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1578394382": {
+            "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1578394383": {
+            "adspiro.pl": "INACTIVE"
         }
     }
 }
