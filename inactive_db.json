@@ -142,9 +142,6 @@
             "15minlt.adocean.pl": "INACTIVE",
             "adidm07.idmnet.pl": "INACTIVE"
         },
-        "1571420901": {
-            "ads.o2.pl": "INACTIVE"
-        },
         "1571430803": {
             "gratkapl.adocean.pl": "INACTIVE"
         },
@@ -166,9 +163,6 @@
         "1571740534": {
             "ringierro.adocean.pl": "INACTIVE"
         },
-        "1571740547": {
-            "ads.o2.pl": "INACTIVE"
-        },
         "1572199690": {
             "delivery.clickonometrics.pl": "INACTIVE"
         },
@@ -189,7 +183,6 @@
             "tracking.novem.pl": "INACTIVE"
         },
         "1572518237": {
-            "ads.o2.pl": "INACTIVE",
             "www.adspiro.pl": "INACTIVE"
         },
         "1572631190": {
@@ -202,17 +195,11 @@
             "::1 localhost": "INVALID",
             "gratkapl.adocean.pl": "INACTIVE"
         },
-        "1572631237": {
-            "ads.o2.pl": "INACTIVE"
-        },
         "1572689406": {
             "lrytaslt.adocean.pl": "INACTIVE"
         },
         "1572689411": {
             "www.adspiro.pl": "INACTIVE"
-        },
-        "1572689417": {
-            "ads.o2.pl": "INACTIVE"
         },
         "1572689422": {
             "adserver.portal.pl": "INACTIVE"
@@ -260,9 +247,6 @@
         },
         "1573236632": {
             "im.of.pl": "INACTIVE"
-        },
-        "1573236638": {
-            "ads.o2.pl": "INACTIVE"
         },
         "1573236649": {
             "crv.clickad.pl": "INACTIVE"
@@ -345,9 +329,6 @@
         "1574073491": {
             "media.nk-net.pl": "INACTIVE"
         },
-        "1574073499": {
-            "ads.o2.pl": "INACTIVE"
-        },
         "1574073500": {
             "intactro.adocean.pl": "INACTIVE"
         },
@@ -395,9 +376,6 @@
         },
         "1574159780": {
             "c.allegrostatic.pl": "INACTIVE"
-        },
-        "1574159785": {
-            "ads.o2.pl": "INACTIVE"
         },
         "1574159786": {
             "intactro.adocean.pl": "INACTIVE"
@@ -467,9 +445,6 @@
         },
         "1574278715": {
             "gg.mob.vendimob.pl": "INACTIVE"
-        },
-        "1574278723": {
-            "ads.o2.pl": "INACTIVE"
         },
         "1574278724": {
             "c.allegrostatic.pl": "INACTIVE"
@@ -542,9 +517,6 @@
         "1574332718": {
             "adserwer.intercon.pl": "INACTIVE"
         },
-        "1574332723": {
-            "ads.o2.pl": "INACTIVE"
-        },
         "1574332725": {
             "gg.mob.vendimob.pl": "INACTIVE"
         },
@@ -599,9 +571,6 @@
         },
         "1574448215": {
             "www.adspiro.pl": "INACTIVE"
-        },
-        "1574448221": {
-            "ads.o2.pl": "INACTIVE"
         },
         "1574448223": {
             "s1.gojobsru.adocean.pl": "INACTIVE"
@@ -1674,6 +1643,48 @@
         },
         "1578394383": {
             "adspiro.pl": "INACTIVE"
+        },
+        "1578509933": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1578510183": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1578510191": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1578510196": {
+            "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1578510197": {
+            "adspiro.pl": "INACTIVE"
+        },
+        "1578510207": {
+            "adspiro.pl": "INACTIVE"
+        },
+        "1578510210": {
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1578510222": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1578510228": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1578510239": {
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1578510258": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1578510260": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1578510262": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1578510273": {
+            "ua.cnt.gemius.pl": "INACTIVE"
         }
     }
 }
