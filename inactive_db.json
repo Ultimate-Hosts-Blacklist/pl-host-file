@@ -6,7 +6,6 @@
         },
         "1560704008": {
             "2.googlenews.xorg.pl": "",
-            "5.googlenews.xorg.pl": "",
             "::1 localhost": "",
             "googlenews.xorg.pl": "",
             "local": "",
@@ -1718,6 +1717,51 @@
         },
         "1578683406": {
             "www.blogvertising.pl": "INACTIVE"
+        },
+        "1578740284": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1578740288": {
+            "www.blogvertising.pl": "INACTIVE"
+        },
+        "1578740296": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1578740300": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1578740304": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1578740314": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1578740316": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1578740318": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1578740321": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1578740325": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1578740332": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1578740339": {
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1578740341": {
+            "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1578740354": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1578740356": {
+            "gspro.adocean.pl": "INACTIVE"
         }
     }
 }
