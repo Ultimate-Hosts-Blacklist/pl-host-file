@@ -740,9 +740,6 @@
         "1576062282": {
             "spanel.gem.pl": "INACTIVE"
         },
-        "1576062288": {
-            "localhost.localdomain": "INVALID"
-        },
         "1576147473": {
             "spanel.gem.pl": "INACTIVE"
         },
@@ -1520,27 +1517,6 @@
         "1579029158": {
             "intactro.adocean.pl": "INACTIVE"
         },
-        "1579029162": {
-            "openx.xenium.pl": "INACTIVE"
-        },
-        "1579029165": {
-            "adserwer.intercon.pl": "INACTIVE"
-        },
-        "1579029168": {
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
-        "1579029171": {
-            "new.smartcontext.pl": "INACTIVE"
-        },
-        "1579029176": {
-            "ad2.pl.mediainter.net": "INACTIVE"
-        },
-        "1579029189": {
-      
-        },
-        "1579029158": {
-            "intactro.adocean.pl": "INACTIVE"
-        },
         "1579029160": {
             "adspiro.pl": "INACTIVE"
         },
@@ -1645,6 +1621,58 @@
         },
         "1579042880": {
             "www.adspiro.pl": "INACTIVE"
+        },
+        "1579199821": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1579199878": {
+            "www.blogvertising.pl": "INACTIVE"
+        },
+        "1579199989": {
+            "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1579199991": {
+            "adspiro.pl": "INACTIVE"
+        },
+        "1579199995": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1579200003": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1579200013": {
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1579200016": {
+            "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1579200025": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1579200028": {
+            "::1 localhost": "INVALID"
+        },
+        "1579200030": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1579200032": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1579200043": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1579200046": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1579200050": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1579200068": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1579200074": {
+            "localhost.localdomain": "INVALID",
+            "ua.cnt.gemius.pl": "INACTIVE"
         }
     }
 }
