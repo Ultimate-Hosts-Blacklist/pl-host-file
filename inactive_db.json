@@ -1,14 +1,12 @@
 {
     "api_call": {
         "1560617443": {
-            "local": "",
             "www.adspiro.pl": ""
         },
         "1560704008": {
             "2.googlenews.xorg.pl": "",
             "::1 localhost": "",
             "googlenews.xorg.pl": "",
-            "local": "",
             "spanel.gem.pl": "",
             "www.adspiro.pl": ""
         },
@@ -21,25 +19,12 @@
         "1561826891": {
             "www.adspiro.pl": "INACTIVE"
         },
-        "1561999998": {
-            "local": "INVALID"
-        },
-        "1562864362": {
-            "local": "INVALID"
-        },
-        "1563037432": {
-            "local": "INVALID"
-        },
-        "1563901161": {
-            "local": "INVALID"
-        },
         "1564247120": {
             "::1 localhost": "INVALID",
             "www.adspiro.pl": "INACTIVE"
         },
         "1565283773": {
-            "::1 localhost": "INVALID",
-            "local": "INVALID"
+            "::1 localhost": "INVALID"
         },
         "1565456695": {
             "www.adspiro.pl": "INACTIVE"
@@ -56,9 +41,6 @@
         "1567964029": {
             "adserwer.intercon.pl": "INACTIVE",
             "www.blogvertising.pl": "INACTIVE"
-        },
-        "1568069224": {
-            "local": "INVALID"
         },
         "1568371313": {
             "::1 localhost": "INVALID",
@@ -77,9 +59,6 @@
         "1569701650": {
             "adserwer.intercon.pl": "INACTIVE",
             "c.allegrostatic.pl": "INACTIVE"
-        },
-        "1569838679": {
-            "local": "INVALID"
         },
         "1569925535": {
             "c.allegrostatic.pl": "INACTIVE"
@@ -100,7 +79,6 @@
             "im.of.pl": "INACTIVE"
         },
         "1571078798": {
-            "local": "INVALID",
             "www.adspiro.pl": "INACTIVE"
         },
         "1571135674": {
@@ -122,9 +100,6 @@
         "1571251538": {
             "obozua.adocean.pl": "INACTIVE"
         },
-        "1571251675": {
-            "local": "INVALID"
-        },
         "1571420879": {
             "adseu.novem.pl": "INACTIVE"
         },
@@ -134,9 +109,6 @@
         },
         "1571430803": {
             "gratkapl.adocean.pl": "INACTIVE"
-        },
-        "1571430810": {
-            "local": "INVALID"
         },
         "1571430822": {
             "gg.mob.vendimob.pl": "INACTIVE"
@@ -161,9 +133,6 @@
         },
         "1572371486": {
             "lrytaslt.adocean.pl": "INACTIVE"
-        },
-        "1572371492": {
-            "local": "INVALID"
         },
         "1572518232": {
             "lrytaslt.adocean.pl": "INACTIVE",
@@ -193,9 +162,6 @@
         },
         "1572803475": {
             "investoradbg.hit.gemius.pl": "INACTIVE"
-        },
-        "1572803481": {
-            "local": "INVALID"
         },
         "1572803487": {
             "::1 localhost": "INVALID"
@@ -227,9 +193,6 @@
         },
         "1573122903": {
             "obozua.adocean.pl": "INACTIVE"
-        },
-        "1573122908": {
-            "local": "INVALID"
         },
         "1573236632": {
             "im.of.pl": "INACTIVE"
@@ -367,9 +330,6 @@
         },
         "1574159861": {
             "adidm07.idmnet.pl": "INACTIVE"
-        },
-        "1574278662": {
-            "local": "INVALID"
         },
         "1574278697": {
             "s1.gojobsru.adocean.pl": "INACTIVE"
@@ -1414,9 +1374,6 @@
         "1579029010": {
             "www.blogvertising.pl": "INACTIVE"
         },
-        "1579029150": {
-            "local": "INVALID"
-        },
         "1579029158": {
             "intactro.adocean.pl": "INACTIVE"
         },
@@ -1610,7 +1567,6 @@
             "counter.gemius.pl": "INACTIVE"
         },
         "1579300663": {
-            "local": "INVALID",
             "localhost.localdomain": "INVALID"
         },
         "1579300668": {
@@ -1633,6 +1589,69 @@
         },
         "1579300709": {
             "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1579463689": {
+            "www.blogvertising.pl": "INACTIVE"
+        },
+        "1579463880": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1579463938": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1579463939": {
+            "www.blogvertising.pl": "INACTIVE"
+        },
+        "1579463941": {
+            "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1579463944": {
+            "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1579463954": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1579463962": {
+            "::1 localhost": "INVALID"
+        },
+        "1579463965": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1579463969": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1579463970": {
+            "broadcasthost": "INVALID"
+        },
+        "1579463978": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1579463983": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1579463985": {
+            "afi.adocean.pl": "INACTIVE"
+        },
+        "1579463987": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1579463988": {
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1579463997": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1579464009": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1579464013": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1579464017": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1579464022": {
+            "local": "INVALID"
         }
     }
 }
