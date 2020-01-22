@@ -1,8 +1,8 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Tue Jan 21 19:22:38 2020",
-    "end_epoch": 1579634558.212249,
+    "end_datetime": "Wed Jan 22 11:08:45 2020",
+    "end_epoch": 1579691325.771777,
     "last_autosave_datetime": "Sun Oct 13 11:08:15 2019",
     "last_autosave_epoch": 1570964895.79735,
     "name": "pl-host-file",
@@ -20,6 +20,6 @@
         "whitelisted.list": 415
     },
     "raw_link": "https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt",
-    "start_datetime": "Tue Jan 21 19:18:04 2020",
-    "start_epoch": 1579634284.521358
+    "start_datetime": "Wed Jan 22 11:03:02 2020",
+    "start_epoch": 1579690982.260084
 }
