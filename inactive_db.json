@@ -39,16 +39,11 @@
             "::1 localhost": "INVALID"
         },
         "1567964029": {
-            "adserwer.intercon.pl": "INACTIVE",
             "www.blogvertising.pl": "INACTIVE"
         },
         "1568371313": {
             "::1 localhost": "INVALID",
-            "adserwer.intercon.pl": "INACTIVE",
             "www.adspiro.pl": "INACTIVE"
-        },
-        "1568568737": {
-            "adserwer.intercon.pl": "INACTIVE"
         },
         "1568716949": {
             "c.allegrostatic.pl": "INACTIVE"
@@ -57,7 +52,6 @@
             "::1 localhost": "INVALID"
         },
         "1569701650": {
-            "adserwer.intercon.pl": "INACTIVE",
             "c.allegrostatic.pl": "INACTIVE"
         },
         "1569925535": {
@@ -235,9 +229,6 @@
         "1573929903": {
             "diginet.adocean.pl": "INACTIVE"
         },
-        "1573929910": {
-            "adserwer.intercon.pl": "INACTIVE"
-        },
         "1573929922": {
             "adserver.portal.pl": "INACTIVE"
         },
@@ -258,9 +249,6 @@
         },
         "1574073507": {
             "spanel.gem.pl": "INACTIVE"
-        },
-        "1574073521": {
-            "adserwer.intercon.pl": "INACTIVE"
         },
         "1574073528": {
             "adsearch.wp.pl": "INACTIVE"
@@ -301,9 +289,6 @@
         "1574159813": {
             "gspro.adocean.pl": "INACTIVE"
         },
-        "1574159826": {
-            "adserwer.intercon.pl": "INACTIVE"
-        },
         "1574159827": {
             "s1.gojobsru.adocean.pl": "INACTIVE"
         },
@@ -324,9 +309,6 @@
         },
         "1574278712": {
             "adsearch.wp.pl": "INACTIVE"
-        },
-        "1574278714": {
-            "adserwer.intercon.pl": "INACTIVE"
         },
         "1574278724": {
             "c.allegrostatic.pl": "INACTIVE"
@@ -380,9 +362,6 @@
         "1574332715": {
             "adidm07.idmnet.pl": "INACTIVE"
         },
-        "1574332718": {
-            "adserwer.intercon.pl": "INACTIVE"
-        },
         "1574332733": {
             "media.nk-net.pl": "INACTIVE"
         },
@@ -401,9 +380,6 @@
         },
         "1574448172": {
             "adserver.portal.pl": "INACTIVE"
-        },
-        "1574448183": {
-            "adserwer.intercon.pl": "INACTIVE"
         },
         "1574448186": {
             "www.adspiro.pl": "INACTIVE"
@@ -425,9 +401,6 @@
         },
         "1574620872": {
             "c.allegrostatic.pl": "INACTIVE"
-        },
-        "1574620881": {
-            "adserwer.intercon.pl": "INACTIVE"
         },
         "1574620894": {
             "s1.delfilt.adocean.pl": "INACTIVE"
@@ -477,9 +450,6 @@
         "1574965925": {
             "spanel.gem.pl": "INACTIVE"
         },
-        "1574965934": {
-            "adserwer.intercon.pl": "INACTIVE"
-        },
         "1574965940": {
             "intactro.adocean.pl": "INACTIVE"
         },
@@ -507,9 +477,6 @@
         "1575727577": {
             "openx.xenium.pl": "INACTIVE"
         },
-        "1575727586": {
-            "adserwer.intercon.pl": "INACTIVE"
-        },
         "1575727622": {
             "s1.delfilt.adocean.pl": "INACTIVE"
         },
@@ -528,9 +495,6 @@
         "1575760846": {
             "s1.delfilt.adocean.pl": "INACTIVE"
         },
-        "1575760866": {
-            "adserwer.intercon.pl": "INACTIVE"
-        },
         "1575760926": {
             "new.smartcontext.pl": "INACTIVE"
         },
@@ -545,9 +509,6 @@
         },
         "1575917975": {
             "spanel.gem.pl": "INACTIVE"
-        },
-        "1575917977": {
-            "adserwer.intercon.pl": "INACTIVE"
         },
         "1575917989": {
             "new.smartcontext.pl": "INACTIVE"
@@ -572,9 +533,6 @@
         },
         "1576062209": {
             "c.allegrostatic.pl": "INACTIVE"
-        },
-        "1576062211": {
-            "adserwer.intercon.pl": "INACTIVE"
         },
         "1576062234": {
             "new.smartcontext.pl": "INACTIVE"
@@ -636,17 +594,11 @@
         "1576522271": {
             "spanel.gem.pl": "INACTIVE"
         },
-        "1576522282": {
-            "adserwer.intercon.pl": "INACTIVE"
-        },
         "1576537152": {
             "s1.delfilt.adocean.pl": "INACTIVE"
         },
         "1576537196": {
             "c.allegrostatic.pl": "INACTIVE"
-        },
-        "1576537199": {
-            "adserwer.intercon.pl": "INACTIVE"
         },
         "1576537233": {
             "spanel.gem.pl": "INACTIVE"
@@ -672,9 +624,6 @@
         "1576580304": {
             "s1.delfilt.adocean.pl": "INACTIVE"
         },
-        "1576580317": {
-            "adserwer.intercon.pl": "INACTIVE"
-        },
         "1576694891": {
             "c.allegrostatic.pl": "INACTIVE"
         },
@@ -689,9 +638,6 @@
         },
         "1576694964": {
             "s1.delfilt.adocean.pl": "INACTIVE"
-        },
-        "1576694979": {
-            "adserwer.intercon.pl": "INACTIVE"
         },
         "1576694986": {
             "openx.xenium.pl": "INACTIVE"
@@ -731,9 +677,6 @@
         },
         "1576882893": {
             "intactro.adocean.pl": "INACTIVE"
-        },
-        "1576882896": {
-            "adserwer.intercon.pl": "INACTIVE"
         },
         "1576882897": {
             "gspro.adocean.pl": "INACTIVE"
@@ -809,9 +752,6 @@
         },
         "1577299932": {
             "show.smartcontext.pl": "INACTIVE"
-        },
-        "1577299945": {
-            "adserwer.intercon.pl": "INACTIVE"
         },
         "1577299948": {
             "s1.delfilt.adocean.pl": "INACTIVE"
@@ -990,9 +930,6 @@
         "1578078106": {
             "c.allegrostatic.pl": "INACTIVE"
         },
-        "1578078129": {
-            "adserwer.intercon.pl": "INACTIVE"
-        },
         "1578078148": {
             "gspro.adocean.pl": "INACTIVE"
         },
@@ -1044,9 +981,6 @@
         "1578250553": {
             "code.new.smartcontext.pl": "INACTIVE"
         },
-        "1578250558": {
-            "adserwer.intercon.pl": "INACTIVE"
-        },
         "1578250567": {
             "intactro.adocean.pl": "INACTIVE"
         },
@@ -1061,9 +995,6 @@
         },
         "1578394300": {
             "s1.delfilt.adocean.pl": "INACTIVE"
-        },
-        "1578394310": {
-            "adserwer.intercon.pl": "INACTIVE"
         },
         "1578394322": {
             "show.smartcontext.pl": "INACTIVE"
@@ -1091,9 +1022,6 @@
         },
         "1578509933": {
             "www.adtaily.pl": "INACTIVE"
-        },
-        "1578510183": {
-            "adserwer.intercon.pl": "INACTIVE"
         },
         "1578510191": {
             "ad2.pl.mediainter.net": "INACTIVE"
@@ -1143,9 +1071,6 @@
         "1578683383": {
             "ad2.pl.mediainter.net": "INACTIVE"
         },
-        "1578683389": {
-            "adserwer.intercon.pl": "INACTIVE"
-        },
         "1578683403": {
             "new.smartcontext.pl": "INACTIVE"
         },
@@ -1178,9 +1103,6 @@
         },
         "1578740341": {
             "c.allegrostatic.pl": "INACTIVE"
-        },
-        "1578740354": {
-            "adserwer.intercon.pl": "INACTIVE"
         },
         "1578740356": {
             "gspro.adocean.pl": "INACTIVE"
@@ -1235,9 +1157,6 @@
         },
         "1579029162": {
             "openx.xenium.pl": "INACTIVE"
-        },
-        "1579029165": {
-            "adserwer.intercon.pl": "INACTIVE"
         },
         "1579029171": {
             "new.smartcontext.pl": "INACTIVE"
@@ -1380,9 +1299,6 @@
         "1579300640": {
             "www.blogvertising.pl": "INACTIVE"
         },
-        "1579300644": {
-            "adserwer.intercon.pl": "INACTIVE"
-        },
         "1579300648": {
             "code.new.smartcontext.pl": "INACTIVE"
         },
@@ -1446,9 +1362,6 @@
         "1579463978": {
             "ads.clickad.com.pl": "INACTIVE"
         },
-        "1579463983": {
-            "adserwer.intercon.pl": "INACTIVE"
-        },
         "1579463985": {
             "afi.adocean.pl": "INACTIVE"
         },
@@ -1484,9 +1397,6 @@
         },
         "1579634504": {
             "bbcdn.code.new.smartcontext.pl": "INACTIVE"
-        },
-        "1579634506": {
-            "adserwer.intercon.pl": "INACTIVE"
         },
         "1579634514": {
             "ads.clickad.com.pl": "INACTIVE"
@@ -1614,9 +1524,6 @@
         "1580151499": {
             "www.adtaily.pl": "INACTIVE"
         },
-        "1580151684": {
-            "adserwer.intercon.pl": "INACTIVE"
-        },
         "1580151686": {
             "show.smartcontext.pl": "INACTIVE"
         },
@@ -1658,6 +1565,55 @@
         },
         "1580151759": {
             "adspiro.pl": "INACTIVE"
+        },
+        "1580323324": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1580323392": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1580323395": {
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1580323397": {
+            "adspiro.pl": "INACTIVE",
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1580323399": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1580323402": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1580323404": {
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1580323417": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1580323418": {
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1580323435": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1580323438": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1580323440": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1580323449": {
+            "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1580323457": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1580323458": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1580323461": {
+            "adserwer.intercon.pl": "INACTIVE"
         }
     }
 }
