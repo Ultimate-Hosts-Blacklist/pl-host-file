@@ -6,7 +6,6 @@
         "1560704008": {
             "2.googlenews.xorg.pl": "",
             "::1 localhost": "",
-            "googlenews.xorg.pl": "",
             "spanel.gem.pl": "",
             "www.adspiro.pl": ""
         },
@@ -1684,6 +1683,51 @@
         },
         "1580770089": {
             "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1580929625": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1580929814": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1580929816": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1580929818": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1580929820": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1580929822": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1580929831": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1580929832": {
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1580929853": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1580929855": {
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1580929862": {
+            "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1580929866": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1580929868": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1580929872": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1580929877": {
+            "c.allegrostatic.pl": "INACTIVE"
         }
     }
 }
