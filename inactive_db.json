@@ -693,9 +693,6 @@
         "1577127249": {
             "www.adtaily.pl": "INACTIVE"
         },
-        "1577299755": {
-            "adv.gazeta.pl": "INACTIVE"
-        },
         "1577299850": {
             "www.adtaily.pl": "INACTIVE"
         },
@@ -1775,6 +1772,66 @@
         },
         "1581101425": {
             "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1581244386": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1581244657": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1581244658": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1581244660": {
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1581244664": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1581244666": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1581244674": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1581244677": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1581244681": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1581244684": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1581244693": {
+            "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1581244695": {
+            "adspiro.pl": "INACTIVE"
+        },
+        "1581244697": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1581244699": {
+            "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1581244702": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1581244705": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1581244709": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1581244711": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1581244713": {
+            "broadcasthost": "INVALID"
+        },
+        "1581244715": {
+            "gspro.adocean.pl": "INACTIVE"
         }
     }
 }
