@@ -1278,9 +1278,6 @@
         "1579300699": {
             "intactro.adocean.pl": "INACTIVE"
         },
-        "1579300709": {
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
         "1579463689": {
             "www.blogvertising.pl": "INACTIVE"
         },
@@ -1304,9 +1301,6 @@
         },
         "1579463965": {
             "intactro.adocean.pl": "INACTIVE"
-        },
-        "1579463969": {
-            "ua.cnt.gemius.pl": "INACTIVE"
         },
         "1579463970": {
             "broadcasthost": "INVALID"
@@ -1353,9 +1347,6 @@
         "1579634514": {
             "ads.clickad.com.pl": "INACTIVE"
         },
-        "1579634517": {
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
         "1579634530": {
             "www.adtaily.pl": "INACTIVE"
         },
@@ -1394,9 +1385,6 @@
         },
         "1579691269": {
             "spanel.gem.pl": "INACTIVE"
-        },
-        "1579691294": {
-            "ua.cnt.gemius.pl": "INACTIVE"
         },
         "1579691296": {
             "www.adtaily.pl": "INACTIVE"
@@ -1443,9 +1431,6 @@
         "1579806372": {
             "ads.clickad.com.pl": "INACTIVE"
         },
-        "1579806374": {
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
         "1579806377": {
             "ads2.rp.pl": "INACTIVE"
         },
@@ -1487,9 +1472,6 @@
         },
         "1580151697": {
             "ad2.pl.mediainter.net": "INACTIVE"
-        },
-        "1580151700": {
-            "ua.cnt.gemius.pl": "INACTIVE"
         },
         "1580151702": {
             "gspro.adocean.pl": "INACTIVE"
@@ -1589,9 +1571,6 @@
         "1580497669": {
             "code.new.smartcontext.pl": "INACTIVE"
         },
-        "1580497672": {
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
         "1580497676": {
             "gg.mob.vendimob.pl": "INACTIVE"
         },
@@ -1677,9 +1656,6 @@
         "1580770086": {
             "s1.delfilt.adocean.pl": "INACTIVE"
         },
-        "1580770089": {
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
         "1580929625": {
             "www.adtaily.pl": "INACTIVE"
         },
@@ -1749,9 +1725,6 @@
         "1581101399": {
             "ads.clickad.com.pl": "INACTIVE"
         },
-        "1581101402": {
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
         "1581101404": {
             "new.smartcontext.pl": "INACTIVE"
         },
@@ -1794,9 +1767,6 @@
         "1581244674": {
             "ads.clickad.com.pl": "INACTIVE"
         },
-        "1581244677": {
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
         "1581244681": {
             "bbcdn.code.new.smartcontext.pl": "INACTIVE"
         },
@@ -1832,6 +1802,65 @@
         },
         "1581244715": {
             "gspro.adocean.pl": "INACTIVE"
+        },
+        "1581361466": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1581361676": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1581361678": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1581361681": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1581361692": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
+            "local": "INVALID"
+        },
+        "1581361696": {
+            "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1581361701": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1581361702": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1581361711": {
+            "ads.clickad.com.pl": "INACTIVE",
+            "adspiro.pl": "INACTIVE"
+        },
+        "1581361713": {
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1581361723": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1581361727": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1581361730": {
+            "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1581361731": {
+            "broadcasthost": "INVALID"
+        },
+        "1581361736": {
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1581361739": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1581361741": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1581361743": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1581361746": {
+            "ua.cnt.gemius.pl": "INACTIVE"
         }
     }
 }
