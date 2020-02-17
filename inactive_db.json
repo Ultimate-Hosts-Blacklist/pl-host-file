@@ -171,9 +171,6 @@
         "1573236632": {
             "im.of.pl": "INACTIVE"
         },
-        "1573236649": {
-            "crv.clickad.pl": "INACTIVE"
-        },
         "1573295006": {
             "chip.pl.intellitxt.com": "INACTIVE"
         },
@@ -208,9 +205,6 @@
         "1573929903": {
             "diginet.adocean.pl": "INACTIVE"
         },
-        "1573929928": {
-            "crv.clickad.pl": "INACTIVE"
-        },
         "1574073472": {
             "adidm07.idmnet.pl": "INACTIVE"
         },
@@ -226,9 +220,6 @@
         "1574073546": {
             "openx.xenium.pl": "INACTIVE"
         },
-        "1574073558": {
-            "crv.clickad.pl": "INACTIVE"
-        },
         "1574073559": {
             "s1.gojobsru.adocean.pl": "INACTIVE"
         },
@@ -237,9 +228,6 @@
         },
         "1574159796": {
             "openx.xenium.pl": "INACTIVE"
-        },
-        "1574159809": {
-            "crv.clickad.pl": "INACTIVE"
         },
         "1574159812": {
             "www.adspiro.pl": "INACTIVE"
@@ -261,9 +249,6 @@
         },
         "1574278724": {
             "c.allegrostatic.pl": "INACTIVE"
-        },
-        "1574278730": {
-            "crv.clickad.pl": "INACTIVE"
         },
         "1574278731": {
             "realitatero.adocean.pl": "INACTIVE"
@@ -296,11 +281,7 @@
         "1574332744": {
             "openx.xenium.pl": "INACTIVE"
         },
-        "1574332750": {
-            "crv.clickad.pl": "INACTIVE"
-        },
         "1574448155": {
-            "crv.clickad.pl": "INACTIVE",
             "ringieradro.hit.gemius.pl": "INACTIVE"
         },
         "1574448186": {
@@ -1816,6 +1797,60 @@
         },
         "1581794126": {
             "intactro.adocean.pl": "INACTIVE"
+        },
+        "1581966669": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1581966697": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1581966700": {
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1581966707": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1581966712": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1581966716": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1581966720": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1581966725": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1581966728": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1581966730": {
+            "broadcasthost": "INVALID",
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1581966733": {
+            "gg.mob.vendimob.pl": "INACTIVE",
+            "local": "INVALID"
+        },
+        "1581966736": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1581966744": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1581966745": {
+            "::1 localhost": "INVALID",
+            "localhost.localdomain": "INVALID"
+        },
+        "1581966747": {
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1581966749": {
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1581966752": {
+            "ads2.rp.pl": "INACTIVE"
         }
     }
 }
