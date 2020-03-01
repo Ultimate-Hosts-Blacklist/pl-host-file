@@ -745,9 +745,6 @@
         "1579042625": {
             "www.blogvertising.pl": "INACTIVE"
         },
-        "1579042782": {
-            "afi.adocean.pl": "INACTIVE"
-        },
         "1579042806": {
             "s1.delfilt.adocean.pl": "INACTIVE"
         },
@@ -868,9 +865,6 @@
         "1579463978": {
             "ads.clickad.com.pl": "INACTIVE"
         },
-        "1579463985": {
-            "afi.adocean.pl": "INACTIVE"
-        },
         "1579463988": {
             "www.adspiro.pl": "INACTIVE"
         },
@@ -913,9 +907,6 @@
         "1579634540": {
             "gspro.adocean.pl": "INACTIVE"
         },
-        "1579634542": {
-            "afi.adocean.pl": "INACTIVE"
-        },
         "1579634547": {
             "ad2.pl.mediainter.net": "INACTIVE"
         },
@@ -927,9 +918,6 @@
         },
         "1579691256": {
             "s1.delfilt.adocean.pl": "INACTIVE"
-        },
-        "1579691258": {
-            "afi.adocean.pl": "INACTIVE"
         },
         "1579691266": {
             "ads.clickad.com.pl": "INACTIVE"
@@ -954,9 +942,6 @@
         },
         "1579806247": {
             "www.adtaily.pl": "INACTIVE"
-        },
-        "1579806349": {
-            "afi.adocean.pl": "INACTIVE"
         },
         "1579806356": {
             "ad2.pl.mediainter.net": "INACTIVE"
@@ -1332,9 +1317,6 @@
         "1581535208": {
             "code.new.smartcontext.pl": "INACTIVE"
         },
-        "1581535212": {
-            "afi.adocean.pl": "INACTIVE"
-        },
         "1581535214": {
             "spanel.gem.pl": "INACTIVE"
         },
@@ -1350,9 +1332,6 @@
         },
         "1581677923": {
             "www.adtaily.pl": "INACTIVE"
-        },
-        "1581677943": {
-            "afi.adocean.pl": "INACTIVE"
         },
         "1581677945": {
             "adserwer.intercon.pl": "INACTIVE"
@@ -1536,9 +1515,6 @@
         "1582139151": {
             "spanel.gem.pl": "INACTIVE"
         },
-        "1582139153": {
-            "afi.adocean.pl": "INACTIVE"
-        },
         "1582139154": {
             "adspiro.pl": "INACTIVE"
         },
@@ -1571,9 +1547,6 @@
         },
         "1582312074": {
             "code.new.smartcontext.pl": "INACTIVE"
-        },
-        "1582312082": {
-            "afi.adocean.pl": "INACTIVE"
         },
         "1582312085": {
             "s1.delfilt.adocean.pl": "INACTIVE"
@@ -1653,9 +1626,6 @@
         "1582410305": {
             "code.new.smartcontext.pl": "INACTIVE"
         },
-        "1582410307": {
-            "afi.adocean.pl": "INACTIVE"
-        },
         "1582572869": {
             "openx.cda.pl": "INACTIVE"
         },
@@ -1718,9 +1688,6 @@
         },
         "1582743993": {
             "www.adtaily.pl": "INACTIVE"
-        },
-        "1582744174": {
-            "afi.adocean.pl": "INACTIVE"
         },
         "1582744178": {
             "adserwer.intercon.pl": "INACTIVE"
@@ -1805,6 +1772,67 @@
         },
         "1582916397": {
             "openx.xenium.pl": "INACTIVE"
+        },
+        "1583090663": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1583090725": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1583090730": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1583090732": {
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1583090735": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1583090739": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1583090740": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1583090743": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1583090745": {
+            "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1583090748": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1583090749": {
+            "localhost.localdomain": "INVALID",
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1583090751": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1583090754": {
+            "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1583090758": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1583090766": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1583090769": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1583090772": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1583090776": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1583090777": {
+            "::1 localhost": "INVALID"
+        },
+        "1583090786": {
+            "afi.adocean.pl": "INACTIVE"
         }
     }
 }
