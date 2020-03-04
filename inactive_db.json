@@ -1838,6 +1838,29 @@
         },
         "1583233959": {
             "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1583319771": {
+            "broadcasthost": "INVALID",
+            "local": "INVALID",
+            "localhost.localdomain": "INVALID"
+        },
+        "1583319772": {
+            "None": "INVALID"
+        },
+        "1583319822": {
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1583319825": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1583319971": {
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1583319974": {
+            "afi.adocean.pl": "INACTIVE"
+        },
+        "1583320029": {
+            "::1 localhost": "INVALID"
         }
     }
 }

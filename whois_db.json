@@ -5,17 +5,17 @@
         "state": "future"
     },
     "adkontekst.pl": {
-        "epoch": "1587772800",
+        "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
         "state": "future"
     },
     "adsearch.pl": {
-        "epoch": 1636156800,
+        "epoch": 1636156800.0,
         "expiration_date": "06-nov-2021",
         "state": "future"
     },
     "adserver.pl": {
-        "epoch": 1632096000,
+        "epoch": 1632096000.0,
         "expiration_date": "20-sep-2021",
         "state": "future"
     },
@@ -25,17 +25,17 @@
         "state": "future"
     },
     "adtaily.pl": {
-        "epoch": "1585958400",
+        "epoch": 1585958400.0,
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
     "adtext.pl": {
-        "epoch": 1597536000,
+        "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
         "state": "future"
     },
     "adtotal.pl": {
-        "epoch": 1595980800,
+        "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
         "state": "future"
     },
@@ -45,12 +45,12 @@
         "state": "future"
     },
     "adview.pl": {
-        "epoch": 1602460800,
+        "epoch": 1602460800.0,
         "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "afilo.pl": {
-        "epoch": 1592006400,
+        "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
         "state": "future"
     },
@@ -60,7 +60,7 @@
         "state": "future"
     },
     "arbomedia.pl": {
-        "epoch": "1585612800",
+        "epoch": 1585612800.0,
         "expiration_date": "31-mar-2020",
         "state": "future"
     },
@@ -70,27 +70,27 @@
         "state": "future"
     },
     "contextad.pl": {
-        "epoch": "1588550400",
+        "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
         "state": "future"
     },
     "gem.pl": {
-        "epoch": "1586649600",
+        "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
         "state": "future"
     },
     "gemius.pl": {
-        "epoch": 1621036800,
+        "epoch": 1621036800.0,
         "expiration_date": "15-may-2021",
         "state": "future"
     },
     "gostats.pl": {
-        "epoch": 1600387200,
+        "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "hub.com.pl": {
-        "epoch": 1598400000,
+        "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
         "state": "future"
     },
@@ -100,17 +100,17 @@
         "state": "future"
     },
     "leadmy.pl": {
-        "epoch": "1586649600",
+        "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
         "state": "future"
     },
     "mystat.pl": {
-        "epoch": 1602201600,
+        "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
     "playlink.pl": {
-        "epoch": 1592524800,
+        "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
         "state": "future"
     },
