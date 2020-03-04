@@ -1861,6 +1861,58 @@
         },
         "1583320029": {
             "::1 localhost": "INVALID"
+        },
+        "1583363817": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1583363845": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1583363847": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1583363925": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1583363930": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1583363945": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1583363952": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1583363955": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1583363960": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1583363970": {
+            "adspiro.pl": "INACTIVE"
+        },
+        "1583363971": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1583363998": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1583364000": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1583364008": {
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1583364019": {
+            "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1583364023": {
+            "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1583364024": {
+            "openx.cda.pl": "INACTIVE"
         }
     }
 }
