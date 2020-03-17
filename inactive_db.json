@@ -2414,6 +2414,77 @@
         },
         "1584270989": {
             "::1 localhost": "INVALID"
+        },
+        "1584474489": {
+            "None": "INVALID",
+            "broadcasthost": "INVALID",
+            "local": "INVALID",
+            "localhost.localdomain": "INVALID"
+        },
+        "1584474538": {
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1584474541": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1584474553": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1584474587": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1584474588": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1584474668": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1584474675": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1584474692": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1584474699": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1584474702": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1584474709": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1584474718": {
+            "adspiro.pl": "INACTIVE"
+        },
+        "1584474719": {
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1584474720": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1584474724": {
+            "afi.adocean.pl": "INACTIVE"
+        },
+        "1584474748": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1584474750": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1584474761": {
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1584474770": {
+            "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1584474773": {
+            "gg.mob.vendimob.pl": "INACTIVE",
+            "openx.cda.pl": "INACTIVE"
+        },
+        "1584474776": {
+            "::1 localhost": "INVALID"
         }
     }
 }
