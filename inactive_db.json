@@ -3199,6 +3199,81 @@
         },
         "1585943969": {
             "::1 localhost": "INVALID"
+        },
+        "1586084162": {
+            "None": "INVALID",
+            "broadcasthost": "INVALID",
+            "local": "INVALID",
+            "localhost.localdomain": "INVALID"
+        },
+        "1586084196": {
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1586084198": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1586084208": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1586084229": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1586084231": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1586084296": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1586084300": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1586084301": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1586084315": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1586084322": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1586084325": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1586084330": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1586084339": {
+            "adspiro.pl": "INACTIVE"
+        },
+        "1586084340": {
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1586084342": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1586084345": {
+            "afi.adocean.pl": "INACTIVE"
+        },
+        "1586084372": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1586084373": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1586084383": {
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1586084392": {
+            "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1586084394": {
+            "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1586084395": {
+            "openx.cda.pl": "INACTIVE"
+        },
+        "1586084399": {
+            "::1 localhost": "INVALID"
         }
     }
 }
