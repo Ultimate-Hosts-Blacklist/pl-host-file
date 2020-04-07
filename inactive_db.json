@@ -3343,6 +3343,75 @@
         },
         "1586171747": {
             "::1 localhost": "INVALID"
+        },
+        "1586287760": {
+            "None": "INVALID",
+            "broadcasthost": "INVALID",
+            "local": "INVALID",
+            "localhost.localdomain": "INVALID"
+        },
+        "1586287803": {
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1586287806": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1586287818": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1586287848": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1586287849": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1586287934": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1586287939": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1586287954": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1586287962": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1586287965": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1586287971": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1586287981": {
+            "adspiro.pl": "INACTIVE",
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1586287983": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1586287987": {
+            "afi.adocean.pl": "INACTIVE"
+        },
+        "1586288010": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1586288012": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1586288018": {
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1586288027": {
+            "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1586288030": {
+            "gg.mob.vendimob.pl": "INACTIVE",
+            "openx.cda.pl": "INACTIVE"
+        },
+        "1586288045": {
+            "::1 localhost": "INVALID"
         }
     }
 }
