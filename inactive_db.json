@@ -3703,6 +3703,82 @@
         },
         "1586862938": {
             "::1 localhost": "INVALID"
+        },
+        "1586981650": {
+            "broadcasthost": "INVALID",
+            "local": "INVALID",
+            "localhost": "INVALID",
+            "localhost.localdomain": "INVALID"
+        },
+        "1586981651": {
+            "None": "INVALID"
+        },
+        "1586981689": {
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1586981692": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1586981702": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1586981727": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1586981728": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1586981808": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1586981814": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1586981815": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1586981825": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1586981832": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1586981835": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1586981838": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1586981851": {
+            "adspiro.pl": "INACTIVE"
+        },
+        "1586981853": {
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1586981854": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1586981858": {
+            "afi.adocean.pl": "INACTIVE"
+        },
+        "1586981886": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1586981887": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1586981895": {
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1586981905": {
+            "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1586981906": {
+            "gg.mob.vendimob.pl": "INACTIVE",
+            "openx.cda.pl": "INACTIVE"
+        },
+        "1586981923": {
+            "::1 localhost": "INVALID"
         }
     }
 }
