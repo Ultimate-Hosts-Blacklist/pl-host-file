@@ -3995,6 +3995,88 @@
         },
         "1587414122": {
             "::1 localhost": "INVALID"
+        },
+        "1588278400": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1588278434": {
+            "afi.adocean.pl": "INACTIVE"
+        },
+        "1588278437": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1588278443": {
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1588278445": {
+            "localhost": "INVALID"
+        },
+        "1588278450": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1588278469": {
+            "openx.cda.pl": "INACTIVE"
+        },
+        "1588278490": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1588278491": {
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1588278496": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1588278500": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1588278503": {
+            "broadcasthost": "INVALID"
+        },
+        "1588278540": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1588278553": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1588278556": {
+            "c.allegrostatic.pl": "INACTIVE",
+            "local": "INVALID"
+        },
+        "1588278565": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1588278566": {
+            "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1588278580": {
+            "adspiro.pl": "INACTIVE"
+        },
+        "1588278581": {
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1588278587": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1588278593": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1588278616": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1588278631": {
+            "localhost.localdomain": "INVALID"
+        },
+        "1588278637": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1588278646": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1588278667": {
+            "::1 localhost": "INVALID"
+        },
+        "1588278671": {
+            "None": "INVALID"
         }
     }
 }

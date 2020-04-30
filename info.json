@@ -18,11 +18,11 @@
             "up": 0,
             "valid": 0
         },
-        "domains.list": 429,
+        "domains.list": 416,
         "volatile.list": 414,
         "whitelisted.list": 414
     },
     "raw_link": "https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt",
-    "start_datetime": "2020-04-20T23:29:52.465644",
-    "start_epoch": 1587425392.465644
+    "start_datetime": "2020-04-30T20:26:28.558054",
+    "start_epoch": 1588278388.558054
 }
