@@ -4077,6 +4077,86 @@
         },
         "1588278671": {
             "None": "INVALID"
+        },
+        "1588450903": {
+            "localhost.localdomain": "INVALID"
+        },
+        "1588450942": {
+            "broadcasthost": "INVALID"
+        },
+        "1588450966": {
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1588450969": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1588450978": {
+            "localhost": "INVALID"
+        },
+        "1588450986": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1588450989": {
+            "local": "INVALID"
+        },
+        "1588450994": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1588451009": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1588451012": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1588451016": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1588451018": {
+            "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1588451020": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1588451021": {
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1588451064": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1588451073": {
+            "openx.cda.pl": "INACTIVE"
+        },
+        "1588451081": {
+            "afi.adocean.pl": "INACTIVE"
+        },
+        "1588451089": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1588451093": {
+            "adspiro.pl": "INACTIVE",
+            "www.adspiro.pl": "INACTIVE"
+        },
+        "1588451094": {
+            "www.adtaily.pl": "INACTIVE"
+        },
+        "1588451097": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1588451115": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1588451152": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1588451158": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1588451161": {
+            "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1588451170": {
+            "::1 localhost": "INVALID",
+            "None": "INVALID"
         }
     }
 }
