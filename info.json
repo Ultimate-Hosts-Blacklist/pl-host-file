@@ -8,7 +8,7 @@
     "name": "pl-host-file",
     "previous_stats": {
         "builds": 1,
-        "clean_list": 412,
+        "clean_list": 411,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -19,10 +19,10 @@
             "valid": 0
         },
         "domains.list": 415,
-        "volatile.list": 412,
-        "whitelisted.list": 412
+        "volatile.list": 411,
+        "whitelisted.list": 411
     },
     "raw_link": "https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt",
-    "start_datetime": "2020-05-14T20:24:37.208948",
-    "start_epoch": 1589487877.208948
+    "start_datetime": "2020-05-16T20:16:31.213951",
+    "start_epoch": 1589660191.213951
 }
