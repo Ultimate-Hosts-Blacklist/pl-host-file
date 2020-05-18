@@ -10,22 +10,22 @@
         "::1 localhost": {
             "included_at_epoch": 1588451170.0,
             "included_at_iso": "2020-05-02T20:26:10",
-            "last_retested_at_epoch": 1589660490.982913,
-            "last_retested_at_iso": "2020-05-16T20:21:30.982913",
+            "last_retested_at_epoch": 1589834234.920522,
+            "last_retested_at_iso": "2020-05-18T20:37:14.920522",
             "status": "INVALID"
         },
         "None": {
             "included_at_epoch": 1588451170.0,
             "included_at_iso": "2020-05-02T20:26:10",
-            "last_retested_at_epoch": 1589660490.43547,
-            "last_retested_at_iso": "2020-05-16T20:21:30.435470",
+            "last_retested_at_epoch": 1589834234.47506,
+            "last_retested_at_iso": "2020-05-18T20:37:14.475060",
             "status": "INVALID"
         },
         "ad2.pl.mediainter.net": {
             "included_at_epoch": 1588450969.0,
             "included_at_iso": "2020-05-02T20:22:49",
-            "last_retested_at_epoch": 1589660212.563071,
-            "last_retested_at_iso": "2020-05-16T20:16:52.563071",
+            "last_retested_at_epoch": 1589834217.050071,
+            "last_retested_at_iso": "2020-05-18T20:36:57.050071",
             "status": "INACTIVE"
         },
         "adidm07.idmnet.pl": {
@@ -45,8 +45,8 @@
         "ads.clickad.com.pl": {
             "included_at_epoch": 1588451089.0,
             "included_at_iso": "2020-05-02T20:24:49",
-            "last_retested_at_epoch": 1589660389.205762,
-            "last_retested_at_iso": "2020-05-16T20:19:49.205762",
+            "last_retested_at_epoch": 1589834135.566993,
+            "last_retested_at_iso": "2020-05-18T20:35:35.566993",
             "status": "INACTIVE"
         },
         "ads.edipresse.pl": {
@@ -59,15 +59,15 @@
         "ads2.rp.pl": {
             "included_at_epoch": 1588451016.0,
             "included_at_iso": "2020-05-02T20:23:36",
-            "last_retested_at_epoch": 1589660438.431457,
-            "last_retested_at_iso": "2020-05-16T20:20:38.431457",
+            "last_retested_at_epoch": 1589834095.287961,
+            "last_retested_at_iso": "2020-05-18T20:34:55.287961",
             "status": "INACTIVE"
         },
         "adserwer.intercon.pl": {
             "included_at_epoch": 1588450986.0,
             "included_at_iso": "2020-05-02T20:23:06",
-            "last_retested_at_epoch": 1589660203.494656,
-            "last_retested_at_iso": "2020-05-16T20:16:43.494656",
+            "last_retested_at_epoch": 1589834044.504748,
+            "last_retested_at_iso": "2020-05-18T20:34:04.504748",
             "status": "INACTIVE"
         },
         "adseu.novem.pl": {
@@ -80,50 +80,50 @@
         "adspiro.pl": {
             "included_at_epoch": 1588451093.0,
             "included_at_iso": "2020-05-02T20:24:53",
-            "last_retested_at_epoch": 1589660238.98411,
-            "last_retested_at_iso": "2020-05-16T20:17:18.984110",
+            "last_retested_at_epoch": 1589834090.975916,
+            "last_retested_at_iso": "2020-05-18T20:34:50.975916",
             "status": "INACTIVE"
         },
         "afi.adocean.pl": {
             "included_at_epoch": 1588451081.0,
             "included_at_iso": "2020-05-02T20:24:41",
-            "last_retested_at_epoch": 1589660267.060346,
-            "last_retested_at_iso": "2020-05-16T20:17:47.060346",
+            "last_retested_at_epoch": 1589834109.674171,
+            "last_retested_at_iso": "2020-05-18T20:35:09.674171",
             "status": "INACTIVE"
         },
         "bbcdn.code.new.smartcontext.pl": {
             "included_at_epoch": 1588451012.0,
             "included_at_iso": "2020-05-02T20:23:32",
-            "last_retested_at_epoch": 1589660466.242579,
-            "last_retested_at_iso": "2020-05-16T20:21:06.242579",
+            "last_retested_at_epoch": 1589834031.375926,
+            "last_retested_at_iso": "2020-05-18T20:33:51.375926",
             "status": "INACTIVE"
         },
         "broadcasthost": {
             "included_at_epoch": 1588450942.0,
             "included_at_iso": "2020-05-02T20:22:22",
-            "last_retested_at_epoch": 1589660260.727398,
-            "last_retested_at_iso": "2020-05-16T20:17:40.727398",
+            "last_retested_at_epoch": 1589834149.043609,
+            "last_retested_at_iso": "2020-05-18T20:35:49.043609",
             "status": "INVALID"
         },
         "c.allegrostatic.pl": {
             "included_at_epoch": 1588451161.0,
             "included_at_iso": "2020-05-02T20:26:01",
-            "last_retested_at_epoch": 1589660392.001969,
-            "last_retested_at_iso": "2020-05-16T20:19:52.001969",
+            "last_retested_at_epoch": 1589833986.539739,
+            "last_retested_at_iso": "2020-05-18T20:33:06.539739",
             "status": "INACTIVE"
         },
         "code.new.smartcontext.pl": {
             "included_at_epoch": 1588450994.0,
             "included_at_iso": "2020-05-02T20:23:14",
-            "last_retested_at_epoch": 1589660481.93956,
-            "last_retested_at_iso": "2020-05-16T20:21:21.939560",
+            "last_retested_at_epoch": 1589834198.524004,
+            "last_retested_at_iso": "2020-05-18T20:36:38.524004",
             "status": "INACTIVE"
         },
         "counter.gemius.pl": {
             "included_at_epoch": 1588451064.0,
             "included_at_iso": "2020-05-02T20:24:24",
-            "last_retested_at_epoch": 1589660335.781455,
-            "last_retested_at_iso": "2020-05-16T20:18:55.781455",
+            "last_retested_at_epoch": 1589834065.987123,
+            "last_retested_at_iso": "2020-05-18T20:34:25.987123",
             "status": "INACTIVE"
         },
         "delfilv.adocean.pl": {
@@ -150,8 +150,8 @@
         "gg.mob.vendimob.pl": {
             "included_at_epoch": 1588451018.0,
             "included_at_iso": "2020-05-02T20:23:38",
-            "last_retested_at_epoch": 1589660200.788391,
-            "last_retested_at_iso": "2020-05-16T20:16:40.788391",
+            "last_retested_at_epoch": 1589834036.312575,
+            "last_retested_at_iso": "2020-05-18T20:33:56.312575",
             "status": "INACTIVE"
         },
         "gratkapl.adocean.pl": {
@@ -164,8 +164,8 @@
         "gspro.adocean.pl": {
             "included_at_epoch": 1588451021.0,
             "included_at_iso": "2020-05-02T20:23:41",
-            "last_retested_at_epoch": 1589660284.54366,
-            "last_retested_at_iso": "2020-05-16T20:18:04.543660",
+            "last_retested_at_epoch": 1589834072.654508,
+            "last_retested_at_iso": "2020-05-18T20:34:32.654508",
             "status": "INACTIVE"
         },
         "im.of.pl": {
@@ -178,8 +178,8 @@
         "intactro.adocean.pl": {
             "included_at_epoch": 1588451115.0,
             "included_at_iso": "2020-05-02T20:25:15",
-            "last_retested_at_epoch": 1589660455.60214,
-            "last_retested_at_iso": "2020-05-16T20:20:55.602140",
+            "last_retested_at_epoch": 1589834022.447694,
+            "last_retested_at_iso": "2020-05-18T20:33:42.447694",
             "status": "INACTIVE"
         },
         "investorbg.adocean.pl": {
@@ -192,22 +192,22 @@
         "local": {
             "included_at_epoch": 1588450989.0,
             "included_at_iso": "2020-05-02T20:23:09",
-            "last_retested_at_epoch": 1589660236.374939,
-            "last_retested_at_iso": "2020-05-16T20:17:16.374939",
+            "last_retested_at_epoch": 1589834149.89684,
+            "last_retested_at_iso": "2020-05-18T20:35:49.896840",
             "status": "INVALID"
         },
         "localhost": {
             "included_at_epoch": 1588450978.0,
             "included_at_iso": "2020-05-02T20:22:58",
-            "last_retested_at_epoch": 1589660196.314504,
-            "last_retested_at_iso": "2020-05-16T20:16:36.314504",
+            "last_retested_at_epoch": 1589834027.304887,
+            "last_retested_at_iso": "2020-05-18T20:33:47.304887",
             "status": "INVALID"
         },
         "localhost.localdomain": {
             "included_at_epoch": 1588450903.0,
             "included_at_iso": "2020-05-02T20:21:43",
-            "last_retested_at_epoch": 1589660269.948025,
-            "last_retested_at_iso": "2020-05-16T20:17:49.948025",
+            "last_retested_at_epoch": 1589834126.478411,
+            "last_retested_at_iso": "2020-05-18T20:35:26.478411",
             "status": "INVALID"
         },
         "lrytaslt.adocean.pl": {
@@ -220,8 +220,8 @@
         "new.smartcontext.pl": {
             "included_at_epoch": 1588451158.0,
             "included_at_iso": "2020-05-02T20:25:58",
-            "last_retested_at_epoch": 1589660462.24034,
-            "last_retested_at_iso": "2020-05-16T20:21:02.240340",
+            "last_retested_at_epoch": 1589833983.347373,
+            "last_retested_at_iso": "2020-05-18T20:33:03.347373",
             "status": "INACTIVE"
         },
         "obozua.adocean.pl": {
@@ -241,15 +241,15 @@
         "openx.cda.pl": {
             "included_at_epoch": 1588451073.0,
             "included_at_iso": "2020-05-02T20:24:33",
-            "last_retested_at_epoch": 1589660415.881961,
-            "last_retested_at_iso": "2020-05-16T20:20:15.881961",
+            "last_retested_at_epoch": 1589834152.441716,
+            "last_retested_at_iso": "2020-05-18T20:35:52.441716",
             "status": "INACTIVE"
         },
         "openx.xenium.pl": {
             "included_at_epoch": 1588451152.0,
             "included_at_iso": "2020-05-02T20:25:52",
-            "last_retested_at_epoch": 1589660247.147144,
-            "last_retested_at_iso": "2020-05-16T20:17:27.147144",
+            "last_retested_at_epoch": 1589834107.810958,
+            "last_retested_at_iso": "2020-05-18T20:35:07.810958",
             "status": "INACTIVE"
         },
         "realitatero.adocean.pl": {
@@ -290,8 +290,8 @@
         "s1.delfilt.adocean.pl": {
             "included_at_epoch": 1588451009.0,
             "included_at_iso": "2020-05-02T20:23:29",
-            "last_retested_at_epoch": 1589660222.565449,
-            "last_retested_at_iso": "2020-05-16T20:17:02.565449",
+            "last_retested_at_epoch": 1589834007.829885,
+            "last_retested_at_iso": "2020-05-18T20:33:27.829885",
             "status": "INACTIVE"
         },
         "s1.gojobsru.adocean.pl": {
@@ -304,15 +304,15 @@
         "show.smartcontext.pl": {
             "included_at_epoch": 1588451097.0,
             "included_at_iso": "2020-05-02T20:24:57",
-            "last_retested_at_epoch": 1589660244.100558,
-            "last_retested_at_iso": "2020-05-16T20:17:24.100558",
+            "last_retested_at_epoch": 1589834003.883788,
+            "last_retested_at_iso": "2020-05-18T20:33:23.883788",
             "status": "INACTIVE"
         },
         "spanel.gem.pl": {
             "included_at_epoch": 1588450966.0,
             "included_at_iso": "2020-05-02T20:22:46",
-            "last_retested_at_epoch": 1589660350.550103,
-            "last_retested_at_iso": "2020-05-16T20:19:10.550103",
+            "last_retested_at_epoch": 1589834192.952958,
+            "last_retested_at_iso": "2020-05-18T20:36:32.952958",
             "status": "INACTIVE"
         },
         "tracking.novem.pl": {
@@ -325,29 +325,29 @@
         "ua.cnt.gemius.pl": {
             "included_at_epoch": 1588451020.0,
             "included_at_iso": "2020-05-02T20:23:40",
-            "last_retested_at_epoch": 1589660325.117676,
-            "last_retested_at_iso": "2020-05-16T20:18:45.117676",
+            "last_retested_at_epoch": 1589834078.651995,
+            "last_retested_at_iso": "2020-05-18T20:34:38.651995",
             "status": "INACTIVE"
         },
         "www.adspiro.pl": {
             "included_at_epoch": 1588451093.0,
             "included_at_iso": "2020-05-02T20:24:53",
-            "last_retested_at_epoch": 1589660238.958955,
-            "last_retested_at_iso": "2020-05-16T20:17:18.958955",
+            "last_retested_at_epoch": 1589834090.712618,
+            "last_retested_at_iso": "2020-05-18T20:34:50.712618",
             "status": "INACTIVE"
         },
         "www.adtaily.pl": {
             "included_at_epoch": 1588451094.0,
             "included_at_iso": "2020-05-02T20:24:54",
-            "last_retested_at_epoch": 1589660468.984417,
-            "last_retested_at_iso": "2020-05-16T20:21:08.984417",
+            "last_retested_at_epoch": 1589833987.341493,
+            "last_retested_at_iso": "2020-05-18T20:33:07.341493",
             "status": "INACTIVE"
         },
         "www.arbomedia.pl": {
             "included_at_epoch": 1589660461.057895,
             "included_at_iso": "2020-05-16T20:21:01.057895",
-            "last_retested_at_epoch": 1589660461.057895,
-            "last_retested_at_iso": "2020-05-16T20:21:01.057895",
+            "last_retested_at_epoch": 1589834190.987878,
+            "last_retested_at_iso": "2020-05-18T20:36:30.987878",
             "status": "INACTIVE"
         },
         "www.blogvertising.pl": {
@@ -360,8 +360,8 @@
         "www.contextad.pl": {
             "included_at_epoch": 1588628126.504425,
             "included_at_iso": "2020-05-04T21:35:26.504425",
-            "last_retested_at_epoch": 1589660251.020671,
-            "last_retested_at_iso": "2020-05-16T20:17:31.020671",
+            "last_retested_at_epoch": 1589833969.96454,
+            "last_retested_at_iso": "2020-05-18T20:32:49.964540",
             "status": "INACTIVE"
         },
         "www.leadmy.pl": {
