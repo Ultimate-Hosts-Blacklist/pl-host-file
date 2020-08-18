@@ -72,8 +72,8 @@ ads.novem.pl
 ads.o2.pl
 ads.open.pl
 adsrv.lua.pl
-adstat.4u.pl
 ad.stat.4u.pl
+adstat.4u.pl
 adtaily.pl
 adtext.pl
 adtotal.pl
@@ -389,7 +389,6 @@ www.adkontekst.pl
 www.adsearch.pl
 www.adserver.home.pl
 www.adserver.pl
-www.adtext.pl
 www.adtotal.pl
 www.adtrack1.pl
 www.adview.pl
