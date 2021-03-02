@@ -1,15 +1,13 @@
 {
-    "abs_source": "/home/runner/work/pl-host-file/pl-host-file/domains.list",
     "checker_type": "AVAILABILITY",
     "destination": "domains.list",
-    "hash": "d66e463652c63c3d9931159bfe593ba4ad57840d088540cec54cace0",
+    "hash": "16762705a171de238559fbe03d1c7d167c2b6e2be1686c223401e35b",
     "line_number": 872,
-    "output_dir": "/home/runner/work/pl-host-file/pl-host-file/output/domains.list",
-    "previous_hash": "d66e463652c63c3d9931159bfe593ba4ad57840d088540cec54cace0",
-    "rel_source": "domains.list",
-    "session_id": "b56776cad1c12166f9887993",
-    "source": "/home/runner/work/pl-host-file/pl-host-file/domains.list",
-    "subject": "/home/runner/work/pl-host-file/pl-host-file/domains.list",
+    "output_dir": "/var/lib/jenkins/workspace/ts-blacklist_pl-host-file_master/output/domains.list",
+    "previous_hash": "16762705a171de238559fbe03d1c7d167c2b6e2be1686c223401e35b",
+    "session_id": "551e4e135fd2ff729b95bf37",
+    "source": "domains.list",
+    "subject": "domains.list",
     "subject_type": "domain",
     "type": "file"
 }
