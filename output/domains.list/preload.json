@@ -1,0 +1,13 @@
+{
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "6e5e5bf78090e3667f7e794a1920c6374b06dc5f8e5b53f9cf0e0ccb",
+    "line_number": 872,
+    "output_dir": "/home/runner/work/pl-host-file/pl-host-file/output/domains.list",
+    "previous_hash": "6e5e5bf78090e3667f7e794a1920c6374b06dc5f8e5b53f9cf0e0ccb",
+    "session_id": "0f947e0793469e880a490cdc",
+    "source": "domains.list",
+    "subject": "domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}
