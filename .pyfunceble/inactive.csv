@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.intrack.pl,AVAILABILITY,domains.list,2021-04-01 13:12:16.205542
-spanel.gem.pl,AVAILABILITY,domains.list,2021-04-01 13:12:22.765287
-www.adtaily.pl,AVAILABILITY,domains.list,2021-04-01 13:12:24.646762
 ro1ro.adocean.pl,AVAILABILITY,domains.list,2021-04-03 01:29:02.716908
 gratkapl.adocean.pl,AVAILABILITY,domains.list,2021-04-03 01:31:35.699302
 lrytaslt.adocean.pl,AVAILABILITY,domains.list,2021-04-03 01:31:36.828320
@@ -31,3 +28,6 @@ show.smartcontext.pl,AVAILABILITY,domains.list,2021-04-03 01:34:04.413489
 openx.xenium.pl,AVAILABILITY,domains.list,2021-04-03 01:34:06.567522
 ua.cnt.gemius.pl,AVAILABILITY,domains.list,2021-04-03 01:34:08.583001
 www.adspiro.pl,AVAILABILITY,domains.list,2021-04-03 01:34:25.031151
+www.intrack.pl,AVAILABILITY,domains.list,2021-04-03 01:36:43.175396
+spanel.gem.pl,AVAILABILITY,domains.list,2021-04-03 01:36:54.850142
+www.adtaily.pl,AVAILABILITY,domains.list,2021-04-03 01:36:55.672300
