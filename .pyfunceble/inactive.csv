@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-panel.adtify.pl,AVAILABILITY,domains.list,2021-04-04 12:59:56.426265
-code.new.smartcontext.pl,AVAILABILITY,domains.list,2021-04-04 12:59:58.296935
-show.smartcontext.pl,AVAILABILITY,domains.list,2021-04-04 12:59:59.624163
-openx.xenium.pl,AVAILABILITY,domains.list,2021-04-04 13:00:01.237349
-ua.cnt.gemius.pl,AVAILABILITY,domains.list,2021-04-04 13:00:06.503651
-www.adspiro.pl,AVAILABILITY,domains.list,2021-04-04 13:00:08.681202
-www.intrack.pl,AVAILABILITY,domains.list,2021-04-04 13:00:09.435408
-spanel.gem.pl,AVAILABILITY,domains.list,2021-04-04 13:00:15.141938
-www.adtaily.pl,AVAILABILITY,domains.list,2021-04-04 13:00:16.893919
 ro1ro.adocean.pl,AVAILABILITY,domains.list,2021-04-06 01:37:20.508833
 gratkapl.adocean.pl,AVAILABILITY,domains.list,2021-04-06 01:37:29.406085
 lrytaslt.adocean.pl,AVAILABILITY,domains.list,2021-04-06 01:37:34.947544
@@ -31,3 +22,12 @@ openx.cda.pl,AVAILABILITY,domains.list,2021-04-06 01:39:16.129066
 bbcdn.code.new.smartcontext.pl,AVAILABILITY,domains.list,2021-04-06 01:39:24.202588
 new.smartcontext.pl,AVAILABILITY,domains.list,2021-04-06 01:39:26.010324
 s1.delfilt.adocean.pl,AVAILABILITY,domains.list,2021-04-06 01:39:32.269002
+panel.adtify.pl,AVAILABILITY,domains.list,2021-04-06 01:40:12.883953
+code.new.smartcontext.pl,AVAILABILITY,domains.list,2021-04-06 01:40:14.099075
+show.smartcontext.pl,AVAILABILITY,domains.list,2021-04-06 01:40:15.534984
+openx.xenium.pl,AVAILABILITY,domains.list,2021-04-06 01:40:22.271198
+ua.cnt.gemius.pl,AVAILABILITY,domains.list,2021-04-06 01:40:27.013416
+www.adspiro.pl,AVAILABILITY,domains.list,2021-04-06 01:40:32.608165
+www.intrack.pl,AVAILABILITY,domains.list,2021-04-06 01:40:34.950586
+spanel.gem.pl,AVAILABILITY,domains.list,2021-04-06 01:40:36.077036
+www.adtaily.pl,AVAILABILITY,domains.list,2021-04-06 01:40:37.495571
