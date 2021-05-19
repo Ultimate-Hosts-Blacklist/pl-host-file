@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.adspiro.pl,AVAILABILITY,domains.list,2021-05-17 12:43:49.466998
-www.intrack.pl,AVAILABILITY,domains.list,2021-05-17 12:43:50.186139
-spanel.gem.pl,AVAILABILITY,domains.list,2021-05-17 12:43:52.829635
-www.adtaily.pl,AVAILABILITY,domains.list,2021-05-17 12:44:00.938259
-banery.acr.pl,AVAILABILITY,domains.list,2021-05-17 12:44:06.358651
 digital4ro.adocean.pl,AVAILABILITY,domains.list,2021-05-19 01:24:46.231323
 ro1ro.adocean.pl,AVAILABILITY,domains.list,2021-05-19 01:24:56.601939
 gratkapl.adocean.pl,AVAILABILITY,domains.list,2021-05-19 01:25:03.484061
@@ -33,3 +28,8 @@ code.new.smartcontext.pl,AVAILABILITY,domains.list,2021-05-19 01:27:33.251869
 show.smartcontext.pl,AVAILABILITY,domains.list,2021-05-19 01:27:35.176381
 openx.xenium.pl,AVAILABILITY,domains.list,2021-05-19 01:27:42.378405
 ua.cnt.gemius.pl,AVAILABILITY,domains.list,2021-05-19 01:27:45.798701
+www.adspiro.pl,AVAILABILITY,domains.list,2021-05-19 01:28:34.580265
+www.intrack.pl,AVAILABILITY,domains.list,2021-05-19 01:28:36.512979
+spanel.gem.pl,AVAILABILITY,domains.list,2021-05-19 01:28:49.360707
+www.adtaily.pl,AVAILABILITY,domains.list,2021-05-19 01:28:50.198821
+banery.acr.pl,AVAILABILITY,domains.list,2021-05-19 01:29:15.590051
