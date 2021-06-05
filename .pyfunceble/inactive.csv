@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-unblock.onaudience.com,AVAILABILITY,domains.list,2021-06-03 02:47:12.173494
-digital4ro.adocean.pl,AVAILABILITY,domains.list,2021-06-03 02:47:13.481631
-ro1ro.adocean.pl,AVAILABILITY,domains.list,2021-06-03 02:47:14.444707
-gratkapl.adocean.pl,AVAILABILITY,domains.list,2021-06-03 02:47:15.841559
-lrytaslt.adocean.pl,AVAILABILITY,domains.list,2021-06-03 02:47:16.638002
-obozua.adocean.pl,AVAILABILITY,domains.list,2021-06-03 02:47:18.037715
-s1.gojobsru.adocean.pl,AVAILABILITY,domains.list,2021-06-03 02:47:21.220251
-:1%lo0,AVAILABILITY,domains.list,2021-06-03 02:47:21.433216
-s1.gratkapl.adocean.pl,AVAILABILITY,domains.list,2021-06-03 02:47:24.034374
 ad2.pl.mediainter.net,AVAILABILITY,domains.list,2021-06-05 02:01:11.194809
 ads2.rp.pl,AVAILABILITY,domains.list,2021-06-05 02:01:12.868714
 afi.adocean.pl,AVAILABILITY,domains.list,2021-06-05 02:01:13.972162
@@ -34,3 +25,12 @@ www.intrack.pl,AVAILABILITY,domains.list,2021-06-05 02:02:39.298788
 spanel.gem.pl,AVAILABILITY,domains.list,2021-06-05 02:02:49.500128
 www.adtaily.pl,AVAILABILITY,domains.list,2021-06-05 02:02:56.362000
 banery.acr.pl,AVAILABILITY,domains.list,2021-06-05 02:03:03.122525
+unblock.onaudience.com,AVAILABILITY,domains.list,2021-06-05 02:03:42.696884
+digital4ro.adocean.pl,AVAILABILITY,domains.list,2021-06-05 02:03:43.553274
+ro1ro.adocean.pl,AVAILABILITY,domains.list,2021-06-05 02:03:49.455056
+gratkapl.adocean.pl,AVAILABILITY,domains.list,2021-06-05 02:03:51.965638
+lrytaslt.adocean.pl,AVAILABILITY,domains.list,2021-06-05 02:03:54.681743
+obozua.adocean.pl,AVAILABILITY,domains.list,2021-06-05 02:03:55.797408
+s1.gojobsru.adocean.pl,AVAILABILITY,domains.list,2021-06-05 02:03:56.483504
+:1%lo0,AVAILABILITY,domains.list,2021-06-05 02:03:56.695749
+s1.gratkapl.adocean.pl,AVAILABILITY,domains.list,2021-06-05 02:03:59.605285
