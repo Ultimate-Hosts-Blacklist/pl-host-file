@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.adtaily.pl,AVAILABILITY,domains.list,2021-06-21 12:52:42.597489
-banery.acr.pl,AVAILABILITY,domains.list,2021-06-21 12:53:04.950124
-unblock.onaudience.com,AVAILABILITY,domains.list,2021-06-21 12:53:05.577602
-digital4ro.adocean.pl,AVAILABILITY,domains.list,2021-06-21 12:53:08.211730
-ro1ro.adocean.pl,AVAILABILITY,domains.list,2021-06-21 12:53:09.306587
-gratkapl.adocean.pl,AVAILABILITY,domains.list,2021-06-21 12:53:10.271665
-lrytaslt.adocean.pl,AVAILABILITY,domains.list,2021-06-21 12:53:11.817422
-obozua.adocean.pl,AVAILABILITY,domains.list,2021-06-21 12:53:13.105460
-s1.gojobsru.adocean.pl,AVAILABILITY,domains.list,2021-06-21 12:53:17.956756
-:1%lo0,AVAILABILITY,domains.list,2021-06-21 12:53:18.174981
-s1.gratkapl.adocean.pl,AVAILABILITY,domains.list,2021-06-21 12:53:21.384757
 ad2.pl.mediainter.net,AVAILABILITY,domains.list,2021-06-23 01:10:11.377802
 ads2.rp.pl,AVAILABILITY,domains.list,2021-06-23 01:10:12.322042
 afi.adocean.pl,AVAILABILITY,domains.list,2021-06-23 01:10:13.532107
@@ -34,3 +23,14 @@ ua.cnt.gemius.pl,AVAILABILITY,domains.list,2021-06-23 01:11:11.509006
 www.adspiro.pl,AVAILABILITY,domains.list,2021-06-23 01:11:14.021953
 www.intrack.pl,AVAILABILITY,domains.list,2021-06-23 01:11:14.785308
 spanel.gem.pl,AVAILABILITY,domains.list,2021-06-23 01:11:17.331009
+www.adtaily.pl,AVAILABILITY,domains.list,2021-06-23 12:35:09.633133
+banery.acr.pl,AVAILABILITY,domains.list,2021-06-23 12:35:16.667864
+unblock.onaudience.com,AVAILABILITY,domains.list,2021-06-23 12:35:17.119049
+digital4ro.adocean.pl,AVAILABILITY,domains.list,2021-06-23 12:35:22.057815
+ro1ro.adocean.pl,AVAILABILITY,domains.list,2021-06-23 12:35:28.241656
+gratkapl.adocean.pl,AVAILABILITY,domains.list,2021-06-23 12:35:32.958527
+lrytaslt.adocean.pl,AVAILABILITY,domains.list,2021-06-23 12:35:38.551043
+obozua.adocean.pl,AVAILABILITY,domains.list,2021-06-23 12:35:40.053960
+s1.gojobsru.adocean.pl,AVAILABILITY,domains.list,2021-06-23 12:35:44.839914
+:1%lo0,AVAILABILITY,domains.list,2021-06-23 12:35:45.059607
+s1.gratkapl.adocean.pl,AVAILABILITY,domains.list,2021-06-23 12:35:54.618362
