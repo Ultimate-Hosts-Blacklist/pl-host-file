@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-obozua.adocean.pl,AVAILABILITY,domains.list,2021-07-03 09:18:44.193203
-s1.gojobsru.adocean.pl,AVAILABILITY,domains.list,2021-07-03 09:18:55.527005
-:1%lo0,AVAILABILITY,domains.list,2021-07-03 09:18:55.635462
-s1.gratkapl.adocean.pl,AVAILABILITY,domains.list,2021-07-03 09:18:57.219228
 ad2.pl.mediainter.net,AVAILABILITY,domains.list,2021-07-05 02:33:57.655487
 ads2.rp.pl,AVAILABILITY,domains.list,2021-07-05 02:33:59.188190
 afi.adocean.pl,AVAILABILITY,domains.list,2021-07-05 02:34:03.230044
@@ -34,3 +30,7 @@ digital4ro.adocean.pl,AVAILABILITY,domains.list,2021-07-05 02:35:34.394454
 ro1ro.adocean.pl,AVAILABILITY,domains.list,2021-07-05 02:35:35.563122
 gratkapl.adocean.pl,AVAILABILITY,domains.list,2021-07-05 02:35:36.454519
 lrytaslt.adocean.pl,AVAILABILITY,domains.list,2021-07-05 02:35:37.840628
+obozua.adocean.pl,AVAILABILITY,domains.list,2021-07-05 02:36:19.985519
+s1.gojobsru.adocean.pl,AVAILABILITY,domains.list,2021-07-05 02:36:25.570127
+:1%lo0,AVAILABILITY,domains.list,2021-07-05 02:36:25.678360
+s1.gratkapl.adocean.pl,AVAILABILITY,domains.list,2021-07-05 02:36:34.479881
