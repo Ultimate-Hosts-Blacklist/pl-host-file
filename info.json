@@ -1,17 +1,17 @@
 {
     "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2021-07-31T02:55:52.945921",
-    "end_epoch": 1627700152.945921,
+    "end_datetime": "2021-08-01T02:50:53.222905",
+    "end_epoch": 1627786253.222905,
     "name": "pl-host-file",
-    "previous_end_datetime": "2021-07-30T02:57:41.173255",
-    "previous_end_epoch": 1627613861.173255,
-    "previous_start_datetime": "2021-07-30T02:37:56.646249",
-    "previous_start_epoch": 1627612676.646249,
+    "previous_end_datetime": "2021-07-31T02:55:52.945921",
+    "previous_end_epoch": 1627700152.945921,
+    "previous_start_datetime": "2021-07-31T02:36:37.680872",
+    "previous_start_epoch": 1627698997.680872,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt",
-    "start_datetime": "2021-07-31T02:36:37.680872",
-    "start_epoch": 1627698997.680872
+    "start_datetime": "2021-08-01T02:37:48.913436",
+    "start_epoch": 1627785468.913436
 }
