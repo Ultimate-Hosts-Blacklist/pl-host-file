@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-s1.cz.adocean.pl,AVAILABILITY,domains.list,2021-08-01 02:49:38.772778
-s1.edipresse.adocean.pl,AVAILABILITY,domains.list,2021-08-01 02:49:40.257946
-s1.myao.adocean.pl,AVAILABILITY,domains.list,2021-08-01 02:49:44.537199
-s1.sk.adocean.pl,AVAILABILITY,domains.list,2021-08-01 02:49:48.952369
-ad2.pl.mediainter.net,AVAILABILITY,domains.list,2021-08-01 02:49:51.603398
-ads2.rp.pl,AVAILABILITY,domains.list,2021-08-01 02:49:52.326852
-afi.adocean.pl,AVAILABILITY,domains.list,2021-08-01 02:49:53.397281
-adspiro.pl,AVAILABILITY,domains.list,2021-08-01 02:49:54.748553
 ads.clickad.com.pl,AVAILABILITY,domains.list,2021-08-01 02:50:01.813101
 adserwer.intercon.pl,AVAILABILITY,domains.list,2021-08-01 02:50:04.410718
 counter.gemius.pl,AVAILABILITY,domains.list,2021-08-01 02:50:05.291363
@@ -39,3 +31,11 @@ s1.gojobsru.adocean.pl,AVAILABILITY,domains.list,2021-08-01 02:50:47.203075
 :1%lo0,AVAILABILITY,domains.list,2021-08-01 02:50:47.311077
 s1.gratkapl.adocean.pl,AVAILABILITY,domains.list,2021-08-01 02:50:52.063593
 s1.pracuj.adocean.pl,AVAILABILITY,domains.list,2021-08-01 02:50:53.031961
+s1.cz.adocean.pl,AVAILABILITY,domains.list,2021-08-02 03:58:45.826011
+s1.edipresse.adocean.pl,AVAILABILITY,domains.list,2021-08-02 03:58:47.236920
+s1.myao.adocean.pl,AVAILABILITY,domains.list,2021-08-02 03:58:52.885116
+s1.sk.adocean.pl,AVAILABILITY,domains.list,2021-08-02 03:58:59.683099
+ad2.pl.mediainter.net,AVAILABILITY,domains.list,2021-08-02 03:59:02.185296
+ads2.rp.pl,AVAILABILITY,domains.list,2021-08-02 03:59:03.097232
+afi.adocean.pl,AVAILABILITY,domains.list,2021-08-02 03:59:07.850351
+adspiro.pl,AVAILABILITY,domains.list,2021-08-02 03:59:11.618685
