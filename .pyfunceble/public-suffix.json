@@ -490,7 +490,6 @@
         "am.br",
         "am.gov.br",
         "am.leg.br",
-        "anani.br",
         "ap.gov.br",
         "ap.leg.br",
         "aparecida.br",
@@ -781,6 +780,7 @@
     ],
     "ci": [
         "ac.ci",
+        "anani.br",
         "asso.ci",
         "aéroport.ci",
         "co.ci",
@@ -2871,7 +2871,6 @@
         "echizen.fukui.jp",
         "ed.jp",
         "edogawa.tokyo.jp",
-        "edu.kp",
         "ehime.jp",
         "eiheiji.fukui.jp",
         "embetsu.hokkaido.jp",
@@ -4621,6 +4620,7 @@
     ],
     "kp": [
         "com.kp",
+        "edu.kp",
         "gov.kp",
         "org.kp",
         "rep.kp",
