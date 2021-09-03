@@ -1,16 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-s1.cz.adocean.pl,AVAILABILITY,domains.list,2021-09-01 11:59:27.799957
-s1.edipresse.adocean.pl,AVAILABILITY,domains.list,2021-09-01 11:59:29.017172
-s1.myao.adocean.pl,AVAILABILITY,domains.list,2021-09-01 11:59:30.019088
-s1.sk.adocean.pl,AVAILABILITY,domains.list,2021-09-01 11:59:31.501839
-ad2.pl.mediainter.net,AVAILABILITY,domains.list,2021-09-01 11:59:33.450295
-ads2.rp.pl,AVAILABILITY,domains.list,2021-09-01 11:59:34.423121
-afi.adocean.pl,AVAILABILITY,domains.list,2021-09-01 11:59:35.089292
-adspiro.pl,AVAILABILITY,domains.list,2021-09-01 11:59:36.234690
-ads.clickad.com.pl,AVAILABILITY,domains.list,2021-09-01 11:59:42.112327
-adserwer.intercon.pl,AVAILABILITY,domains.list,2021-09-01 11:59:44.374456
-counter.gemius.pl,AVAILABILITY,domains.list,2021-09-01 11:59:45.566670
-c.allegrostatic.pl,AVAILABILITY,domains.list,2021-09-01 11:59:46.943573
 gspro.adocean.pl,AVAILABILITY,domains.list,2021-09-01 11:59:47.839051
 intactro.adocean.pl,AVAILABILITY,domains.list,2021-09-01 11:59:50.335043
 investorbg.adocean.pl,AVAILABILITY,domains.list,2021-09-01 11:59:51.546256
@@ -40,3 +28,15 @@ s1.gojobsru.adocean.pl,AVAILABILITY,domains.list,2021-09-01 12:00:21.549913
 s1.gratkapl.adocean.pl,AVAILABILITY,domains.list,2021-09-01 12:00:24.643195
 s1.pracuj.adocean.pl,AVAILABILITY,domains.list,2021-09-01 12:00:26.268568
 sportalbg.adocean.pl,AVAILABILITY,domains.list,2021-09-01 12:00:27.495316
+s1.cz.adocean.pl,AVAILABILITY,domains.list,2021-09-03 12:02:09.356738
+s1.edipresse.adocean.pl,AVAILABILITY,domains.list,2021-09-03 12:02:14.690846
+s1.myao.adocean.pl,AVAILABILITY,domains.list,2021-09-03 12:02:20.748820
+s1.sk.adocean.pl,AVAILABILITY,domains.list,2021-09-03 12:02:26.649511
+ad2.pl.mediainter.net,AVAILABILITY,domains.list,2021-09-03 12:02:29.848427
+ads2.rp.pl,AVAILABILITY,domains.list,2021-09-03 12:02:31.527028
+afi.adocean.pl,AVAILABILITY,domains.list,2021-09-03 12:02:32.847102
+adspiro.pl,AVAILABILITY,domains.list,2021-09-03 12:02:34.586056
+ads.clickad.com.pl,AVAILABILITY,domains.list,2021-09-03 12:02:41.145869
+adserwer.intercon.pl,AVAILABILITY,domains.list,2021-09-03 12:02:45.149119
+counter.gemius.pl,AVAILABILITY,domains.list,2021-09-03 12:02:51.873795
+c.allegrostatic.pl,AVAILABILITY,domains.list,2021-09-03 12:02:55.122585
