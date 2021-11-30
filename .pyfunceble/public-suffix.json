@@ -4930,6 +4930,7 @@
     ],
     "mo": [
         "com.mo",
+        "edu.mo",
         "gov.mo",
         "net.mo",
         "org.mo"
@@ -5141,7 +5142,6 @@
         "durham.museum",
         "eastafrica.museum",
         "eastcoast.museum",
-        "edu.mo",
         "education.museum",
         "educational.museum",
         "egyptian.museum",
