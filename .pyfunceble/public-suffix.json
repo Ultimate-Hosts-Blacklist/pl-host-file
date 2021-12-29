@@ -1933,7 +1933,6 @@
         "com.gy",
         "edu.gy",
         "gov.gy",
-        "net.gy",
         "org.gy"
     ],
     "health": [
@@ -1947,6 +1946,7 @@
         "idv.hk",
         "inc.hk",
         "ltd.hk",
+        "net.gy",
         "net.hk",
         "org.hk",
         "secaas.hk",
