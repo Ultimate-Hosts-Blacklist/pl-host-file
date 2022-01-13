@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-s1.gojobsru.adocean.pl,AVAILABILITY,domains.list,2022-01-11 03:10:23.710868
-:1%lo0,AVAILABILITY,domains.list,2022-01-11 03:10:24.010418
-s1.gratkapl.adocean.pl,AVAILABILITY,domains.list,2022-01-11 03:10:25.845346
-s1.pracuj.adocean.pl,AVAILABILITY,domains.list,2022-01-11 03:10:27.797547
-sportalbg.adocean.pl,AVAILABILITY,domains.list,2022-01-11 03:10:29.818088
-15minlt.adocean.pl,AVAILABILITY,domains.list,2022-01-11 03:10:31.601233
-adserver2.atman.pl,AVAILABILITY,domains.list,2022-01-11 03:10:33.547716
 afilv.adocean.pl,AVAILABILITY,domains.list,2022-01-13 03:00:54.841183
 delfiee.adocean.pl,AVAILABILITY,domains.list,2022-01-13 03:00:56.745139
 delfilt.adocean.pl,AVAILABILITY,domains.list,2022-01-13 03:00:58.702005
@@ -56,3 +49,10 @@ ro1ro.adocean.pl,AVAILABILITY,domains.list,2022-01-13 03:02:23.292532
 gratkapl.adocean.pl,AVAILABILITY,domains.list,2022-01-13 03:02:25.054372
 lrytaslt.adocean.pl,AVAILABILITY,domains.list,2022-01-13 03:02:26.952909
 obozua.adocean.pl,AVAILABILITY,domains.list,2022-01-13 03:02:28.721621
+s1.gojobsru.adocean.pl,AVAILABILITY,domains.list,2022-01-13 03:03:54.993328
+:1%lo0,AVAILABILITY,domains.list,2022-01-13 03:03:55.213808
+s1.gratkapl.adocean.pl,AVAILABILITY,domains.list,2022-01-13 03:03:57.213520
+s1.pracuj.adocean.pl,AVAILABILITY,domains.list,2022-01-13 03:03:59.539922
+sportalbg.adocean.pl,AVAILABILITY,domains.list,2022-01-13 03:04:01.068856
+15minlt.adocean.pl,AVAILABILITY,domains.list,2022-01-13 03:04:02.966527
+adserver2.atman.pl,AVAILABILITY,domains.list,2022-01-13 03:04:05.042131
