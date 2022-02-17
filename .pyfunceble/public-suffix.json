@@ -1492,10 +1492,9 @@
         "gov.cy",
         "j.scaleforce.com.cy",
         "ltd.cy",
-        "name.cy",
+        "mil.cy",
         "net.cy",
         "org.cy",
-        "parliament.cy",
         "press.cy",
         "pro.cy",
         "tm.cy"
@@ -6995,7 +6994,6 @@
         "nl.eu.org",
         "no-ip.org",
         "no.eu.org",
-        "nog.community",
         "now-dns.org",
         "nz.eu.org",
         "paris.eu.org",
@@ -7286,7 +7284,6 @@
         "stalowa-wola.pl",
         "starachowice.pl",
         "stargard.pl",
-        "starostwo.gov.pl",
         "suwalki.pl",
         "swidnica.pl",
         "swidnik.pl",
@@ -7597,6 +7594,7 @@
         "med.sd",
         "net.sd",
         "org.sd",
+        "starostwo.gov.pl",
         "tv.sd"
     ],
     "se": [
