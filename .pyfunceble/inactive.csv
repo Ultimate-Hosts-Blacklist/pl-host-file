@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adserver2.atman.pl,AVAILABILITY,domains.list,2022-02-24 05:07:50.533345
 afilv.adocean.pl,AVAILABILITY,domains.list,2022-02-25 05:07:31.785981
 delfiee.adocean.pl,AVAILABILITY,domains.list,2022-02-25 05:07:32.384255
 delfilt.adocean.pl,AVAILABILITY,domains.list,2022-02-25 05:07:33.136639
@@ -56,3 +55,4 @@ s1.gratkapl.adocean.pl,AVAILABILITY,domains.list,2022-02-25 05:08:12.473075
 s1.pracuj.adocean.pl,AVAILABILITY,domains.list,2022-02-25 05:08:13.371497
 sportalbg.adocean.pl,AVAILABILITY,domains.list,2022-02-25 05:08:14.161809
 15minlt.adocean.pl,AVAILABILITY,domains.list,2022-02-25 05:08:14.948693
+adserver2.atman.pl,AVAILABILITY,domains.list,2022-02-25 11:51:37.052306
