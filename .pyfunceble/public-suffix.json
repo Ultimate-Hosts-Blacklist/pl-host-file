@@ -2715,8 +2715,7 @@
     "je": [
         "co.je",
         "net.je",
-        "of.je",
-        "org.je"
+        "of.je"
     ],
     "jm": [
         "jm"
@@ -4958,7 +4957,6 @@
         "brasilia.me",
         "c66.me",
         "co.me",
-        "couk.me",
         "daplie.me",
         "ddns.me",
         "diskstation.me",
@@ -4995,7 +4993,6 @@
         "synology.me",
         "tbits.me",
         "tcp4.me",
-        "ukco.me",
         "vp4.me",
         "webhop.me",
         "wedeploy.me",
@@ -5717,6 +5714,7 @@
         "mx.na",
         "name.na",
         "or.na",
+        "org.je",
         "org.na",
         "pro.na",
         "school.na",
