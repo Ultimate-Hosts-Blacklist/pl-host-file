@@ -2204,6 +2204,7 @@
         "github.io",
         "gitlab.io",
         "hasura-app.io",
+        "homesklep.pl",
         "hostyhosting.io",
         "hzc.io",
         "id.forgerock.io",
@@ -2246,7 +2247,8 @@
         "utwente.io",
         "vaporcloud.io",
         "virtualserver.io",
-        "webthings.io"
+        "webthings.io",
+        "wedeploy.io"
     ],
     "iq": [
         "com.iq",
@@ -6926,8 +6928,7 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "shacknet.nu",
-        "wedeploy.io"
+        "shacknet.nu"
     ],
     "nz": [
         "ac.nz",
