@@ -342,7 +342,6 @@
         "blogspot.be",
         "cloud.interhostsolutions.be",
         "ezproxy.kuleuven.be",
-        "meinforum.net",
         "myspreadshop.be",
         "transurl.be",
         "webhosting.be"
@@ -376,7 +375,6 @@
         "k.bg",
         "l.bg",
         "m.bg",
-        "mil.cn",
         "n.bg",
         "o.bg",
         "p.bg",
@@ -7991,7 +7989,6 @@
     "sy": [
         "com.sy",
         "edu.sy",
-        "gov.sy",
         "mil.sy",
         "net.sy",
         "org.sy"
@@ -8675,6 +8672,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--o3cw4h": [
+        "gov.sy",
+        "xn--h3cuzk1di.xn--o3cw4h"
     ],
     "xyz": [
         "blogsite.xyz",
