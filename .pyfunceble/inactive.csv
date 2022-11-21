@@ -1,17 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-unblock.onaudience.com,AVAILABILITY,domains.list,2022-11-19 10:19:51.422030
-digital4ro.adocean.pl,AVAILABILITY,domains.list,2022-11-19 10:19:52.496907
-ro1ro.adocean.pl,AVAILABILITY,domains.list,2022-11-19 10:19:53.535241
-gratkapl.adocean.pl,AVAILABILITY,domains.list,2022-11-19 10:19:54.577477
-lrytaslt.adocean.pl,AVAILABILITY,domains.list,2022-11-19 10:19:55.636874
-obozua.adocean.pl,AVAILABILITY,domains.list,2022-11-19 10:19:56.689312
-s1.gojobsru.adocean.pl,AVAILABILITY,domains.list,2022-11-19 10:19:57.875328
-:1%lo0,AVAILABILITY,domains.list,2022-11-19 10:19:58.434400
-s1.gratkapl.adocean.pl,AVAILABILITY,domains.list,2022-11-19 10:19:59.796434
-s1.pracuj.adocean.pl,AVAILABILITY,domains.list,2022-11-19 10:20:04.318549
-sportalbg.adocean.pl,AVAILABILITY,domains.list,2022-11-19 10:20:06.705209
-15minlt.adocean.pl,AVAILABILITY,domains.list,2022-11-19 10:20:07.650994
-adserver2.atman.pl,AVAILABILITY,domains.list,2022-11-19 10:20:08.703507
 bbcdn.code.new.smartcontext.pl,AVAILABILITY,domains.list,2022-11-21 03:01:00.359290
 code.new.smartcontext.pl,AVAILABILITY,domains.list,2022-11-21 03:01:01.122066
 new.smartcontext.pl,AVAILABILITY,domains.list,2022-11-21 03:01:02.037778
@@ -57,3 +44,16 @@ www.intrack.pl,AVAILABILITY,domains.list,2022-11-21 03:01:52.983140
 spanel.gem.pl,AVAILABILITY,domains.list,2022-11-21 03:01:54.068471
 www.adtaily.pl,AVAILABILITY,domains.list,2022-11-21 03:01:55.291227
 banery.acr.pl,AVAILABILITY,domains.list,2022-11-21 03:01:56.373200
+unblock.onaudience.com,AVAILABILITY,domains.list,2022-11-21 03:03:21.809945
+digital4ro.adocean.pl,AVAILABILITY,domains.list,2022-11-21 03:03:23.018190
+ro1ro.adocean.pl,AVAILABILITY,domains.list,2022-11-21 03:03:24.128183
+gratkapl.adocean.pl,AVAILABILITY,domains.list,2022-11-21 03:03:25.346135
+lrytaslt.adocean.pl,AVAILABILITY,domains.list,2022-11-21 03:03:26.707082
+obozua.adocean.pl,AVAILABILITY,domains.list,2022-11-21 03:03:29.136206
+s1.gojobsru.adocean.pl,AVAILABILITY,domains.list,2022-11-21 03:03:30.654676
+:1%lo0,AVAILABILITY,domains.list,2022-11-21 03:03:31.318514
+s1.gratkapl.adocean.pl,AVAILABILITY,domains.list,2022-11-21 03:03:34.133191
+s1.pracuj.adocean.pl,AVAILABILITY,domains.list,2022-11-21 03:03:35.189809
+sportalbg.adocean.pl,AVAILABILITY,domains.list,2022-11-21 03:03:36.156086
+15minlt.adocean.pl,AVAILABILITY,domains.list,2022-11-21 03:03:37.091049
+adserver2.atman.pl,AVAILABILITY,domains.list,2022-11-21 03:03:38.254352
