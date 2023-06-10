@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.adocean.pl,AVAILABILITY,domains.list,2023-06-09 04:26:04.632583
-www.mystat.pl,AVAILABILITY,domains.list,2023-06-09 04:51:05.732900
 www.adserver.home.pl,AVAILABILITY,domains.list,2023-06-09 04:51:11.608605
 adserwer.intercon.pl,AVAILABILITY,domains.list,2023-06-09 04:51:13.618885
 counter.gemius.pl,AVAILABILITY,domains.list,2023-06-09 04:51:15.764319
@@ -63,3 +61,5 @@ ads2.rp.pl,AVAILABILITY,domains.list,2023-06-09 04:53:21.668520
 afi.adocean.pl,AVAILABILITY,domains.list,2023-06-09 04:53:23.271853
 adspiro.pl,AVAILABILITY,domains.list,2023-06-09 04:53:24.917771
 ads.clickad.com.pl,AVAILABILITY,domains.list,2023-06-09 04:53:26.816981
+ad.adocean.pl,AVAILABILITY,domains.list,2023-06-10 10:53:04.882728
+www.mystat.pl,AVAILABILITY,domains.list,2023-06-10 10:53:25.837285
