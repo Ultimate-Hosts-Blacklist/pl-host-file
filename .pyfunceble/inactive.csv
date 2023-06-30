@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.mystat.pl,AVAILABILITY,domains.list,2023-06-29 08:56:36.933509
-www.adserver.home.pl,AVAILABILITY,domains.list,2023-06-29 08:56:39.403157
-adserwer.intercon.pl,AVAILABILITY,domains.list,2023-06-29 08:56:40.456796
-counter.gemius.pl,AVAILABILITY,domains.list,2023-06-29 08:56:41.193478
-c.allegrostatic.pl,AVAILABILITY,domains.list,2023-06-29 08:56:42.137161
-gspro.adocean.pl,AVAILABILITY,domains.list,2023-06-29 08:56:42.854496
-intactro.adocean.pl,AVAILABILITY,domains.list,2023-06-29 08:56:43.614171
 investorbg.adocean.pl,AVAILABILITY,domains.list,2023-06-30 08:47:27.158479
 gg.mob.vendimob.pl,AVAILABILITY,domains.list,2023-06-30 08:47:28.201119
 openx.cda.pl,AVAILABILITY,domains.list,2023-06-30 08:47:28.745715
@@ -63,3 +56,10 @@ afi.adocean.pl,AVAILABILITY,domains.list,2023-06-30 08:48:36.990745
 adspiro.pl,AVAILABILITY,domains.list,2023-06-30 08:48:37.571266
 ads.clickad.com.pl,AVAILABILITY,domains.list,2023-06-30 08:48:38.521259
 ad.adocean.pl,AVAILABILITY,domains.list,2023-06-30 08:48:39.312233
+www.mystat.pl,AVAILABILITY,domains.list,2023-06-30 09:27:06.025748
+www.adserver.home.pl,AVAILABILITY,domains.list,2023-06-30 09:27:09.698377
+adserwer.intercon.pl,AVAILABILITY,domains.list,2023-06-30 09:27:11.055224
+counter.gemius.pl,AVAILABILITY,domains.list,2023-06-30 09:27:11.911409
+c.allegrostatic.pl,AVAILABILITY,domains.list,2023-06-30 09:27:12.967964
+gspro.adocean.pl,AVAILABILITY,domains.list,2023-06-30 09:27:14.018675
+intactro.adocean.pl,AVAILABILITY,domains.list,2023-06-30 09:27:14.896577
