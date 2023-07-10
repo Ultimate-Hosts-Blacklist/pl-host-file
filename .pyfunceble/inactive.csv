@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-s3.hit.stat.pl,AVAILABILITY,domains.list,2023-07-09 05:23:52.048888
-s4.hit.stat.pl,AVAILABILITY,domains.list,2023-07-09 05:23:53.486734
-sisco.hit.stat.pl,AVAILABILITY,domains.list,2023-07-09 05:24:05.233254
 investorbg.adocean.pl,AVAILABILITY,domains.list,2023-07-10 08:51:20.128648
 gg.mob.vendimob.pl,AVAILABILITY,domains.list,2023-07-10 08:51:21.250286
 openx.cda.pl,AVAILABILITY,domains.list,2023-07-10 08:51:21.717303
@@ -71,3 +68,6 @@ iwa.hit.interia.pl,AVAILABILITY,domains.list,2023-07-10 08:52:29.918583
 onet.hit.stat.pl,AVAILABILITY,domains.list,2023-07-10 08:52:37.215894
 s1.hit.stat.pl,AVAILABILITY,domains.list,2023-07-10 08:52:38.046446
 s2.hit.stat.pl,AVAILABILITY,domains.list,2023-07-10 08:52:43.759085
+s3.hit.stat.pl,AVAILABILITY,domains.list,2023-07-10 08:57:02.311715
+s4.hit.stat.pl,AVAILABILITY,domains.list,2023-07-10 08:57:06.532053
+sisco.hit.stat.pl,AVAILABILITY,domains.list,2023-07-10 08:57:10.424560
