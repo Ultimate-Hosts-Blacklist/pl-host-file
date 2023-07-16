@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-iwa.hit.interia.pl,AVAILABILITY,domains.list,2023-07-14 03:21:36.346754
-onet.hit.stat.pl,AVAILABILITY,domains.list,2023-07-14 03:21:40.620614
-s1.hit.stat.pl,AVAILABILITY,domains.list,2023-07-14 03:21:42.813986
-s2.hit.stat.pl,AVAILABILITY,domains.list,2023-07-14 03:21:48.506826
-s3.hit.stat.pl,AVAILABILITY,domains.list,2023-07-14 03:21:49.190260
-s4.hit.stat.pl,AVAILABILITY,domains.list,2023-07-14 03:21:53.155873
-sisco.hit.stat.pl,AVAILABILITY,domains.list,2023-07-14 03:21:53.978332
 investorbg.adocean.pl,AVAILABILITY,domains.list,2023-07-16 03:23:32.670769
 gg.mob.vendimob.pl,AVAILABILITY,domains.list,2023-07-16 03:23:33.379155
 openx.cda.pl,AVAILABILITY,domains.list,2023-07-16 03:23:33.747586
@@ -71,3 +64,10 @@ c.allegrostatic.pl,AVAILABILITY,domains.list,2023-07-16 03:24:47.195699
 gspro.adocean.pl,AVAILABILITY,domains.list,2023-07-16 03:24:47.890448
 intactro.adocean.pl,AVAILABILITY,domains.list,2023-07-16 03:24:48.476498
 home.hit.stat.pl,AVAILABILITY,domains.list,2023-07-16 03:24:49.511013
+iwa.hit.interia.pl,AVAILABILITY,domains.list,2023-07-16 03:36:00.094193
+onet.hit.stat.pl,AVAILABILITY,domains.list,2023-07-16 03:36:04.011485
+s1.hit.stat.pl,AVAILABILITY,domains.list,2023-07-16 03:36:06.534466
+s2.hit.stat.pl,AVAILABILITY,domains.list,2023-07-16 03:36:10.498947
+s3.hit.stat.pl,AVAILABILITY,domains.list,2023-07-16 03:36:11.093774
+s4.hit.stat.pl,AVAILABILITY,domains.list,2023-07-16 03:36:14.908645
+sisco.hit.stat.pl,AVAILABILITY,domains.list,2023-07-16 03:36:15.510837
