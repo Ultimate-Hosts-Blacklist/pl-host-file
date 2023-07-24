@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-c.allegrostatic.pl,AVAILABILITY,domains.list,2023-07-22 12:28:58.416558
-gspro.adocean.pl,AVAILABILITY,domains.list,2023-07-22 12:28:58.987831
-intactro.adocean.pl,AVAILABILITY,domains.list,2023-07-22 12:28:59.675071
-home.hit.stat.pl,AVAILABILITY,domains.list,2023-07-22 12:29:00.326227
-iwa.hit.interia.pl,AVAILABILITY,domains.list,2023-07-22 12:29:01.271610
-onet.hit.stat.pl,AVAILABILITY,domains.list,2023-07-22 12:29:02.131941
-s1.hit.stat.pl,AVAILABILITY,domains.list,2023-07-22 12:29:03.199592
-s2.hit.stat.pl,AVAILABILITY,domains.list,2023-07-22 12:29:07.257108
-s3.hit.stat.pl,AVAILABILITY,domains.list,2023-07-22 12:29:07.840008
-s4.hit.stat.pl,AVAILABILITY,domains.list,2023-07-22 12:29:08.662042
-sisco.hit.stat.pl,AVAILABILITY,domains.list,2023-07-22 12:29:12.566707
 investorbg.adocean.pl,AVAILABILITY,domains.list,2023-07-24 07:59:51.557694
 gg.mob.vendimob.pl,AVAILABILITY,domains.list,2023-07-24 07:59:52.729979
 openx.cda.pl,AVAILABILITY,domains.list,2023-07-24 07:59:53.329727
@@ -71,3 +60,14 @@ www.mystat.pl,AVAILABILITY,domains.list,2023-07-24 08:01:47.023938
 www.adserver.home.pl,AVAILABILITY,domains.list,2023-07-24 08:01:50.471576
 adserwer.intercon.pl,AVAILABILITY,domains.list,2023-07-24 08:01:51.472657
 counter.gemius.pl,AVAILABILITY,domains.list,2023-07-24 08:01:56.576347
+c.allegrostatic.pl,AVAILABILITY,domains.list,2023-07-24 08:10:37.135039
+gspro.adocean.pl,AVAILABILITY,domains.list,2023-07-24 08:10:39.249663
+intactro.adocean.pl,AVAILABILITY,domains.list,2023-07-24 08:10:43.188436
+home.hit.stat.pl,AVAILABILITY,domains.list,2023-07-24 08:10:44.703912
+iwa.hit.interia.pl,AVAILABILITY,domains.list,2023-07-24 08:10:46.218714
+onet.hit.stat.pl,AVAILABILITY,domains.list,2023-07-24 08:10:48.233305
+s1.hit.stat.pl,AVAILABILITY,domains.list,2023-07-24 08:10:49.354674
+s2.hit.stat.pl,AVAILABILITY,domains.list,2023-07-24 08:10:53.228066
+s3.hit.stat.pl,AVAILABILITY,domains.list,2023-07-24 08:10:53.839182
+s4.hit.stat.pl,AVAILABILITY,domains.list,2023-07-24 08:10:59.608368
+sisco.hit.stat.pl,AVAILABILITY,domains.list,2023-07-24 08:11:00.355491
