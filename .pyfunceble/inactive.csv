@@ -1,17 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adserwer.intercon.pl,AVAILABILITY,domains.list,2023-08-08 07:54:16.121734
-counter.gemius.pl,AVAILABILITY,domains.list,2023-08-08 07:54:16.622536
-c.allegrostatic.pl,AVAILABILITY,domains.list,2023-08-08 07:54:19.581742
-gspro.adocean.pl,AVAILABILITY,domains.list,2023-08-08 07:54:22.490754
-intactro.adocean.pl,AVAILABILITY,domains.list,2023-08-08 07:54:23.998347
-home.hit.stat.pl,AVAILABILITY,domains.list,2023-08-08 07:54:33.079714
-iwa.hit.interia.pl,AVAILABILITY,domains.list,2023-08-08 07:54:35.252145
-onet.hit.stat.pl,AVAILABILITY,domains.list,2023-08-08 07:54:38.865571
-s1.hit.stat.pl,AVAILABILITY,domains.list,2023-08-08 07:54:40.683369
-s2.hit.stat.pl,AVAILABILITY,domains.list,2023-08-08 07:54:46.886381
-s3.hit.stat.pl,AVAILABILITY,domains.list,2023-08-08 07:54:50.547767
-s4.hit.stat.pl,AVAILABILITY,domains.list,2023-08-08 07:54:52.292916
-sisco.hit.stat.pl,AVAILABILITY,domains.list,2023-08-08 07:54:54.508581
 chip.pl.intellitxt.com,AVAILABILITY,domains.list,2023-08-10 01:58:19.128405
 investorbg.adocean.pl,AVAILABILITY,domains.list,2023-08-10 01:58:19.899866
 gg.mob.vendimob.pl,AVAILABILITY,domains.list,2023-08-10 01:58:20.608954
@@ -71,3 +58,16 @@ adspiro.pl,AVAILABILITY,domains.list,2023-08-10 01:59:05.083575
 ads.clickad.com.pl,AVAILABILITY,domains.list,2023-08-10 01:59:05.875723
 ad.adocean.pl,AVAILABILITY,domains.list,2023-08-10 01:59:08.014178
 www.adserver.home.pl,AVAILABILITY,domains.list,2023-08-10 01:59:10.751821
+adserwer.intercon.pl,AVAILABILITY,domains.list,2023-08-10 02:00:21.448210
+counter.gemius.pl,AVAILABILITY,domains.list,2023-08-10 02:00:22.076375
+c.allegrostatic.pl,AVAILABILITY,domains.list,2023-08-10 02:00:23.191561
+gspro.adocean.pl,AVAILABILITY,domains.list,2023-08-10 02:00:23.956799
+intactro.adocean.pl,AVAILABILITY,domains.list,2023-08-10 02:00:24.722295
+home.hit.stat.pl,AVAILABILITY,domains.list,2023-08-10 02:00:25.510122
+iwa.hit.interia.pl,AVAILABILITY,domains.list,2023-08-10 02:00:26.310975
+onet.hit.stat.pl,AVAILABILITY,domains.list,2023-08-10 02:00:30.485401
+s1.hit.stat.pl,AVAILABILITY,domains.list,2023-08-10 02:00:31.608220
+s2.hit.stat.pl,AVAILABILITY,domains.list,2023-08-10 02:00:32.722613
+s3.hit.stat.pl,AVAILABILITY,domains.list,2023-08-10 02:00:33.342039
+s4.hit.stat.pl,AVAILABILITY,domains.list,2023-08-10 02:00:39.226905
+sisco.hit.stat.pl,AVAILABILITY,domains.list,2023-08-10 02:00:40.147221
