@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-s3.hit.stat.pl,AVAILABILITY,domains.list,2023-08-21 03:40:56.260946
-s4.hit.stat.pl,AVAILABILITY,domains.list,2023-08-21 03:40:57.151213
-sisco.hit.stat.pl,AVAILABILITY,domains.list,2023-08-21 03:41:03.196507
 chip.pl.intellitxt.com,AVAILABILITY,domains.list,2023-08-22 03:42:10.200132
 investorbg.adocean.pl,AVAILABILITY,domains.list,2023-08-22 03:42:10.965490
 gg.mob.vendimob.pl,AVAILABILITY,domains.list,2023-08-22 03:42:12.038748
@@ -71,3 +68,6 @@ iwa.hit.interia.pl,AVAILABILITY,domains.list,2023-08-22 03:43:49.755842
 onet.hit.stat.pl,AVAILABILITY,domains.list,2023-08-22 03:43:53.694450
 s1.hit.stat.pl,AVAILABILITY,domains.list,2023-08-22 03:43:57.884414
 s2.hit.stat.pl,AVAILABILITY,domains.list,2023-08-22 03:44:01.957579
+s3.hit.stat.pl,AVAILABILITY,domains.list,2023-08-23 03:44:33.234110
+s4.hit.stat.pl,AVAILABILITY,domains.list,2023-08-23 03:44:33.964430
+sisco.hit.stat.pl,AVAILABILITY,domains.list,2023-08-23 03:44:35.109799
