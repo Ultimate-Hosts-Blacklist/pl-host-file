@@ -1,16 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-counter.gemius.pl,AVAILABILITY,domains.list,2023-09-09 06:28:53.262549
-c.allegrostatic.pl,AVAILABILITY,domains.list,2023-09-09 06:28:54.353241
-gspro.adocean.pl,AVAILABILITY,domains.list,2023-09-09 06:28:54.956202
-intactro.adocean.pl,AVAILABILITY,domains.list,2023-09-09 06:28:56.969226
-home.hit.stat.pl,AVAILABILITY,domains.list,2023-09-09 06:28:57.821760
-iwa.hit.interia.pl,AVAILABILITY,domains.list,2023-09-09 06:28:58.655978
-onet.hit.stat.pl,AVAILABILITY,domains.list,2023-09-09 06:29:07.712837
-s1.hit.stat.pl,AVAILABILITY,domains.list,2023-09-09 06:29:16.543666
-s2.hit.stat.pl,AVAILABILITY,domains.list,2023-09-09 06:29:17.133221
-s3.hit.stat.pl,AVAILABILITY,domains.list,2023-09-09 06:29:17.846075
-s4.hit.stat.pl,AVAILABILITY,domains.list,2023-09-09 06:29:18.503250
-sisco.hit.stat.pl,AVAILABILITY,domains.list,2023-09-09 06:29:19.212414
 www.mystat.pl,AVAILABILITY,domains.list,2023-09-10 09:45:33.739677
 chip.pl.intellitxt.com,AVAILABILITY,domains.list,2023-09-10 09:45:34.428582
 investorbg.adocean.pl,AVAILABILITY,domains.list,2023-09-10 09:45:38.323765
@@ -72,3 +60,15 @@ ads.clickad.com.pl,AVAILABILITY,domains.list,2023-09-10 09:46:25.609221
 ad.adocean.pl,AVAILABILITY,domains.list,2023-09-10 09:46:26.218464
 www.adserver.home.pl,AVAILABILITY,domains.list,2023-09-10 09:46:30.279236
 adserwer.intercon.pl,AVAILABILITY,domains.list,2023-09-10 09:46:31.186858
+counter.gemius.pl,AVAILABILITY,domains.list,2023-09-10 09:54:47.250892
+c.allegrostatic.pl,AVAILABILITY,domains.list,2023-09-10 09:54:51.396964
+gspro.adocean.pl,AVAILABILITY,domains.list,2023-09-10 09:54:52.088655
+intactro.adocean.pl,AVAILABILITY,domains.list,2023-09-10 09:54:52.821417
+home.hit.stat.pl,AVAILABILITY,domains.list,2023-09-10 09:54:54.087120
+iwa.hit.interia.pl,AVAILABILITY,domains.list,2023-09-10 09:54:55.335471
+onet.hit.stat.pl,AVAILABILITY,domains.list,2023-09-10 09:54:56.550469
+s1.hit.stat.pl,AVAILABILITY,domains.list,2023-09-10 09:55:00.940310
+s2.hit.stat.pl,AVAILABILITY,domains.list,2023-09-10 09:55:07.760619
+s3.hit.stat.pl,AVAILABILITY,domains.list,2023-09-10 09:55:10.144010
+s4.hit.stat.pl,AVAILABILITY,domains.list,2023-09-10 09:55:11.406574
+sisco.hit.stat.pl,AVAILABILITY,domains.list,2023-09-10 09:55:13.617784
