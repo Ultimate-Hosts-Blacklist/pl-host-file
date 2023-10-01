@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-s4.hit.stat.pl,AVAILABILITY,domains.list,2023-09-29 08:56:51.702778
-sisco.hit.stat.pl,AVAILABILITY,domains.list,2023-09-29 08:56:52.094688
 www.mystat.pl,AVAILABILITY,domains.list,2023-10-01 03:04:57.906761
 chip.pl.intellitxt.com,AVAILABILITY,domains.list,2023-10-01 03:04:59.052215
 investorbg.adocean.pl,AVAILABILITY,domains.list,2023-10-01 03:04:59.761129
@@ -72,3 +70,5 @@ onet.hit.stat.pl,AVAILABILITY,domains.list,2023-10-01 03:05:57.184659
 s1.hit.stat.pl,AVAILABILITY,domains.list,2023-10-01 03:05:57.933855
 s2.hit.stat.pl,AVAILABILITY,domains.list,2023-10-01 03:05:58.530949
 s3.hit.stat.pl,AVAILABILITY,domains.list,2023-10-01 03:05:59.264405
+s4.hit.stat.pl,AVAILABILITY,domains.list,2023-10-01 03:16:41.444267
+sisco.hit.stat.pl,AVAILABILITY,domains.list,2023-10-01 03:16:42.486252
