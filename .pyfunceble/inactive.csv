@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-s1.hit.stat.pl,AVAILABILITY,domains.list,2023-10-31 03:07:09.458498
-s2.hit.stat.pl,AVAILABILITY,domains.list,2023-10-31 03:07:13.540033
-s3.hit.stat.pl,AVAILABILITY,domains.list,2023-10-31 03:07:14.615184
-s4.hit.stat.pl,AVAILABILITY,domains.list,2023-10-31 03:07:15.548729
-sisco.hit.stat.pl,AVAILABILITY,domains.list,2023-10-31 03:07:16.834728
 www.mystat.pl,AVAILABILITY,domains.list,2023-11-02 02:37:51.436904
 chip.pl.intellitxt.com,AVAILABILITY,domains.list,2023-11-02 02:37:52.146520
 investorbg.adocean.pl,AVAILABILITY,domains.list,2023-11-02 02:37:52.739900
@@ -72,3 +67,8 @@ intactro.adocean.pl,AVAILABILITY,domains.list,2023-11-02 02:38:54.724564
 home.hit.stat.pl,AVAILABILITY,domains.list,2023-11-02 02:38:55.803952
 iwa.hit.interia.pl,AVAILABILITY,domains.list,2023-11-02 02:38:56.694384
 onet.hit.stat.pl,AVAILABILITY,domains.list,2023-11-02 02:39:02.524869
+s1.hit.stat.pl,AVAILABILITY,domains.list,2023-11-02 02:44:53.748405
+s2.hit.stat.pl,AVAILABILITY,domains.list,2023-11-02 02:44:55.868182
+s3.hit.stat.pl,AVAILABILITY,domains.list,2023-11-02 02:44:57.257878
+s4.hit.stat.pl,AVAILABILITY,domains.list,2023-11-02 02:45:03.517558
+sisco.hit.stat.pl,AVAILABILITY,domains.list,2023-11-02 02:45:10.821773
