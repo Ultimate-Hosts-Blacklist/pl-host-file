@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-code.new.smartcontext.pl,AVAILABILITY,domains.list,2024-02-28 08:51:38.880517
-new.smartcontext.pl,AVAILABILITY,domains.list,2024-02-28 08:51:39.638075
-show.smartcontext.pl,AVAILABILITY,domains.list,2024-02-28 08:51:40.723953
-by.adocean.pl,AVAILABILITY,domains.list,2024-02-28 08:51:41.405108
-afilv.adocean.pl,AVAILABILITY,domains.list,2024-02-28 08:51:42.244872
-delfiee.adocean.pl,AVAILABILITY,domains.list,2024-02-28 08:51:42.936138
-delfilt.adocean.pl,AVAILABILITY,domains.list,2024-02-28 08:51:43.657988
 delfilv.adocean.pl,AVAILABILITY,domains.list,2024-03-01 07:57:32.298820
 diginet.adocean.pl,AVAILABILITY,domains.list,2024-03-01 07:57:34.536849
 gde.adocean.pl,AVAILABILITY,domains.list,2024-03-01 07:57:35.192787
@@ -70,3 +63,10 @@ cookiecontainer.blox.pl,AVAILABILITY,domains.list,2024-03-01 07:58:46.147151
 partner.pobieraczek.pl,AVAILABILITY,domains.list,2024-03-01 07:58:46.607638
 huomdgde.adocean.pl,AVAILABILITY,domains.list,2024-03-01 07:58:47.412770
 bbcdn.code.new.smartcontext.pl,AVAILABILITY,domains.list,2024-03-01 07:58:48.412904
+code.new.smartcontext.pl,AVAILABILITY,domains.list,2024-03-01 07:59:58.852293
+new.smartcontext.pl,AVAILABILITY,domains.list,2024-03-01 07:59:59.527184
+show.smartcontext.pl,AVAILABILITY,domains.list,2024-03-01 08:00:00.209613
+by.adocean.pl,AVAILABILITY,domains.list,2024-03-01 08:00:00.853828
+afilv.adocean.pl,AVAILABILITY,domains.list,2024-03-01 08:00:01.566187
+delfiee.adocean.pl,AVAILABILITY,domains.list,2024-03-01 08:00:02.480774
+delfilt.adocean.pl,AVAILABILITY,domains.list,2024-03-01 08:00:03.074264
