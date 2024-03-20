@@ -1,17 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-go.pl.bbelements.com,AVAILABILITY,domains.list,2024-03-18 11:47:28.672555
-delfilv.adocean.pl,AVAILABILITY,domains.list,2024-03-18 11:47:29.548864
-diginet.adocean.pl,AVAILABILITY,domains.list,2024-03-18 11:47:30.250836
-gde.adocean.pl,AVAILABILITY,domains.list,2024-03-18 11:47:31.114304
-gg.adocean.pl,AVAILABILITY,domains.list,2024-03-18 11:47:31.890382
-ilgde.adocean.pl,AVAILABILITY,domains.list,2024-03-18 11:47:32.613886
-ohtulehtee.adocean.pl,AVAILABILITY,domains.list,2024-03-18 11:47:33.228814
-realitatero.adocean.pl,AVAILABILITY,domains.list,2024-03-18 11:47:34.108968
-ringierro.adocean.pl,AVAILABILITY,domains.list,2024-03-18 11:47:34.811104
-s1.czgde.adocean.pl,AVAILABILITY,domains.list,2024-03-18 11:47:35.938325
-s1.my.adocean.pl,AVAILABILITY,domains.list,2024-03-18 11:47:37.007933
-s1.skgde.adocean.pl,AVAILABILITY,domains.list,2024-03-18 11:47:39.359738
-s1.cz.adocean.pl,AVAILABILITY,domains.list,2024-03-18 11:47:40.311680
 s1.edipresse.adocean.pl,AVAILABILITY,domains.list,2024-03-18 11:47:41.372702
 s1.myao.adocean.pl,AVAILABILITY,domains.list,2024-03-18 11:47:42.465495
 s1.sk.adocean.pl,AVAILABILITY,domains.list,2024-03-18 11:47:43.648155
@@ -71,3 +58,16 @@ by.adocean.pl,AVAILABILITY,domains.list,2024-03-18 11:48:37.586320
 afilv.adocean.pl,AVAILABILITY,domains.list,2024-03-18 11:48:38.441130
 delfiee.adocean.pl,AVAILABILITY,domains.list,2024-03-18 11:48:39.306220
 delfilt.adocean.pl,AVAILABILITY,domains.list,2024-03-18 11:48:40.207567
+go.pl.bbelements.com,AVAILABILITY,domains.list,2024-03-20 11:36:42.316663
+delfilv.adocean.pl,AVAILABILITY,domains.list,2024-03-20 11:36:43.150342
+diginet.adocean.pl,AVAILABILITY,domains.list,2024-03-20 11:36:43.964504
+gde.adocean.pl,AVAILABILITY,domains.list,2024-03-20 11:36:44.776404
+gg.adocean.pl,AVAILABILITY,domains.list,2024-03-20 11:36:45.711938
+ilgde.adocean.pl,AVAILABILITY,domains.list,2024-03-20 11:36:46.609300
+ohtulehtee.adocean.pl,AVAILABILITY,domains.list,2024-03-20 11:36:47.460312
+realitatero.adocean.pl,AVAILABILITY,domains.list,2024-03-20 11:36:48.199625
+ringierro.adocean.pl,AVAILABILITY,domains.list,2024-03-20 11:36:49.009921
+s1.czgde.adocean.pl,AVAILABILITY,domains.list,2024-03-20 11:36:51.598917
+s1.my.adocean.pl,AVAILABILITY,domains.list,2024-03-20 11:36:52.766827
+s1.skgde.adocean.pl,AVAILABILITY,domains.list,2024-03-20 11:36:53.942417
+s1.cz.adocean.pl,AVAILABILITY,domains.list,2024-03-20 11:36:55.065182
