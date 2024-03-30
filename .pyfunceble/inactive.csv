@@ -1,17 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-s4.hit.stat.pl,AVAILABILITY,domains.list,2024-03-28 07:07:00.869733
-sisco.hit.stat.pl,AVAILABILITY,domains.list,2024-03-28 07:07:03.016319
-chip.pl.intellitxt.com,AVAILABILITY,domains.list,2024-03-28 07:07:04.802134
-investorbg.adocean.pl,AVAILABILITY,domains.list,2024-03-28 07:07:07.775103
-gg.mob.vendimob.pl,AVAILABILITY,domains.list,2024-03-28 07:07:09.765182
-openx.cda.pl,AVAILABILITY,domains.list,2024-03-28 07:07:10.379187
-s1.delfilt.adocean.pl,AVAILABILITY,domains.list,2024-03-28 07:07:14.983288
-panel.adtify.pl,AVAILABILITY,domains.list,2024-03-28 07:07:15.599680
-openx.xenium.pl,AVAILABILITY,domains.list,2024-03-28 07:07:16.723255
-ua.cnt.gemius.pl,AVAILABILITY,domains.list,2024-03-28 07:07:19.972645
-www.adspiro.pl,AVAILABILITY,domains.list,2024-03-28 07:07:20.719108
-www.intrack.pl,AVAILABILITY,domains.list,2024-03-28 07:07:21.465860
-spanel.gem.pl,AVAILABILITY,domains.list,2024-03-28 07:07:25.992254
 www.adtaily.pl,AVAILABILITY,domains.list,2024-03-29 06:12:20.286433
 banery.acr.pl,AVAILABILITY,domains.list,2024-03-29 06:12:24.859747
 unblock.onaudience.com,AVAILABILITY,domains.list,2024-03-29 06:12:25.755136
@@ -72,3 +59,16 @@ onet.hit.stat.pl,AVAILABILITY,domains.list,2024-03-30 06:05:48.631714
 s1.hit.stat.pl,AVAILABILITY,domains.list,2024-03-30 06:05:54.428346
 s2.hit.stat.pl,AVAILABILITY,domains.list,2024-03-30 06:05:58.442927
 s3.hit.stat.pl,AVAILABILITY,domains.list,2024-03-30 06:06:04.686477
+s4.hit.stat.pl,AVAILABILITY,domains.list,2024-03-30 06:09:20.553545
+sisco.hit.stat.pl,AVAILABILITY,domains.list,2024-03-30 06:09:25.874934
+chip.pl.intellitxt.com,AVAILABILITY,domains.list,2024-03-30 06:09:32.142596
+investorbg.adocean.pl,AVAILABILITY,domains.list,2024-03-30 06:09:35.727105
+gg.mob.vendimob.pl,AVAILABILITY,domains.list,2024-03-30 06:09:37.961767
+openx.cda.pl,AVAILABILITY,domains.list,2024-03-30 06:09:39.765588
+s1.delfilt.adocean.pl,AVAILABILITY,domains.list,2024-03-30 06:09:45.220088
+panel.adtify.pl,AVAILABILITY,domains.list,2024-03-30 06:09:46.392158
+openx.xenium.pl,AVAILABILITY,domains.list,2024-03-30 06:09:48.416998
+ua.cnt.gemius.pl,AVAILABILITY,domains.list,2024-03-30 06:09:50.160212
+www.adspiro.pl,AVAILABILITY,domains.list,2024-03-30 06:09:51.314160
+www.intrack.pl,AVAILABILITY,domains.list,2024-03-30 06:09:52.848329
+spanel.gem.pl,AVAILABILITY,domains.list,2024-03-30 06:09:54.754297
