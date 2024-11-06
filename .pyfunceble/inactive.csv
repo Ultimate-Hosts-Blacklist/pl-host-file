@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-spanel.gem.pl,AVAILABILITY,domains.list,2024-11-04 03:52:01.872056+00:00
-ads.clickad.com.pl,AVAILABILITY,domains.list,2024-11-04 03:52:02.826402+00:00
-ads2.rp.pl,AVAILABILITY,domains.list,2024-11-04 03:52:03.040809+00:00
-chip.pl.intellitxt.com,AVAILABILITY,domains.list,2024-11-04 03:52:05.907731+00:00
-gg.mob.vendimob.pl,AVAILABILITY,domains.list,2024-11-04 03:52:07.530027+00:00
-onet.hit.stat.pl,AVAILABILITY,domains.list,2024-11-04 03:52:11.508915+00:00
-openx.cda.pl,AVAILABILITY,domains.list,2024-11-04 03:52:11.888846+00:00
-www.adserver.home.pl,AVAILABILITY,domains.list,2024-11-04 03:52:14.013285+00:00
 www.mystat.pl,AVAILABILITY,domains.list,2024-11-04 03:52:16.774095+00:00
 www.adtaily.pl,AVAILABILITY,domains.list,2024-11-04 03:52:18.482830+00:00
 banery.acr.pl,AVAILABILITY,domains.list,2024-11-04 03:52:19.531092+00:00
@@ -75,3 +67,11 @@ ua.cnt.gemius.pl,AVAILABILITY,domains.list,2024-11-04 03:53:47.524166+00:00
 www.adspiro.pl,AVAILABILITY,domains.list,2024-11-04 03:53:47.906140+00:00
 www.intrack.pl,AVAILABILITY,domains.list,2024-11-04 03:53:48.224555+00:00
 ads.open.pl,AVAILABILITY,domains.list,2024-11-04 03:53:48.675162+00:00
+spanel.gem.pl,AVAILABILITY,domains.list,2024-11-06 03:51:09.574415+00:00
+ads.clickad.com.pl,AVAILABILITY,domains.list,2024-11-06 03:51:10.978406+00:00
+ads2.rp.pl,AVAILABILITY,domains.list,2024-11-06 03:51:11.237509+00:00
+chip.pl.intellitxt.com,AVAILABILITY,domains.list,2024-11-06 03:51:24.301532+00:00
+gg.mob.vendimob.pl,AVAILABILITY,domains.list,2024-11-06 03:51:26.318475+00:00
+onet.hit.stat.pl,AVAILABILITY,domains.list,2024-11-06 03:51:33.619200+00:00
+openx.cda.pl,AVAILABILITY,domains.list,2024-11-06 03:51:33.839672+00:00
+www.adserver.home.pl,AVAILABILITY,domains.list,2024-11-06 03:51:35.675723+00:00
