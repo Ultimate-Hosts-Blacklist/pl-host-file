@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-sisco.hit.stat.pl,AVAILABILITY,domains.list,2024-11-08 04:04:28.476550+00:00
-investorbg.adocean.pl,AVAILABILITY,domains.list,2024-11-08 04:04:30.247086+00:00
-s1.delfilt.adocean.pl,AVAILABILITY,domains.list,2024-11-08 04:04:33.563041+00:00
-panel.adtify.pl,AVAILABILITY,domains.list,2024-11-08 04:04:33.777930+00:00
-openx.xenium.pl,AVAILABILITY,domains.list,2024-11-08 04:04:35.678178+00:00
-ua.cnt.gemius.pl,AVAILABILITY,domains.list,2024-11-08 04:04:39.236492+00:00
-www.adspiro.pl,AVAILABILITY,domains.list,2024-11-08 04:04:40.502159+00:00
-www.intrack.pl,AVAILABILITY,domains.list,2024-11-08 04:04:41.368798+00:00
-ads.open.pl,AVAILABILITY,domains.list,2024-11-08 04:04:41.595757+00:00
 spanel.gem.pl,AVAILABILITY,domains.list,2024-11-10 03:58:30.914015+00:00
 ads.clickad.com.pl,AVAILABILITY,domains.list,2024-11-10 03:58:32.150912+00:00
 ads2.rp.pl,AVAILABILITY,domains.list,2024-11-10 03:58:32.716213+00:00
@@ -75,3 +66,12 @@ s1.hit.stat.pl,AVAILABILITY,domains.list,2024-11-10 04:00:27.694153+00:00
 s2.hit.stat.pl,AVAILABILITY,domains.list,2024-11-10 04:00:29.179977+00:00
 s3.hit.stat.pl,AVAILABILITY,domains.list,2024-11-10 04:00:29.869574+00:00
 s4.hit.stat.pl,AVAILABILITY,domains.list,2024-11-10 04:00:31.339453+00:00
+sisco.hit.stat.pl,AVAILABILITY,domains.list,2024-11-10 04:01:34.611954+00:00
+investorbg.adocean.pl,AVAILABILITY,domains.list,2024-11-10 04:01:35.571112+00:00
+s1.delfilt.adocean.pl,AVAILABILITY,domains.list,2024-11-10 04:01:37.371121+00:00
+panel.adtify.pl,AVAILABILITY,domains.list,2024-11-10 04:01:38.117101+00:00
+openx.xenium.pl,AVAILABILITY,domains.list,2024-11-10 04:01:39.300882+00:00
+ua.cnt.gemius.pl,AVAILABILITY,domains.list,2024-11-10 04:01:42.940259+00:00
+www.adspiro.pl,AVAILABILITY,domains.list,2024-11-10 04:01:43.580031+00:00
+www.intrack.pl,AVAILABILITY,domains.list,2024-11-10 04:01:44.478057+00:00
+ads.open.pl,AVAILABILITY,domains.list,2024-11-10 04:01:45.174361+00:00
