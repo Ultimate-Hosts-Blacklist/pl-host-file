@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-spanel.gem.pl,AVAILABILITY,domains.list,2024-11-12 03:58:46.409637+00:00
-ads.clickad.com.pl,AVAILABILITY,domains.list,2024-11-12 03:58:47.229455+00:00
-ads2.rp.pl,AVAILABILITY,domains.list,2024-11-12 03:58:47.594341+00:00
-chip.pl.intellitxt.com,AVAILABILITY,domains.list,2024-11-12 03:58:55.013951+00:00
-gg.mob.vendimob.pl,AVAILABILITY,domains.list,2024-11-12 03:58:56.964251+00:00
-onet.hit.stat.pl,AVAILABILITY,domains.list,2024-11-12 03:59:06.542899+00:00
-openx.cda.pl,AVAILABILITY,domains.list,2024-11-12 03:59:06.865343+00:00
-www.adserver.home.pl,AVAILABILITY,domains.list,2024-11-12 03:59:08.820474+00:00
-www.mystat.pl,AVAILABILITY,domains.list,2024-11-12 03:59:11.747029+00:00
-www.adtaily.pl,AVAILABILITY,domains.list,2024-11-12 04:00:02.286671+00:00
 banery.acr.pl,AVAILABILITY,domains.list,2024-11-12 04:00:03.514788+00:00
 unblock.onaudience.com,AVAILABILITY,domains.list,2024-11-12 04:00:03.912479+00:00
 digital4ro.adocean.pl,AVAILABILITY,domains.list,2024-11-12 04:00:05.353021+00:00
@@ -75,3 +65,13 @@ ua.cnt.gemius.pl,AVAILABILITY,domains.list,2024-11-12 04:01:53.129390+00:00
 www.adspiro.pl,AVAILABILITY,domains.list,2024-11-12 04:01:54.181722+00:00
 www.intrack.pl,AVAILABILITY,domains.list,2024-11-12 04:01:54.770835+00:00
 ads.open.pl,AVAILABILITY,domains.list,2024-11-12 04:01:55.380409+00:00
+spanel.gem.pl,AVAILABILITY,domains.list,2024-11-14 03:57:08.413265+00:00
+ads.clickad.com.pl,AVAILABILITY,domains.list,2024-11-14 03:57:09.897684+00:00
+ads2.rp.pl,AVAILABILITY,domains.list,2024-11-14 03:57:10.470534+00:00
+chip.pl.intellitxt.com,AVAILABILITY,domains.list,2024-11-14 03:57:23.441812+00:00
+gg.mob.vendimob.pl,AVAILABILITY,domains.list,2024-11-14 03:57:25.141533+00:00
+onet.hit.stat.pl,AVAILABILITY,domains.list,2024-11-14 03:57:41.077142+00:00
+openx.cda.pl,AVAILABILITY,domains.list,2024-11-14 03:57:41.495466+00:00
+www.adserver.home.pl,AVAILABILITY,domains.list,2024-11-14 03:57:43.351111+00:00
+www.mystat.pl,AVAILABILITY,domains.list,2024-11-14 03:57:47.662963+00:00
+www.adtaily.pl,AVAILABILITY,domains.list,2024-11-14 03:58:20.483610+00:00
