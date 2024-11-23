@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-spanel.gem.pl,AVAILABILITY,domains.list,2024-11-21 06:45:05.434965+00:00
-ads.clickad.com.pl,AVAILABILITY,domains.list,2024-11-21 06:45:06.331349+00:00
-ads2.rp.pl,AVAILABILITY,domains.list,2024-11-21 06:45:06.613907+00:00
-chip.pl.intellitxt.com,AVAILABILITY,domains.list,2024-11-21 06:45:18.002606+00:00
 gg.mob.vendimob.pl,AVAILABILITY,domains.list,2024-11-21 06:45:18.876798+00:00
 onet.hit.stat.pl,AVAILABILITY,domains.list,2024-11-21 06:45:25.718942+00:00
 openx.cda.pl,AVAILABILITY,domains.list,2024-11-21 06:45:26.006955+00:00
@@ -74,3 +70,7 @@ ua.cnt.gemius.pl,AVAILABILITY,domains.list,2024-11-21 06:47:00.097453+00:00
 www.adspiro.pl,AVAILABILITY,domains.list,2024-11-21 06:47:00.833301+00:00
 www.intrack.pl,AVAILABILITY,domains.list,2024-11-21 06:47:01.176116+00:00
 www.mystat.pl,AVAILABILITY,domains.list,2024-11-22 06:45:26.211898+00:00
+spanel.gem.pl,AVAILABILITY,domains.list,2024-11-23 06:45:42.132556+00:00
+ads.clickad.com.pl,AVAILABILITY,domains.list,2024-11-23 06:45:43.589736+00:00
+ads2.rp.pl,AVAILABILITY,domains.list,2024-11-23 06:45:43.787922+00:00
+chip.pl.intellitxt.com,AVAILABILITY,domains.list,2024-11-23 06:45:56.839653+00:00
