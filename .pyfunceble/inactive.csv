@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-spanel.gem.pl,AVAILABILITY,domains.list,2024-11-27 04:56:20.333596+00:00
-ads.clickad.com.pl,AVAILABILITY,domains.list,2024-11-27 04:56:21.329616+00:00
-ads2.rp.pl,AVAILABILITY,domains.list,2024-11-27 04:56:21.678799+00:00
-chip.pl.intellitxt.com,AVAILABILITY,domains.list,2024-11-27 04:56:32.549532+00:00
-gg.mob.vendimob.pl,AVAILABILITY,domains.list,2024-11-27 04:56:34.126547+00:00
-onet.hit.stat.pl,AVAILABILITY,domains.list,2024-11-27 04:56:44.455704+00:00
-openx.cda.pl,AVAILABILITY,domains.list,2024-11-27 04:56:44.752122+00:00
-www.adserver.home.pl,AVAILABILITY,domains.list,2024-11-27 04:56:46.632728+00:00
-www.adtaily.pl,AVAILABILITY,domains.list,2024-11-27 04:56:47.623658+00:00
-banery.acr.pl,AVAILABILITY,domains.list,2024-11-27 04:56:48.695550+00:00
 unblock.onaudience.com,AVAILABILITY,domains.list,2024-11-27 04:56:49.251925+00:00
 digital4ro.adocean.pl,AVAILABILITY,domains.list,2024-11-27 04:56:50.347959+00:00
 ro1ro.adocean.pl,AVAILABILITY,domains.list,2024-11-27 04:56:51.742938+00:00
@@ -74,3 +64,13 @@ ua.cnt.gemius.pl,AVAILABILITY,domains.list,2024-11-27 05:01:32.252240+00:00
 www.adspiro.pl,AVAILABILITY,domains.list,2024-11-27 05:01:32.936291+00:00
 www.intrack.pl,AVAILABILITY,domains.list,2024-11-27 05:01:33.433816+00:00
 www.mystat.pl,AVAILABILITY,domains.list,2024-11-27 05:01:36.839907+00:00
+spanel.gem.pl,AVAILABILITY,domains.list,2024-11-29 04:50:47.207878+00:00
+ads.clickad.com.pl,AVAILABILITY,domains.list,2024-11-29 04:50:48.434501+00:00
+ads2.rp.pl,AVAILABILITY,domains.list,2024-11-29 04:50:48.643502+00:00
+chip.pl.intellitxt.com,AVAILABILITY,domains.list,2024-11-29 04:51:00.521398+00:00
+gg.mob.vendimob.pl,AVAILABILITY,domains.list,2024-11-29 04:51:02.369898+00:00
+onet.hit.stat.pl,AVAILABILITY,domains.list,2024-11-29 04:51:11.197342+00:00
+openx.cda.pl,AVAILABILITY,domains.list,2024-11-29 04:51:11.379643+00:00
+www.adserver.home.pl,AVAILABILITY,domains.list,2024-11-29 04:51:13.277836+00:00
+www.adtaily.pl,AVAILABILITY,domains.list,2024-11-29 04:51:14.894583+00:00
+banery.acr.pl,AVAILABILITY,domains.list,2024-11-29 04:51:16.386548+00:00
