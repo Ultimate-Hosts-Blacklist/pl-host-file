@@ -1,18 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-s1.hit.stat.pl,AVAILABILITY,domains.list,2024-12-18 01:11:39.053926+00:00
-s2.hit.stat.pl,AVAILABILITY,domains.list,2024-12-18 01:11:45.869741+00:00
-s3.hit.stat.pl,AVAILABILITY,domains.list,2024-12-18 01:11:50.666358+00:00
-s4.hit.stat.pl,AVAILABILITY,domains.list,2024-12-18 01:11:52.243588+00:00
-sisco.hit.stat.pl,AVAILABILITY,domains.list,2024-12-18 01:11:54.137735+00:00
-investorbg.adocean.pl,AVAILABILITY,domains.list,2024-12-18 01:11:55.281012+00:00
-s1.delfilt.adocean.pl,AVAILABILITY,domains.list,2024-12-18 01:11:58.088401+00:00
-panel.adtify.pl,AVAILABILITY,domains.list,2024-12-18 01:11:58.613920+00:00
-openx.xenium.pl,AVAILABILITY,domains.list,2024-12-18 01:12:00.267454+00:00
-ua.cnt.gemius.pl,AVAILABILITY,domains.list,2024-12-18 01:12:02.072788+00:00
-www.adspiro.pl,AVAILABILITY,domains.list,2024-12-18 01:12:02.581285+00:00
-www.intrack.pl,AVAILABILITY,domains.list,2024-12-18 01:12:03.483384+00:00
-www.mystat.pl,AVAILABILITY,domains.list,2024-12-18 01:12:07.347504+00:00
-www.adserver.home.pl,AVAILABILITY,domains.list,2024-12-18 01:12:09.381959+00:00
 media.adcarousel.pl,AVAILABILITY,domains.list,2024-12-19 01:19:48.345820+00:00
 spanel.gem.pl,AVAILABILITY,domains.list,2024-12-19 01:19:51.279650+00:00
 ads.clickad.com.pl,AVAILABILITY,domains.list,2024-12-19 01:19:52.407109+00:00
@@ -75,3 +61,16 @@ gspro.adocean.pl,AVAILABILITY,domains.list,2024-12-19 01:22:04.568055+00:00
 intactro.adocean.pl,AVAILABILITY,domains.list,2024-12-19 01:22:06.038765+00:00
 home.hit.stat.pl,AVAILABILITY,domains.list,2024-12-19 01:22:11.692927+00:00
 iwa.hit.interia.pl,AVAILABILITY,domains.list,2024-12-19 01:22:13.711983+00:00
+s1.hit.stat.pl,AVAILABILITY,domains.list,2024-12-19 10:57:10.467037+00:00
+s2.hit.stat.pl,AVAILABILITY,domains.list,2024-12-19 10:57:12.234974+00:00
+s3.hit.stat.pl,AVAILABILITY,domains.list,2024-12-19 10:57:20.601283+00:00
+s4.hit.stat.pl,AVAILABILITY,domains.list,2024-12-19 10:57:47.176137+00:00
+sisco.hit.stat.pl,AVAILABILITY,domains.list,2024-12-19 10:57:53.550487+00:00
+investorbg.adocean.pl,AVAILABILITY,domains.list,2024-12-19 10:58:03.382972+00:00
+s1.delfilt.adocean.pl,AVAILABILITY,domains.list,2024-12-19 10:58:06.953081+00:00
+panel.adtify.pl,AVAILABILITY,domains.list,2024-12-19 10:58:17.597792+00:00
+openx.xenium.pl,AVAILABILITY,domains.list,2024-12-19 10:58:19.182990+00:00
+ua.cnt.gemius.pl,AVAILABILITY,domains.list,2024-12-19 10:58:30.934802+00:00
+www.adspiro.pl,AVAILABILITY,domains.list,2024-12-19 10:58:46.554699+00:00
+www.intrack.pl,AVAILABILITY,domains.list,2024-12-19 10:59:01.973963+00:00
+www.mystat.pl,AVAILABILITY,domains.list,2024-12-19 10:59:11.025500+00:00
