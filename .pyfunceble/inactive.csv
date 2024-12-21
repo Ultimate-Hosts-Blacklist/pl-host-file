@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-s1.sk.adocean.pl,AVAILABILITY,domains.list,2024-12-20 02:15:47.165665+00:00
-afi.adocean.pl,AVAILABILITY,domains.list,2024-12-20 02:15:50.420798+00:00
-adspiro.pl,AVAILABILITY,domains.list,2024-12-20 02:15:51.645182+00:00
-ad.adocean.pl,AVAILABILITY,domains.list,2024-12-20 02:15:53.482243+00:00
-adserwer.intercon.pl,AVAILABILITY,domains.list,2024-12-20 02:15:58.314885+00:00
 counter.gemius.pl,AVAILABILITY,domains.list,2024-12-20 02:16:00.034772+00:00
 c.allegrostatic.pl,AVAILABILITY,domains.list,2024-12-20 02:16:01.805491+00:00
 gspro.adocean.pl,AVAILABILITY,domains.list,2024-12-20 02:16:04.193291+00:00
@@ -75,3 +70,8 @@ s1.skgde.adocean.pl,AVAILABILITY,domains.list,2024-12-21 02:29:48.933359+00:00
 s1.cz.adocean.pl,AVAILABILITY,domains.list,2024-12-21 02:29:50.472758+00:00
 s1.edipresse.adocean.pl,AVAILABILITY,domains.list,2024-12-21 02:29:51.696081+00:00
 s1.myao.adocean.pl,AVAILABILITY,domains.list,2024-12-21 02:29:54.639640+00:00
+s1.sk.adocean.pl,AVAILABILITY,domains.list,2024-12-21 09:28:05.149974+00:00
+afi.adocean.pl,AVAILABILITY,domains.list,2024-12-21 09:28:06.843594+00:00
+adspiro.pl,AVAILABILITY,domains.list,2024-12-21 09:28:07.075486+00:00
+ad.adocean.pl,AVAILABILITY,domains.list,2024-12-21 09:28:10.603075+00:00
+adserwer.intercon.pl,AVAILABILITY,domains.list,2024-12-21 09:28:13.790206+00:00
