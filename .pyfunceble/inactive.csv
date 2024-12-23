@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-s1.sk.adocean.pl,AVAILABILITY,domains.list,2024-12-21 09:28:05.149974+00:00
-afi.adocean.pl,AVAILABILITY,domains.list,2024-12-21 09:28:06.843594+00:00
-adspiro.pl,AVAILABILITY,domains.list,2024-12-21 09:28:07.075486+00:00
-ad.adocean.pl,AVAILABILITY,domains.list,2024-12-21 09:28:10.603075+00:00
-adserwer.intercon.pl,AVAILABILITY,domains.list,2024-12-21 09:28:13.790206+00:00
-counter.gemius.pl,AVAILABILITY,domains.list,2024-12-21 09:31:05.149912+00:00
-c.allegrostatic.pl,AVAILABILITY,domains.list,2024-12-21 09:31:21.524458+00:00
-gspro.adocean.pl,AVAILABILITY,domains.list,2024-12-21 09:31:42.532608+00:00
-intactro.adocean.pl,AVAILABILITY,domains.list,2024-12-21 09:31:55.449585+00:00
-home.hit.stat.pl,AVAILABILITY,domains.list,2024-12-21 09:31:59.973561+00:00
-iwa.hit.interia.pl,AVAILABILITY,domains.list,2024-12-21 09:32:01.527575+00:00
 s1.hit.stat.pl,AVAILABILITY,domains.list,2024-12-22 05:51:16.841701+00:00
 s2.hit.stat.pl,AVAILABILITY,domains.list,2024-12-22 05:51:19.311483+00:00
 s3.hit.stat.pl,AVAILABILITY,domains.list,2024-12-22 05:51:21.160886+00:00
@@ -75,3 +64,14 @@ s1.skgde.adocean.pl,AVAILABILITY,domains.list,2024-12-22 05:52:45.651242+00:00
 s1.cz.adocean.pl,AVAILABILITY,domains.list,2024-12-22 05:52:47.108470+00:00
 s1.edipresse.adocean.pl,AVAILABILITY,domains.list,2024-12-22 05:52:48.565373+00:00
 s1.myao.adocean.pl,AVAILABILITY,domains.list,2024-12-22 05:52:49.798528+00:00
+s1.sk.adocean.pl,AVAILABILITY,domains.list,2024-12-23 05:53:30.126536+00:00
+afi.adocean.pl,AVAILABILITY,domains.list,2024-12-23 05:53:31.515683+00:00
+adspiro.pl,AVAILABILITY,domains.list,2024-12-23 05:53:32.698043+00:00
+ad.adocean.pl,AVAILABILITY,domains.list,2024-12-23 05:53:33.527316+00:00
+adserwer.intercon.pl,AVAILABILITY,domains.list,2024-12-23 05:53:35.626665+00:00
+counter.gemius.pl,AVAILABILITY,domains.list,2024-12-23 05:53:36.661765+00:00
+c.allegrostatic.pl,AVAILABILITY,domains.list,2024-12-23 05:53:37.841265+00:00
+gspro.adocean.pl,AVAILABILITY,domains.list,2024-12-23 05:53:38.755132+00:00
+intactro.adocean.pl,AVAILABILITY,domains.list,2024-12-23 05:53:40.201970+00:00
+home.hit.stat.pl,AVAILABILITY,domains.list,2024-12-23 05:53:47.443746+00:00
+iwa.hit.interia.pl,AVAILABILITY,domains.list,2024-12-23 05:53:48.954294+00:00
