@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-s1.hit.stat.pl,AVAILABILITY,domains.list,2025-01-10 06:50:37.004843+00:00
-s2.hit.stat.pl,AVAILABILITY,domains.list,2025-01-10 06:50:37.688337+00:00
-s3.hit.stat.pl,AVAILABILITY,domains.list,2025-01-10 06:50:40.541880+00:00
-s4.hit.stat.pl,AVAILABILITY,domains.list,2025-01-10 06:50:41.711473+00:00
-sisco.hit.stat.pl,AVAILABILITY,domains.list,2025-01-10 06:50:42.525516+00:00
-investorbg.adocean.pl,AVAILABILITY,domains.list,2025-01-10 06:50:43.071364+00:00
-s1.delfilt.adocean.pl,AVAILABILITY,domains.list,2025-01-10 06:50:43.749013+00:00
-panel.adtify.pl,AVAILABILITY,domains.list,2025-01-10 06:50:44.187280+00:00
-openx.xenium.pl,AVAILABILITY,domains.list,2025-01-10 06:50:44.842963+00:00
 ua.cnt.gemius.pl,AVAILABILITY,domains.list,2025-01-10 06:50:45.707609+00:00
 www.adspiro.pl,AVAILABILITY,domains.list,2025-01-10 06:50:45.869842+00:00
 www.intrack.pl,AVAILABILITY,domains.list,2025-01-10 06:50:46.160283+00:00
@@ -75,3 +66,12 @@ gspro.adocean.pl,AVAILABILITY,domains.list,2025-01-10 06:52:07.694224+00:00
 intactro.adocean.pl,AVAILABILITY,domains.list,2025-01-10 06:52:08.557798+00:00
 home.hit.stat.pl,AVAILABILITY,domains.list,2025-01-10 06:52:16.366460+00:00
 iwa.hit.interia.pl,AVAILABILITY,domains.list,2025-01-10 06:52:17.560408+00:00
+s1.hit.stat.pl,AVAILABILITY,domains.list,2025-01-11 06:52:12.455079+00:00
+s2.hit.stat.pl,AVAILABILITY,domains.list,2025-01-11 06:52:23.824505+00:00
+s3.hit.stat.pl,AVAILABILITY,domains.list,2025-01-11 06:52:26.558723+00:00
+s4.hit.stat.pl,AVAILABILITY,domains.list,2025-01-11 06:52:27.968833+00:00
+sisco.hit.stat.pl,AVAILABILITY,domains.list,2025-01-11 06:52:29.534940+00:00
+investorbg.adocean.pl,AVAILABILITY,domains.list,2025-01-11 06:52:30.982562+00:00
+s1.delfilt.adocean.pl,AVAILABILITY,domains.list,2025-01-11 06:52:33.075524+00:00
+panel.adtify.pl,AVAILABILITY,domains.list,2025-01-11 06:52:33.430369+00:00
+openx.xenium.pl,AVAILABILITY,domains.list,2025-01-11 06:52:34.585241+00:00
