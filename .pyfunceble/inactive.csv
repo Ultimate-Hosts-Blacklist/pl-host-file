@@ -1,18 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-s1.my.adocean.pl,AVAILABILITY,domains.list,2025-01-22 11:56:11.655141+00:00
-s1.skgde.adocean.pl,AVAILABILITY,domains.list,2025-01-22 11:56:14.045838+00:00
-s1.cz.adocean.pl,AVAILABILITY,domains.list,2025-01-22 11:56:15.909087+00:00
-s1.edipresse.adocean.pl,AVAILABILITY,domains.list,2025-01-22 11:56:18.796274+00:00
-s1.myao.adocean.pl,AVAILABILITY,domains.list,2025-01-22 11:56:20.824922+00:00
-s1.sk.adocean.pl,AVAILABILITY,domains.list,2025-01-22 11:56:22.863834+00:00
-afi.adocean.pl,AVAILABILITY,domains.list,2025-01-22 11:56:23.881658+00:00
-adspiro.pl,AVAILABILITY,domains.list,2025-01-22 11:56:24.313867+00:00
-ad.adocean.pl,AVAILABILITY,domains.list,2025-01-22 11:56:25.844224+00:00
-adserwer.intercon.pl,AVAILABILITY,domains.list,2025-01-22 11:56:27.688903+00:00
-counter.gemius.pl,AVAILABILITY,domains.list,2025-01-22 11:56:34.213973+00:00
-c.allegrostatic.pl,AVAILABILITY,domains.list,2025-01-22 11:56:35.749275+00:00
-gspro.adocean.pl,AVAILABILITY,domains.list,2025-01-22 11:56:37.095985+00:00
-intactro.adocean.pl,AVAILABILITY,domains.list,2025-01-22 11:56:38.126847+00:00
 banery.netart.pl,AVAILABILITY,domains.list,2025-01-23 11:31:49.853590+00:00
 home.hit.stat.pl,AVAILABILITY,domains.list,2025-01-23 11:40:43.111610+00:00
 iwa.hit.interia.pl,AVAILABILITY,domains.list,2025-01-23 11:40:44.396831+00:00
@@ -77,3 +63,17 @@ ohtulehtee.adocean.pl,AVAILABILITY,domains.list,2025-01-24 04:34:27.537089+00:00
 realitatero.adocean.pl,AVAILABILITY,domains.list,2025-01-24 04:34:28.428754+00:00
 ringierro.adocean.pl,AVAILABILITY,domains.list,2025-01-24 04:34:34.514287+00:00
 s1.czgde.adocean.pl,AVAILABILITY,domains.list,2025-01-24 04:34:37.535026+00:00
+s1.my.adocean.pl,AVAILABILITY,domains.list,2025-01-24 04:36:41.407181+00:00
+s1.skgde.adocean.pl,AVAILABILITY,domains.list,2025-01-24 04:36:44.545108+00:00
+s1.cz.adocean.pl,AVAILABILITY,domains.list,2025-01-24 04:36:52.440459+00:00
+s1.edipresse.adocean.pl,AVAILABILITY,domains.list,2025-01-24 04:36:55.165616+00:00
+s1.myao.adocean.pl,AVAILABILITY,domains.list,2025-01-24 04:36:58.578450+00:00
+s1.sk.adocean.pl,AVAILABILITY,domains.list,2025-01-24 04:36:59.677290+00:00
+afi.adocean.pl,AVAILABILITY,domains.list,2025-01-24 04:37:00.586455+00:00
+adspiro.pl,AVAILABILITY,domains.list,2025-01-24 04:37:01.254492+00:00
+ad.adocean.pl,AVAILABILITY,domains.list,2025-01-24 04:37:03.703169+00:00
+adserwer.intercon.pl,AVAILABILITY,domains.list,2025-01-24 04:37:04.982760+00:00
+counter.gemius.pl,AVAILABILITY,domains.list,2025-01-24 04:37:05.848445+00:00
+c.allegrostatic.pl,AVAILABILITY,domains.list,2025-01-24 04:37:06.969967+00:00
+gspro.adocean.pl,AVAILABILITY,domains.list,2025-01-24 04:37:07.959745+00:00
+intactro.adocean.pl,AVAILABILITY,domains.list,2025-01-24 04:37:10.162403+00:00
