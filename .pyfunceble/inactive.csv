@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.glossymedia.pl,AVAILABILITY,domains.list,2025-01-24 04:32:15.094127+00:00
-ua.cnt.gemius.pl,AVAILABILITY,domains.list,2025-01-24 04:32:16.395287+00:00
-www.adspiro.pl,AVAILABILITY,domains.list,2025-01-24 04:32:17.377861+00:00
-www.intrack.pl,AVAILABILITY,domains.list,2025-01-24 04:32:17.892974+00:00
-www.mystat.pl,AVAILABILITY,domains.list,2025-01-24 04:32:21.219398+00:00
-www.adserver.home.pl,AVAILABILITY,domains.list,2025-01-24 04:32:23.117389+00:00
-media.adcarousel.pl,AVAILABILITY,domains.list,2025-01-24 04:32:23.273185+00:00
-spanel.gem.pl,AVAILABILITY,domains.list,2025-01-24 04:32:27.684992+00:00
-ads.clickad.com.pl,AVAILABILITY,domains.list,2025-01-24 04:32:28.516328+00:00
-ads2.rp.pl,AVAILABILITY,domains.list,2025-01-24 04:32:28.749000+00:00
-chip.pl.intellitxt.com,AVAILABILITY,domains.list,2025-01-24 04:32:39.911671+00:00
 gg.mob.vendimob.pl,AVAILABILITY,domains.list,2025-01-24 04:32:40.881275+00:00
 onet.hit.stat.pl,AVAILABILITY,domains.list,2025-01-24 04:32:47.296947+00:00
 openx.cda.pl,AVAILABILITY,domains.list,2025-01-24 04:32:47.437414+00:00
@@ -76,3 +65,14 @@ investorbg.adocean.pl,AVAILABILITY,domains.list,2025-01-25 04:33:27.725647+00:00
 s1.delfilt.adocean.pl,AVAILABILITY,domains.list,2025-01-25 04:33:28.840727+00:00
 panel.adtify.pl,AVAILABILITY,domains.list,2025-01-25 04:33:30.412893+00:00
 openx.xenium.pl,AVAILABILITY,domains.list,2025-01-25 04:33:31.101594+00:00
+ad.glossymedia.pl,AVAILABILITY,domains.list,2025-01-26 04:32:28.919311+00:00
+ua.cnt.gemius.pl,AVAILABILITY,domains.list,2025-01-26 04:32:30.456320+00:00
+www.adspiro.pl,AVAILABILITY,domains.list,2025-01-26 04:32:30.779063+00:00
+www.intrack.pl,AVAILABILITY,domains.list,2025-01-26 04:32:31.177128+00:00
+www.mystat.pl,AVAILABILITY,domains.list,2025-01-26 04:32:35.417031+00:00
+www.adserver.home.pl,AVAILABILITY,domains.list,2025-01-26 04:32:37.289428+00:00
+media.adcarousel.pl,AVAILABILITY,domains.list,2025-01-26 04:32:37.819164+00:00
+spanel.gem.pl,AVAILABILITY,domains.list,2025-01-26 04:32:40.636913+00:00
+ads.clickad.com.pl,AVAILABILITY,domains.list,2025-01-26 04:32:41.374669+00:00
+ads2.rp.pl,AVAILABILITY,domains.list,2025-01-26 04:32:41.587682+00:00
+chip.pl.intellitxt.com,AVAILABILITY,domains.list,2025-01-26 04:32:53.387186+00:00
