@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-sisco.hit.stat.pl,AVAILABILITY,domains.list,2025-01-25 04:33:22.027910+00:00
-investorbg.adocean.pl,AVAILABILITY,domains.list,2025-01-25 04:33:27.725647+00:00
-s1.delfilt.adocean.pl,AVAILABILITY,domains.list,2025-01-25 04:33:28.840727+00:00
-panel.adtify.pl,AVAILABILITY,domains.list,2025-01-25 04:33:30.412893+00:00
-openx.xenium.pl,AVAILABILITY,domains.list,2025-01-25 04:33:31.101594+00:00
 ad.glossymedia.pl,AVAILABILITY,domains.list,2025-01-26 04:32:28.919311+00:00
 ua.cnt.gemius.pl,AVAILABILITY,domains.list,2025-01-26 04:32:30.456320+00:00
 www.adspiro.pl,AVAILABILITY,domains.list,2025-01-26 04:32:30.779063+00:00
@@ -76,3 +71,8 @@ s1.hit.stat.pl,AVAILABILITY,domains.list,2025-01-26 04:35:47.603748+00:00
 s2.hit.stat.pl,AVAILABILITY,domains.list,2025-01-26 04:35:48.860896+00:00
 s3.hit.stat.pl,AVAILABILITY,domains.list,2025-01-26 04:35:51.830239+00:00
 s4.hit.stat.pl,AVAILABILITY,domains.list,2025-01-26 04:35:52.449935+00:00
+sisco.hit.stat.pl,AVAILABILITY,domains.list,2025-01-26 09:55:54.399943+00:00
+investorbg.adocean.pl,AVAILABILITY,domains.list,2025-01-26 09:55:56.075287+00:00
+s1.delfilt.adocean.pl,AVAILABILITY,domains.list,2025-01-26 09:55:57.341439+00:00
+panel.adtify.pl,AVAILABILITY,domains.list,2025-01-26 09:55:58.330415+00:00
+openx.xenium.pl,AVAILABILITY,domains.list,2025-01-26 09:55:59.661521+00:00
