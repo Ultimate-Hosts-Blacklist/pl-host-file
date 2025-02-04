@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-sisco.hit.stat.pl,AVAILABILITY,domains.list,2025-02-03 09:58:37.927163+00:00
 investorbg.adocean.pl,AVAILABILITY,domains.list,2025-02-03 09:58:38.966415+00:00
 s1.delfilt.adocean.pl,AVAILABILITY,domains.list,2025-02-03 09:58:42.027440+00:00
 panel.adtify.pl,AVAILABILITY,domains.list,2025-02-03 09:58:42.412071+00:00
@@ -76,3 +75,4 @@ s1.hit.stat.pl,AVAILABILITY,domains.list,2025-02-03 10:02:38.889879+00:00
 s2.hit.stat.pl,AVAILABILITY,domains.list,2025-02-03 10:02:45.653351+00:00
 s3.hit.stat.pl,AVAILABILITY,domains.list,2025-02-03 10:02:51.880988+00:00
 s4.hit.stat.pl,AVAILABILITY,domains.list,2025-02-03 10:02:53.462727+00:00
+sisco.hit.stat.pl,AVAILABILITY,domains.list,2025-02-04 11:46:56.825448+00:00
