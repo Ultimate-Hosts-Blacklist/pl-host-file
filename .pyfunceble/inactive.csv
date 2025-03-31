@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad2.pl.mediainter.net,AVAILABILITY,domains.list,2025-03-30 04:13:51.599669+00:00
 chip.pl.intellitxt.com,AVAILABILITY,domains.list,2025-03-31 01:46:57.115616+00:00
 sisco.hit.stat.pl,AVAILABILITY,domains.list,2025-03-31 01:46:59.195474+00:00
 investorbg.adocean.pl,AVAILABILITY,domains.list,2025-03-31 01:47:00.576646+00:00
@@ -76,3 +75,4 @@ s1.hit.stat.pl,AVAILABILITY,domains.list,2025-03-31 01:48:34.779271+00:00
 s2.hit.stat.pl,AVAILABILITY,domains.list,2025-03-31 01:48:41.565064+00:00
 s3.hit.stat.pl,AVAILABILITY,domains.list,2025-03-31 01:48:48.801352+00:00
 s4.hit.stat.pl,AVAILABILITY,domains.list,2025-03-31 01:48:50.447325+00:00
+ad2.pl.mediainter.net,AVAILABILITY,domains.list,2025-03-31 12:00:08.048064+00:00
