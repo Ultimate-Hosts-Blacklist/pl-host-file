@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-iwa.hit.interia.pl,AVAILABILITY,domains.list,2025-04-13 04:37:31.190015+00:00
-s1.hit.stat.pl,AVAILABILITY,domains.list,2025-04-13 04:37:32.236765+00:00
-s2.hit.stat.pl,AVAILABILITY,domains.list,2025-04-13 04:37:33.396515+00:00
-s3.hit.stat.pl,AVAILABILITY,domains.list,2025-04-13 04:43:44.849643+00:00
-s4.hit.stat.pl,AVAILABILITY,domains.list,2025-04-13 04:43:46.190496+00:00
-ad2.pl.mediainter.net,AVAILABILITY,domains.list,2025-04-13 04:43:46.434558+00:00
 chip.pl.intellitxt.com,AVAILABILITY,domains.list,2025-04-14 11:02:15.079480+00:00
 sisco.hit.stat.pl,AVAILABILITY,domains.list,2025-04-14 11:02:17.001966+00:00
 investorbg.adocean.pl,AVAILABILITY,domains.list,2025-04-14 11:02:17.704211+00:00
@@ -76,3 +70,9 @@ c.allegrostatic.pl,AVAILABILITY,domains.list,2025-04-14 11:04:06.700595+00:00
 gspro.adocean.pl,AVAILABILITY,domains.list,2025-04-14 11:04:07.725113+00:00
 intactro.adocean.pl,AVAILABILITY,domains.list,2025-04-14 11:04:08.947778+00:00
 home.hit.stat.pl,AVAILABILITY,domains.list,2025-04-14 11:04:12.087843+00:00
+iwa.hit.interia.pl,AVAILABILITY,domains.list,2025-04-14 11:09:28.993789+00:00
+s1.hit.stat.pl,AVAILABILITY,domains.list,2025-04-14 11:09:31.219155+00:00
+s2.hit.stat.pl,AVAILABILITY,domains.list,2025-04-14 11:09:33.855733+00:00
+s3.hit.stat.pl,AVAILABILITY,domains.list,2025-04-14 11:09:42.203304+00:00
+s4.hit.stat.pl,AVAILABILITY,domains.list,2025-04-14 11:09:46.780208+00:00
+ad2.pl.mediainter.net,AVAILABILITY,domains.list,2025-04-14 11:09:46.974996+00:00
