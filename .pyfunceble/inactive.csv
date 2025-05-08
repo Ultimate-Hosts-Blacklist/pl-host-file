@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-gspro.adocean.pl,AVAILABILITY,domains.list,2025-05-06 07:05:42.989794+00:00
-intactro.adocean.pl,AVAILABILITY,domains.list,2025-05-06 07:05:44.329255+00:00
-home.hit.stat.pl,AVAILABILITY,domains.list,2025-05-06 07:05:47.373154+00:00
-iwa.hit.interia.pl,AVAILABILITY,domains.list,2025-05-06 07:05:49.369171+00:00
-s1.hit.stat.pl,AVAILABILITY,domains.list,2025-05-06 07:05:57.190910+00:00
-s2.hit.stat.pl,AVAILABILITY,domains.list,2025-05-06 07:06:03.884479+00:00
-s3.hit.stat.pl,AVAILABILITY,domains.list,2025-05-06 07:06:06.883542+00:00
-s4.hit.stat.pl,AVAILABILITY,domains.list,2025-05-06 07:06:09.557180+00:00
 chip.pl.intellitxt.com,AVAILABILITY,domains.list,2025-05-08 06:59:36.516971+00:00
 sisco.hit.stat.pl,AVAILABILITY,domains.list,2025-05-08 06:59:47.821724+00:00
 investorbg.adocean.pl,AVAILABILITY,domains.list,2025-05-08 06:59:49.037965+00:00
@@ -75,3 +67,11 @@ ad.adocean.pl,AVAILABILITY,domains.list,2025-05-08 07:01:08.878218+00:00
 adserwer.intercon.pl,AVAILABILITY,domains.list,2025-05-08 07:01:10.401784+00:00
 counter.gemius.pl,AVAILABILITY,domains.list,2025-05-08 07:01:11.423756+00:00
 c.allegrostatic.pl,AVAILABILITY,domains.list,2025-05-08 07:01:12.999073+00:00
+gspro.adocean.pl,AVAILABILITY,domains.list,2025-05-08 07:02:14.190258+00:00
+intactro.adocean.pl,AVAILABILITY,domains.list,2025-05-08 07:02:15.890105+00:00
+home.hit.stat.pl,AVAILABILITY,domains.list,2025-05-08 07:02:28.089368+00:00
+iwa.hit.interia.pl,AVAILABILITY,domains.list,2025-05-08 07:02:29.261422+00:00
+s1.hit.stat.pl,AVAILABILITY,domains.list,2025-05-08 07:02:35.436271+00:00
+s2.hit.stat.pl,AVAILABILITY,domains.list,2025-05-08 07:02:38.034194+00:00
+s3.hit.stat.pl,AVAILABILITY,domains.list,2025-05-08 07:02:41.159750+00:00
+s4.hit.stat.pl,AVAILABILITY,domains.list,2025-05-08 07:02:44.029531+00:00
