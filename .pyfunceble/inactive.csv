@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-counter.gemius.pl,AVAILABILITY,domains.list,2025-05-12 04:23:08.799642+00:00
-c.allegrostatic.pl,AVAILABILITY,domains.list,2025-05-12 04:23:10.011626+00:00
-gspro.adocean.pl,AVAILABILITY,domains.list,2025-05-12 04:23:11.371342+00:00
-intactro.adocean.pl,AVAILABILITY,domains.list,2025-05-12 04:23:13.091710+00:00
-home.hit.stat.pl,AVAILABILITY,domains.list,2025-05-12 04:23:14.330945+00:00
-iwa.hit.interia.pl,AVAILABILITY,domains.list,2025-05-12 04:23:16.347338+00:00
-s1.hit.stat.pl,AVAILABILITY,domains.list,2025-05-12 04:23:17.576400+00:00
-s2.hit.stat.pl,AVAILABILITY,domains.list,2025-05-12 04:23:18.604038+00:00
-s3.hit.stat.pl,AVAILABILITY,domains.list,2025-05-12 04:23:19.805313+00:00
-s4.hit.stat.pl,AVAILABILITY,domains.list,2025-05-12 04:23:26.571510+00:00
 chip.pl.intellitxt.com,AVAILABILITY,domains.list,2025-05-13 05:05:25.175484+00:00
 sisco.hit.stat.pl,AVAILABILITY,domains.list,2025-05-13 05:05:33.910707+00:00
 investorbg.adocean.pl,AVAILABILITY,domains.list,2025-05-13 05:05:35.150825+00:00
@@ -75,3 +65,13 @@ afi.adocean.pl,AVAILABILITY,domains.list,2025-05-13 05:07:15.707551+00:00
 adspiro.pl,AVAILABILITY,domains.list,2025-05-13 05:07:16.602314+00:00
 ad.adocean.pl,AVAILABILITY,domains.list,2025-05-13 05:07:17.303676+00:00
 adserwer.intercon.pl,AVAILABILITY,domains.list,2025-05-13 05:07:18.781939+00:00
+counter.gemius.pl,AVAILABILITY,domains.list,2025-05-13 05:08:19.922971+00:00
+c.allegrostatic.pl,AVAILABILITY,domains.list,2025-05-13 05:08:21.103734+00:00
+gspro.adocean.pl,AVAILABILITY,domains.list,2025-05-13 05:08:23.657350+00:00
+intactro.adocean.pl,AVAILABILITY,domains.list,2025-05-13 05:08:24.679768+00:00
+home.hit.stat.pl,AVAILABILITY,domains.list,2025-05-13 05:08:27.416665+00:00
+iwa.hit.interia.pl,AVAILABILITY,domains.list,2025-05-13 05:08:28.950667+00:00
+s1.hit.stat.pl,AVAILABILITY,domains.list,2025-05-13 05:08:30.128869+00:00
+s2.hit.stat.pl,AVAILABILITY,domains.list,2025-05-13 05:08:33.069990+00:00
+s3.hit.stat.pl,AVAILABILITY,domains.list,2025-05-13 05:08:39.382434+00:00
+s4.hit.stat.pl,AVAILABILITY,domains.list,2025-05-13 05:08:42.630476+00:00
