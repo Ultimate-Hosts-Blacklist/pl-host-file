@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-s4.hit.stat.pl,AVAILABILITY,domains.list,2025-06-11 07:00:22.262162+00:00
 1.googlenews.xorg.pl,AVAILABILITY,domains.list,2025-06-13 06:55:28.612099+00:00
 2.googlenews.xorg.pl,AVAILABILITY,domains.list,2025-06-13 06:55:29.695744+00:00
 3.googlenews.xorg.pl,AVAILABILITY,domains.list,2025-06-13 06:55:30.186860+00:00
@@ -77,3 +76,4 @@ iwa.hit.interia.pl,AVAILABILITY,domains.list,2025-06-13 06:57:14.858593+00:00
 s1.hit.stat.pl,AVAILABILITY,domains.list,2025-06-13 06:57:18.272805+00:00
 s2.hit.stat.pl,AVAILABILITY,domains.list,2025-06-13 06:57:20.971752+00:00
 s3.hit.stat.pl,AVAILABILITY,domains.list,2025-06-13 06:57:23.758684+00:00
+s4.hit.stat.pl,AVAILABILITY,domains.list,2025-06-13 06:58:31.391967+00:00
