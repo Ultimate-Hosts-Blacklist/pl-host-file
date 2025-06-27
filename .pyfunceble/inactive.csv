@@ -1,16 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adserwer.intercon.pl,AVAILABILITY,domains.list,2025-06-25 02:49:56.395671+00:00
-counter.gemius.pl,AVAILABILITY,domains.list,2025-06-25 02:50:00.685026+00:00
-c.allegrostatic.pl,AVAILABILITY,domains.list,2025-06-25 02:50:01.729351+00:00
-gspro.adocean.pl,AVAILABILITY,domains.list,2025-06-25 02:50:03.164472+00:00
-intactro.adocean.pl,AVAILABILITY,domains.list,2025-06-25 02:50:04.064420+00:00
-home.hit.stat.pl,AVAILABILITY,domains.list,2025-06-25 02:50:09.132292+00:00
-iwa.hit.interia.pl,AVAILABILITY,domains.list,2025-06-25 02:50:10.145072+00:00
-s1.hit.stat.pl,AVAILABILITY,domains.list,2025-06-25 02:50:16.445122+00:00
-s2.hit.stat.pl,AVAILABILITY,domains.list,2025-06-25 02:50:18.518433+00:00
-s3.hit.stat.pl,AVAILABILITY,domains.list,2025-06-25 02:50:19.983600+00:00
-s4.hit.stat.pl,AVAILABILITY,domains.list,2025-06-25 02:50:21.128790+00:00
-ads.edipresse.pl,AVAILABILITY,domains.list,2025-06-26 02:32:22.927647+00:00
 chip.pl.intellitxt.com,AVAILABILITY,domains.list,2025-06-27 02:43:57.372905+00:00
 sisco.hit.stat.pl,AVAILABILITY,domains.list,2025-06-27 02:44:00.520056+00:00
 investorbg.adocean.pl,AVAILABILITY,domains.list,2025-06-27 02:44:01.575520+00:00
@@ -72,3 +60,15 @@ s1.sk.adocean.pl,AVAILABILITY,domains.list,2025-06-27 02:45:29.770360+00:00
 afi.adocean.pl,AVAILABILITY,domains.list,2025-06-27 02:45:30.452868+00:00
 adspiro.pl,AVAILABILITY,domains.list,2025-06-27 02:45:30.708221+00:00
 ad.adocean.pl,AVAILABILITY,domains.list,2025-06-27 02:45:31.864056+00:00
+adserwer.intercon.pl,AVAILABILITY,domains.list,2025-06-27 02:46:36.077243+00:00
+counter.gemius.pl,AVAILABILITY,domains.list,2025-06-27 02:46:42.129428+00:00
+c.allegrostatic.pl,AVAILABILITY,domains.list,2025-06-27 02:46:42.909044+00:00
+gspro.adocean.pl,AVAILABILITY,domains.list,2025-06-27 02:46:45.771262+00:00
+intactro.adocean.pl,AVAILABILITY,domains.list,2025-06-27 02:46:46.980617+00:00
+home.hit.stat.pl,AVAILABILITY,domains.list,2025-06-27 02:46:52.370863+00:00
+iwa.hit.interia.pl,AVAILABILITY,domains.list,2025-06-27 02:46:53.768042+00:00
+s1.hit.stat.pl,AVAILABILITY,domains.list,2025-06-27 02:47:05.567444+00:00
+s2.hit.stat.pl,AVAILABILITY,domains.list,2025-06-27 02:47:12.002345+00:00
+s3.hit.stat.pl,AVAILABILITY,domains.list,2025-06-27 02:47:14.928053+00:00
+s4.hit.stat.pl,AVAILABILITY,domains.list,2025-06-27 02:47:16.080752+00:00
+ads.edipresse.pl,AVAILABILITY,domains.list,2025-06-27 02:47:17.262797+00:00
