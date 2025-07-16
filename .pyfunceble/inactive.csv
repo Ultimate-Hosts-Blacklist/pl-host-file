@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-s3.hit.stat.pl,AVAILABILITY,domains.list,2025-07-15 02:50:04.030617+00:00
-s4.hit.stat.pl,AVAILABILITY,domains.list,2025-07-15 02:50:10.256610+00:00
-ads.edipresse.pl,AVAILABILITY,domains.list,2025-07-15 02:50:11.627269+00:00
-chip.pl.intellitxt.com,AVAILABILITY,domains.list,2025-07-15 05:07:13.679907+00:00
-sisco.hit.stat.pl,AVAILABILITY,domains.list,2025-07-15 05:07:23.401126+00:00
-investorbg.adocean.pl,AVAILABILITY,domains.list,2025-07-15 05:07:24.287526+00:00
-s1.delfilt.adocean.pl,AVAILABILITY,domains.list,2025-07-15 05:07:25.991623+00:00
-panel.adtify.pl,AVAILABILITY,domains.list,2025-07-15 05:07:26.690996+00:00
-openx.xenium.pl,AVAILABILITY,domains.list,2025-07-15 05:07:28.149868+00:00
-ad.glossymedia.pl,AVAILABILITY,domains.list,2025-07-15 05:07:29.718779+00:00
 ua.cnt.gemius.pl,AVAILABILITY,domains.list,2025-07-15 05:07:36.414276+00:00
 www.adspiro.pl,AVAILABILITY,domains.list,2025-07-15 05:08:39.504835+00:00
 www.intrack.pl,AVAILABILITY,domains.list,2025-07-15 05:08:39.714038+00:00
@@ -72,3 +62,13 @@ home.hit.stat.pl,AVAILABILITY,domains.list,2025-07-16 05:07:07.440045+00:00
 iwa.hit.interia.pl,AVAILABILITY,domains.list,2025-07-16 05:07:08.707320+00:00
 s1.hit.stat.pl,AVAILABILITY,domains.list,2025-07-16 05:07:13.764370+00:00
 s2.hit.stat.pl,AVAILABILITY,domains.list,2025-07-16 05:07:15.294661+00:00
+s3.hit.stat.pl,AVAILABILITY,domains.list,2025-07-16 05:08:19.286818+00:00
+s4.hit.stat.pl,AVAILABILITY,domains.list,2025-07-16 05:08:20.692259+00:00
+ads.edipresse.pl,AVAILABILITY,domains.list,2025-07-16 05:08:21.881958+00:00
+chip.pl.intellitxt.com,AVAILABILITY,domains.list,2025-07-16 05:08:22.304280+00:00
+sisco.hit.stat.pl,AVAILABILITY,domains.list,2025-07-16 05:08:25.386378+00:00
+investorbg.adocean.pl,AVAILABILITY,domains.list,2025-07-16 05:08:26.373452+00:00
+s1.delfilt.adocean.pl,AVAILABILITY,domains.list,2025-07-16 05:08:28.028253+00:00
+panel.adtify.pl,AVAILABILITY,domains.list,2025-07-16 05:08:28.643545+00:00
+openx.xenium.pl,AVAILABILITY,domains.list,2025-07-16 05:08:29.817635+00:00
+ad.glossymedia.pl,AVAILABILITY,domains.list,2025-07-16 05:08:31.223111+00:00
