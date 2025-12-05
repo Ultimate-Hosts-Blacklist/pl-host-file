@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-stat.ekologia.pl,AVAILABILITY,domains.list,2025-12-04 11:08:30.514843+00:00
 c.allegrostatic.pl,AVAILABILITY,domains.list,2025-12-05 11:09:05.951397+00:00
 gspro.adocean.pl,AVAILABILITY,domains.list,2025-12-05 11:09:06.899855+00:00
 intactro.adocean.pl,AVAILABILITY,domains.list,2025-12-05 11:09:07.998616+00:00
@@ -79,3 +78,4 @@ ad.adocean.pl,AVAILABILITY,domains.list,2025-12-05 11:11:45.258463+00:00
 adserwer.intercon.pl,AVAILABILITY,domains.list,2025-12-05 11:11:47.896767+00:00
 counter.gemius.pl,AVAILABILITY,domains.list,2025-12-05 11:11:49.233273+00:00
 ads2.ekologia.pl,AVAILABILITY,domains.list,2025-12-05 11:11:50.746842+00:00
+stat.ekologia.pl,AVAILABILITY,domains.list,2025-12-05 11:51:15.036406+00:00
