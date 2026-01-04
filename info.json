@@ -1,8 +1,8 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2026-01-04T04:54:19.740336",
-    "end_epoch": 1767502459.740336,
+    "end_datetime": "2026-01-04T10:56:39.756098",
+    "end_epoch": 1767524199.756098,
     "name": "pl-host-file",
     "previous_end_datetime": "2026-01-04T04:54:19.740336",
     "previous_end_epoch": 1767502459.740336,
