@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.mystat.pl,AVAILABILITY,domains.list,2026-01-27 06:29:39.348654+00:00
 www.adserver.home.pl,AVAILABILITY,domains.list,2026-01-28 04:00:59.186640+00:00
 media.adcarousel.pl,AVAILABILITY,domains.list,2026-01-28 04:01:00.360275+00:00
 spanel.gem.pl,AVAILABILITY,domains.list,2026-01-28 04:01:01.739583+00:00
@@ -82,3 +81,4 @@ www.adspiro.pl,AVAILABILITY,domains.list,2026-01-28 04:03:03.380325+00:00
 www.intrack.pl,AVAILABILITY,domains.list,2026-01-28 04:03:03.781104+00:00
 c2.gostats.pl,AVAILABILITY,domains.list,2026-01-29 03:01:04.204417+00:00
 c4.gostats.pl,AVAILABILITY,domains.list,2026-01-29 03:03:17.603618+00:00
+www.mystat.pl,AVAILABILITY,domains.list,2026-01-29 03:24:23.301177+00:00
