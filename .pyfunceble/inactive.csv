@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-c4.gostats.pl,AVAILABILITY,domains.list,2026-01-29 03:03:17.603618+00:00
-www.mystat.pl,AVAILABILITY,domains.list,2026-01-29 03:24:23.301177+00:00
 www.adserver.home.pl,AVAILABILITY,domains.list,2026-01-30 03:10:22.606421+00:00
 media.adcarousel.pl,AVAILABILITY,domains.list,2026-01-30 03:10:23.299995+00:00
 spanel.gem.pl,AVAILABILITY,domains.list,2026-01-30 03:10:26.498321+00:00
@@ -81,3 +79,4 @@ ad.glossymedia.pl,AVAILABILITY,domains.list,2026-01-30 03:12:50.586746+00:00
 ua.cnt.gemius.pl,AVAILABILITY,domains.list,2026-01-30 03:12:52.526762+00:00
 www.adspiro.pl,AVAILABILITY,domains.list,2026-01-30 03:12:53.634429+00:00
 www.intrack.pl,AVAILABILITY,domains.list,2026-01-30 03:12:53.957066+00:00
+www.mystat.pl,AVAILABILITY,domains.list,2026-01-31 03:14:57.855326+00:00
