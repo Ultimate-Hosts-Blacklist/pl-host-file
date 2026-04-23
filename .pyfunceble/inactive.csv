@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-chip.pl.intellitxt.com,AVAILABILITY,domains.list,2026-04-22 07:35:10.852004+00:00
 www.mystat.pl,AVAILABILITY,domains.list,2026-04-22 12:02:12.856511+00:00
 ads.idg.com.pl,AVAILABILITY,domains.list,2026-04-22 12:02:13.457963+00:00
 www.adserver.home.pl,AVAILABILITY,domains.list,2026-04-22 12:02:18.444192+00:00
@@ -81,3 +80,4 @@ ua.cnt.gemius.pl,AVAILABILITY,domains.list,2026-04-22 12:05:07.095844+00:00
 www.adspiro.pl,AVAILABILITY,domains.list,2026-04-22 12:05:07.389409+00:00
 www.intrack.pl,AVAILABILITY,domains.list,2026-04-22 12:05:08.083104+00:00
 ad2.pl.mediainter.net,AVAILABILITY,domains.list,2026-04-22 12:05:08.332845+00:00
+chip.pl.intellitxt.com,AVAILABILITY,domains.list,2026-04-23 11:59:20.089239+00:00
